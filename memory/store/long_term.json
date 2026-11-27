@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "restaurant": {
+    "name": "RushIQ",
+    "operating_hours": {
+      "Lunch": "11:00\u201315:00",
+      "Dinner": "18:00\u201323:00"
+    },
+    "services": [
+      "Lunch",
+      "Dinner"
+    ],
+    "order_channels": [
+      "Dine-in",
+      "Takeaway",
+      "Delivery"
+    ]
+  },
+  "preferences": {
+    "shortage_penalty": 2,
+    "waste_penalty": 3,
+    "default_forecast_horizon_days": 7
+  },
+  "operational_rules": [
+    "Forecast beyond the historical range assumes stable weekly demand patterns.",
+    "Calendar flags (holiday, event, promotion) must be supplied explicitly.",
+    "Forecasts are unrounded until the prep optimizer chooses integers.",
+    "Data is synthetic; item units proxy demand, unsold units proxy waste.",
+    "New test rule."
+  ],
+  "updated_at": null
+}

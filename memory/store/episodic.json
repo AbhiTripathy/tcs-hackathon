@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "date": "2025-07-02",
+      "service": "Lunch",
+      "predictions": {
+        "Brownie": 12.0,
+        "Classic Burger": 28.5
+      },
+      "total_predicted": 40.5,
+      "actual_demand": {
+        "Brownie": 11,
+        "Classic Burger": 30
+      },
+      "total_actual": 41,
+      "mae": 1.25,
+      "bias": -0.25,
+      "flags": {
+        "is_holiday": 0,
+        "is_festival_or_event": 0,
+        "is_promotion": 0
+      },
+      "predicted_at": "2026-11-27T10:03:39.805330+00:00",
+      "outcome_recorded_at": "2026-11-27T10:03:39.810007+00:00"
+    },
+    {
+      "date": "2025-07-01",
+      "service": "Dinner",
+      "predictions": {
+        "Brownie": 23.395381399823684,
+        "Classic Burger": 55.249100835972754,
+        "Cold Coffee": 77.38353440064711,
+        "French Fries": 98.31593324355333,
+        "Margherita Pizza": 55.759378844758004,
+        "Paneer Wrap": 25.89462373725914,
+        "Veg Burger": 35.95331565826665,
+        "Veg Sandwich": 12.684394908535502
+      },
+      "total_predicted": 384.63566302881617,
+      "actual_demand": {
+        "Brownie": 23,
+        "Classic Burger": 55,
+        "Cold Coffee": 77,
+        "French Fries": 98,
+        "Margherita Pizza": 55,
+        "Paneer Wrap": 25,
+        "Veg Burger": 35,
+        "Veg Sandwich": 12
+      },
+      "total_actual": 380,
+      "mae": 0.5794578786020219,
+      "bias": 0.5794578786020219,
+      "flags": {
+        "is_holiday": 0,
+        "is_festival_or_event": 0,
+        "is_promotion": 0
+      },
+      "predicted_at": "2026-11-27T10:03:39.892356+00:00",
+      "outcome_recorded_at": "2026-11-27T10:03:39.897269+00:00"
+    }
+  ]
+}
