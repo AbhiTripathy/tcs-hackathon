@@ -1,0 +1,2881 @@
+date,time_period,menu_item,item_category,quantity_prepared,quantity_sold,unsold_quantity,shortage_quantity,preparation_time_minutes,synthetic_waste_flag
+2025-01-01,Lunch,Classic Burger,Burgers,72,65,7,0,12,0
+2025-01-01,Lunch,Veg Burger,Burgers,49,42,7,0,10,0
+2025-01-01,Lunch,Margherita Pizza,Pizza,55,48,7,0,14,0
+2025-01-01,Lunch,Paneer Wrap,Wraps,57,55,2,0,13,0
+2025-01-01,Lunch,French Fries,Sides,105,92,13,0,11,0
+2025-01-01,Lunch,Cold Coffee,Beverages,89,73,16,0,8,1
+2025-01-01,Lunch,Veg Sandwich,Sandwiches,41,36,5,0,9,0
+2025-01-01,Lunch,Brownie,Desserts,13,12,1,0,7,0
+2025-01-01,Dinner,Classic Burger,Burgers,107,92,15,0,12,0
+2025-01-01,Dinner,Veg Burger,Burgers,53,49,4,0,13,0
+2025-01-01,Dinner,Margherita Pizza,Pizza,78,70,8,0,18,0
+2025-01-01,Dinner,Paneer Wrap,Wraps,45,43,2,0,11,0
+2025-01-01,Dinner,French Fries,Sides,158,137,21,0,14,0
+2025-01-01,Dinner,Cold Coffee,Beverages,132,135,0,3,13,0
+2025-01-01,Dinner,Veg Sandwich,Sandwiches,22,20,2,0,8,0
+2025-01-01,Dinner,Brownie,Desserts,33,37,0,4,5,0
+2025-01-02,Lunch,Classic Burger,Burgers,32,32,0,0,10,0
+2025-01-02,Lunch,Veg Burger,Burgers,35,35,0,0,9,0
+2025-01-02,Lunch,Margherita Pizza,Pizza,24,26,0,2,14,0
+2025-01-02,Lunch,Paneer Wrap,Wraps,41,37,4,0,9,0
+2025-01-02,Lunch,French Fries,Sides,79,70,9,0,11,0
+2025-01-02,Lunch,Cold Coffee,Beverages,46,47,0,1,5,0
+2025-01-02,Lunch,Veg Sandwich,Sandwiches,29,26,3,0,7,0
+2025-01-02,Lunch,Brownie,Desserts,6,5,1,0,8,0
+2025-01-02,Dinner,Classic Burger,Burgers,86,76,10,0,12,0
+2025-01-02,Dinner,Veg Burger,Burgers,42,35,7,0,10,1
+2025-01-02,Dinner,Margherita Pizza,Pizza,59,56,3,0,16,0
+2025-01-02,Dinner,Paneer Wrap,Wraps,37,35,2,0,8,0
+2025-01-02,Dinner,French Fries,Sides,105,89,16,0,9,0
+2025-01-02,Dinner,Cold Coffee,Beverages,88,85,3,0,10,0
+2025-01-02,Dinner,Veg Sandwich,Sandwiches,16,15,1,0,9,0
+2025-01-02,Dinner,Brownie,Desserts,27,23,4,0,7,0
+2025-01-03,Lunch,Classic Burger,Burgers,50,40,10,0,11,1
+2025-01-03,Lunch,Veg Burger,Burgers,36,28,8,0,9,1
+2025-01-03,Lunch,Margherita Pizza,Pizza,40,32,8,0,13,1
+2025-01-03,Lunch,Paneer Wrap,Wraps,48,44,4,0,11,0
+2025-01-03,Lunch,French Fries,Sides,100,91,9,0,9,0
+2025-01-03,Lunch,Cold Coffee,Beverages,48,40,8,0,5,1
+2025-01-03,Lunch,Veg Sandwich,Sandwiches,34,33,1,0,8,0
+2025-01-03,Lunch,Brownie,Desserts,12,11,1,0,5,0
+2025-01-03,Dinner,Classic Burger,Burgers,59,60,0,1,12,0
+2025-01-03,Dinner,Veg Burger,Burgers,43,42,1,0,10,0
+2025-01-03,Dinner,Margherita Pizza,Pizza,63,52,11,0,15,1
+2025-01-03,Dinner,Paneer Wrap,Wraps,29,29,0,0,8,0
+2025-01-03,Dinner,French Fries,Sides,100,101,0,1,14,0
+2025-01-03,Dinner,Cold Coffee,Beverages,117,117,0,0,11,0
+2025-01-03,Dinner,Veg Sandwich,Sandwiches,20,19,1,0,5,0
+2025-01-03,Dinner,Brownie,Desserts,25,25,0,0,7,0
+2025-01-04,Lunch,Classic Burger,Burgers,69,62,7,0,12,0
+2025-01-04,Lunch,Veg Burger,Burgers,54,39,15,0,13,1
+2025-01-04,Lunch,Margherita Pizza,Pizza,51,52,0,1,17,0
+2025-01-04,Lunch,Paneer Wrap,Wraps,63,53,10,0,11,1
+2025-01-04,Lunch,French Fries,Sides,105,84,21,0,6,1
+2025-01-04,Lunch,Cold Coffee,Beverages,63,59,4,0,5,0
+2025-01-04,Lunch,Veg Sandwich,Sandwiches,50,43,7,0,9,0
+2025-01-04,Lunch,Brownie,Desserts,14,12,2,0,7,0
+2025-01-04,Dinner,Classic Burger,Burgers,111,97,14,0,16,0
+2025-01-04,Dinner,Veg Burger,Burgers,61,51,10,0,9,1
+2025-01-04,Dinner,Margherita Pizza,Pizza,107,91,16,0,21,0
+2025-01-04,Dinner,Paneer Wrap,Wraps,44,45,0,1,9,0
+2025-01-04,Dinner,French Fries,Sides,212,174,38,0,17,1
+2025-01-04,Dinner,Cold Coffee,Beverages,88,77,11,0,10,0
+2025-01-04,Dinner,Veg Sandwich,Sandwiches,23,21,2,0,8,0
+2025-01-04,Dinner,Brownie,Desserts,36,34,2,0,8,0
+2025-01-05,Lunch,Classic Burger,Burgers,77,62,15,0,11,1
+2025-01-05,Lunch,Veg Burger,Burgers,43,39,4,0,12,0
+2025-01-05,Lunch,Margherita Pizza,Pizza,64,48,16,0,15,1
+2025-01-05,Lunch,Paneer Wrap,Wraps,42,38,4,0,12,0
+2025-01-05,Lunch,French Fries,Sides,89,78,11,0,10,0
+2025-01-05,Lunch,Cold Coffee,Beverages,66,63,3,0,8,0
+2025-01-05,Lunch,Veg Sandwich,Sandwiches,49,45,4,0,10,0
+2025-01-05,Lunch,Brownie,Desserts,14,13,1,0,6,0
+2025-01-05,Dinner,Classic Burger,Burgers,78,87,0,9,12,0
+2025-01-05,Dinner,Veg Burger,Burgers,51,43,8,0,10,1
+2025-01-05,Dinner,Margherita Pizza,Pizza,92,84,8,0,20,0
+2025-01-05,Dinner,Paneer Wrap,Wraps,39,41,0,2,9,0
+2025-01-05,Dinner,French Fries,Sides,151,139,12,0,11,0
+2025-01-05,Dinner,Cold Coffee,Beverages,150,122,28,0,11,1
+2025-01-05,Dinner,Veg Sandwich,Sandwiches,21,18,3,0,8,0
+2025-01-05,Dinner,Brownie,Desserts,41,32,9,0,7,1
+2025-01-06,Lunch,Classic Burger,Burgers,44,39,5,0,11,0
+2025-01-06,Lunch,Veg Burger,Burgers,29,32,0,3,8,0
+2025-01-06,Lunch,Margherita Pizza,Pizza,34,28,6,0,13,1
+2025-01-06,Lunch,Paneer Wrap,Wraps,43,38,5,0,11,0
+2025-01-06,Lunch,French Fries,Sides,76,65,11,0,10,0
+2025-01-06,Lunch,Cold Coffee,Beverages,47,44,3,0,7,0
+2025-01-06,Lunch,Veg Sandwich,Sandwiches,20,22,0,2,10,0
+2025-01-06,Lunch,Brownie,Desserts,8,10,0,2,5,0
+2025-01-06,Dinner,Classic Burger,Burgers,68,72,0,4,13,0
+2025-01-06,Dinner,Veg Burger,Burgers,42,37,5,0,11,0
+2025-01-06,Dinner,Margherita Pizza,Pizza,52,52,0,0,14,0
+2025-01-06,Dinner,Paneer Wrap,Wraps,36,34,2,0,12,0
+2025-01-06,Dinner,French Fries,Sides,104,103,1,0,11,0
+2025-01-06,Dinner,Cold Coffee,Beverages,98,81,17,0,5,1
+2025-01-06,Dinner,Veg Sandwich,Sandwiches,15,14,1,0,7,0
+2025-01-06,Dinner,Brownie,Desserts,21,22,0,1,8,0
+2025-01-07,Lunch,Classic Burger,Burgers,44,39,5,0,14,0
+2025-01-07,Lunch,Veg Burger,Burgers,28,28,0,0,7,0
+2025-01-07,Lunch,Margherita Pizza,Pizza,28,25,3,0,13,0
+2025-01-07,Lunch,Paneer Wrap,Wraps,39,38,1,0,10,0
+2025-01-07,Lunch,French Fries,Sides,67,66,1,0,9,0
+2025-01-07,Lunch,Cold Coffee,Beverages,34,32,2,0,6,0
+2025-01-07,Lunch,Veg Sandwich,Sandwiches,18,19,0,1,8,0
+2025-01-07,Lunch,Brownie,Desserts,13,12,1,0,8,0
+2025-01-07,Dinner,Classic Burger,Burgers,40,43,0,3,9,0
+2025-01-07,Dinner,Veg Burger,Burgers,37,33,4,0,7,0
+2025-01-07,Dinner,Margherita Pizza,Pizza,60,58,2,0,15,0
+2025-01-07,Dinner,Paneer Wrap,Wraps,27,29,0,2,10,0
+2025-01-07,Dinner,French Fries,Sides,88,83,5,0,10,0
+2025-01-07,Dinner,Cold Coffee,Beverages,78,74,4,0,10,0
+2025-01-07,Dinner,Veg Sandwich,Sandwiches,17,13,4,0,6,0
+2025-01-07,Dinner,Brownie,Desserts,17,16,1,0,5,0
+2025-01-08,Lunch,Classic Burger,Burgers,48,41,7,0,14,0
+2025-01-08,Lunch,Veg Burger,Burgers,36,31,5,0,7,0
+2025-01-08,Lunch,Margherita Pizza,Pizza,34,31,3,0,17,0
+2025-01-08,Lunch,Paneer Wrap,Wraps,31,31,0,0,9,0
+2025-01-08,Lunch,French Fries,Sides,74,79,0,5,10,0
+2025-01-08,Lunch,Cold Coffee,Beverages,44,39,5,0,5,0
+2025-01-08,Lunch,Veg Sandwich,Sandwiches,31,24,7,0,8,1
+2025-01-08,Lunch,Brownie,Desserts,10,9,1,0,8,0
+2025-01-08,Dinner,Classic Burger,Burgers,54,51,3,0,11,0
+2025-01-08,Dinner,Veg Burger,Burgers,43,41,2,0,10,0
+2025-01-08,Dinner,Margherita Pizza,Pizza,57,56,1,0,15,0
+2025-01-08,Dinner,Paneer Wrap,Wraps,22,20,2,0,10,0
+2025-01-08,Dinner,French Fries,Sides,99,99,0,0,10,0
+2025-01-08,Dinner,Cold Coffee,Beverages,96,82,14,0,7,0
+2025-01-08,Dinner,Veg Sandwich,Sandwiches,15,16,0,1,8,0
+2025-01-08,Dinner,Brownie,Desserts,26,22,4,0,5,0
+2025-01-09,Lunch,Classic Burger,Burgers,35,31,4,0,11,0
+2025-01-09,Lunch,Veg Burger,Burgers,29,26,3,0,10,0
+2025-01-09,Lunch,Margherita Pizza,Pizza,34,29,5,0,15,1
+2025-01-09,Lunch,Paneer Wrap,Wraps,34,28,6,0,7,1
+2025-01-09,Lunch,French Fries,Sides,67,52,15,0,8,1
+2025-01-09,Lunch,Cold Coffee,Beverages,43,40,3,0,5,0
+2025-01-09,Lunch,Veg Sandwich,Sandwiches,36,37,0,1,10,0
+2025-01-09,Lunch,Brownie,Desserts,11,10,1,0,7,0
+2025-01-09,Dinner,Classic Burger,Burgers,67,60,7,0,11,0
+2025-01-09,Dinner,Veg Burger,Burgers,38,31,7,0,10,1
+2025-01-09,Dinner,Margherita Pizza,Pizza,77,68,9,0,17,0
+2025-01-09,Dinner,Paneer Wrap,Wraps,31,24,7,0,10,1
+2025-01-09,Dinner,French Fries,Sides,117,102,15,0,12,0
+2025-01-09,Dinner,Cold Coffee,Beverages,70,58,12,0,9,1
+2025-01-09,Dinner,Veg Sandwich,Sandwiches,18,16,2,0,8,0
+2025-01-09,Dinner,Brownie,Desserts,25,27,0,2,6,0
+2025-01-10,Lunch,Classic Burger,Burgers,69,61,8,0,12,0
+2025-01-10,Lunch,Veg Burger,Burgers,40,36,4,0,10,0
+2025-01-10,Lunch,Margherita Pizza,Pizza,32,33,0,1,11,0
+2025-01-10,Lunch,Paneer Wrap,Wraps,38,35,3,0,11,0
+2025-01-10,Lunch,French Fries,Sides,73,69,4,0,8,0
+2025-01-10,Lunch,Cold Coffee,Beverages,74,58,16,0,7,1
+2025-01-10,Lunch,Veg Sandwich,Sandwiches,50,47,3,0,9,0
+2025-01-10,Lunch,Brownie,Desserts,12,12,0,0,7,0
+2025-01-10,Dinner,Classic Burger,Burgers,91,81,10,0,14,0
+2025-01-10,Dinner,Veg Burger,Burgers,58,50,8,0,9,0
+2025-01-10,Dinner,Margherita Pizza,Pizza,62,60,2,0,17,0
+2025-01-10,Dinner,Paneer Wrap,Wraps,33,30,3,0,10,0
+2025-01-10,Dinner,French Fries,Sides,124,137,0,13,14,0
+2025-01-10,Dinner,Cold Coffee,Beverages,120,114,6,0,7,0
+2025-01-10,Dinner,Veg Sandwich,Sandwiches,16,16,0,0,7,0
+2025-01-10,Dinner,Brownie,Desserts,27,28,0,1,8,0
+2025-01-11,Lunch,Classic Burger,Burgers,48,44,4,0,13,0
+2025-01-11,Lunch,Veg Burger,Burgers,39,40,0,1,10,0
+2025-01-11,Lunch,Margherita Pizza,Pizza,43,37,6,0,14,0
+2025-01-11,Lunch,Paneer Wrap,Wraps,58,58,0,0,12,0
+2025-01-11,Lunch,French Fries,Sides,128,115,13,0,11,0
+2025-01-11,Lunch,Cold Coffee,Beverages,67,59,8,0,7,0
+2025-01-11,Lunch,Veg Sandwich,Sandwiches,50,42,8,0,11,1
+2025-01-11,Lunch,Brownie,Desserts,14,13,1,0,7,0
+2025-01-11,Dinner,Classic Burger,Burgers,107,88,19,0,15,1
+2025-01-11,Dinner,Veg Burger,Burgers,57,50,7,0,5,0
+2025-01-11,Dinner,Margherita Pizza,Pizza,66,64,2,0,19,0
+2025-01-11,Dinner,Paneer Wrap,Wraps,43,38,5,0,12,0
+2025-01-11,Dinner,French Fries,Sides,159,148,11,0,13,0
+2025-01-11,Dinner,Cold Coffee,Beverages,137,122,15,0,12,0
+2025-01-11,Dinner,Veg Sandwich,Sandwiches,19,19,0,0,5,0
+2025-01-11,Dinner,Brownie,Desserts,38,35,3,0,9,0
+2025-01-12,Lunch,Classic Burger,Burgers,65,57,8,0,12,0
+2025-01-12,Lunch,Veg Burger,Burgers,52,41,11,0,12,1
+2025-01-12,Lunch,Margherita Pizza,Pizza,48,43,5,0,15,0
+2025-01-12,Lunch,Paneer Wrap,Wraps,60,57,3,0,12,0
+2025-01-12,Lunch,French Fries,Sides,115,98,17,0,11,0
+2025-01-12,Lunch,Cold Coffee,Beverages,48,51,0,3,5,0
+2025-01-12,Lunch,Veg Sandwich,Sandwiches,37,36,1,0,9,0
+2025-01-12,Lunch,Brownie,Desserts,15,13,2,0,5,0
+2025-01-12,Dinner,Classic Burger,Burgers,82,75,7,0,15,0
+2025-01-12,Dinner,Veg Burger,Burgers,49,49,0,0,12,0
+2025-01-12,Dinner,Margherita Pizza,Pizza,90,90,0,0,19,0
+2025-01-12,Dinner,Paneer Wrap,Wraps,46,34,12,0,7,1
+2025-01-12,Dinner,French Fries,Sides,189,174,15,0,18,0
+2025-01-12,Dinner,Cold Coffee,Beverages,118,103,15,0,12,0
+2025-01-12,Dinner,Veg Sandwich,Sandwiches,23,22,1,0,5,0
+2025-01-12,Dinner,Brownie,Desserts,39,29,10,0,6,1
+2025-01-13,Lunch,Classic Burger,Burgers,51,45,6,0,11,0
+2025-01-13,Lunch,Veg Burger,Burgers,29,31,0,2,10,0
+2025-01-13,Lunch,Margherita Pizza,Pizza,34,29,5,0,14,1
+2025-01-13,Lunch,Paneer Wrap,Wraps,42,33,9,0,10,1
+2025-01-13,Lunch,French Fries,Sides,89,77,12,0,10,0
+2025-01-13,Lunch,Cold Coffee,Beverages,37,36,1,0,7,0
+2025-01-13,Lunch,Veg Sandwich,Sandwiches,30,32,0,2,8,0
+2025-01-13,Lunch,Brownie,Desserts,9,9,0,0,6,0
+2025-01-13,Dinner,Classic Burger,Burgers,49,48,1,0,11,0
+2025-01-13,Dinner,Veg Burger,Burgers,39,36,3,0,9,0
+2025-01-13,Dinner,Margherita Pizza,Pizza,43,42,1,0,17,0
+2025-01-13,Dinner,Paneer Wrap,Wraps,31,28,3,0,9,0
+2025-01-13,Dinner,French Fries,Sides,107,102,5,0,11,0
+2025-01-13,Dinner,Cold Coffee,Beverages,100,83,17,0,9,1
+2025-01-13,Dinner,Veg Sandwich,Sandwiches,20,18,2,0,7,0
+2025-01-13,Dinner,Brownie,Desserts,21,23,0,2,5,0
+2025-01-14,Lunch,Classic Burger,Burgers,34,34,0,0,9,0
+2025-01-14,Lunch,Veg Burger,Burgers,40,38,2,0,8,0
+2025-01-14,Lunch,Margherita Pizza,Pizza,23,21,2,0,11,0
+2025-01-14,Lunch,Paneer Wrap,Wraps,35,31,4,0,7,0
+2025-01-14,Lunch,French Fries,Sides,69,72,0,3,9,0
+2025-01-14,Lunch,Cold Coffee,Beverages,53,42,11,0,7,1
+2025-01-14,Lunch,Veg Sandwich,Sandwiches,33,26,7,0,6,1
+2025-01-14,Lunch,Brownie,Desserts,6,6,0,0,5,0
+2025-01-14,Dinner,Classic Burger,Burgers,57,55,2,0,11,0
+2025-01-14,Dinner,Veg Burger,Burgers,37,31,6,0,8,1
+2025-01-14,Dinner,Margherita Pizza,Pizza,51,53,0,2,13,0
+2025-01-14,Dinner,Paneer Wrap,Wraps,21,19,2,0,10,0
+2025-01-14,Dinner,French Fries,Sides,117,101,16,0,12,0
+2025-01-14,Dinner,Cold Coffee,Beverages,74,67,7,0,9,0
+2025-01-14,Dinner,Veg Sandwich,Sandwiches,15,16,0,1,10,0
+2025-01-14,Dinner,Brownie,Desserts,20,20,0,0,5,0
+2025-01-15,Lunch,Classic Burger,Burgers,46,37,9,0,9,1
+2025-01-15,Lunch,Veg Burger,Burgers,38,32,6,0,9,1
+2025-01-15,Lunch,Margherita Pizza,Pizza,41,37,4,0,16,0
+2025-01-15,Lunch,Paneer Wrap,Wraps,35,34,1,0,10,0
+2025-01-15,Lunch,French Fries,Sides,79,74,5,0,10,0
+2025-01-15,Lunch,Cold Coffee,Beverages,49,39,10,0,6,1
+2025-01-15,Lunch,Veg Sandwich,Sandwiches,24,28,0,4,9,0
+2025-01-15,Lunch,Brownie,Desserts,10,9,1,0,9,0
+2025-01-15,Dinner,Classic Burger,Burgers,65,61,4,0,9,0
+2025-01-15,Dinner,Veg Burger,Burgers,39,38,1,0,8,0
+2025-01-15,Dinner,Margherita Pizza,Pizza,42,50,0,8,16,0
+2025-01-15,Dinner,Paneer Wrap,Wraps,31,31,0,0,11,0
+2025-01-15,Dinner,French Fries,Sides,67,65,2,0,9,0
+2025-01-15,Dinner,Cold Coffee,Beverages,90,82,8,0,6,0
+2025-01-15,Dinner,Veg Sandwich,Sandwiches,14,16,0,2,7,0
+2025-01-15,Dinner,Brownie,Desserts,29,25,4,0,7,0
+2025-01-16,Lunch,Classic Burger,Burgers,47,40,7,0,15,0
+2025-01-16,Lunch,Veg Burger,Burgers,33,29,4,0,8,0
+2025-01-16,Lunch,Margherita Pizza,Pizza,27,26,1,0,15,0
+2025-01-16,Lunch,Paneer Wrap,Wraps,35,36,0,1,10,0
+2025-01-16,Lunch,French Fries,Sides,91,86,5,0,10,0
+2025-01-16,Lunch,Cold Coffee,Beverages,47,40,7,0,5,0
+2025-01-16,Lunch,Veg Sandwich,Sandwiches,37,31,6,0,10,1
+2025-01-16,Lunch,Brownie,Desserts,6,5,1,0,5,0
+2025-01-16,Dinner,Classic Burger,Burgers,61,55,6,0,12,0
+2025-01-16,Dinner,Veg Burger,Burgers,47,44,3,0,10,0
+2025-01-16,Dinner,Margherita Pizza,Pizza,44,44,0,0,16,0
+2025-01-16,Dinner,Paneer Wrap,Wraps,26,25,1,0,9,0
+2025-01-16,Dinner,French Fries,Sides,80,77,3,0,10,0
+2025-01-16,Dinner,Cold Coffee,Beverages,75,79,0,4,10,0
+2025-01-16,Dinner,Veg Sandwich,Sandwiches,21,18,3,0,9,0
+2025-01-16,Dinner,Brownie,Desserts,25,23,2,0,9,0
+2025-01-17,Lunch,Classic Burger,Burgers,52,44,8,0,12,1
+2025-01-17,Lunch,Veg Burger,Burgers,37,37,0,0,7,0
+2025-01-17,Lunch,Margherita Pizza,Pizza,28,35,0,7,13,0
+2025-01-17,Lunch,Paneer Wrap,Wraps,44,46,0,2,12,0
+2025-01-17,Lunch,French Fries,Sides,80,75,5,0,8,0
+2025-01-17,Lunch,Cold Coffee,Beverages,48,45,3,0,8,0
+2025-01-17,Lunch,Veg Sandwich,Sandwiches,40,32,8,0,9,1
+2025-01-17,Lunch,Brownie,Desserts,12,11,1,0,7,0
+2025-01-17,Dinner,Classic Burger,Burgers,59,62,0,3,10,0
+2025-01-17,Dinner,Veg Burger,Burgers,37,42,0,5,10,0
+2025-01-17,Dinner,Margherita Pizza,Pizza,80,63,17,0,17,1
+2025-01-17,Dinner,Paneer Wrap,Wraps,40,34,6,0,8,1
+2025-01-17,Dinner,French Fries,Sides,139,127,12,0,12,0
+2025-01-17,Dinner,Cold Coffee,Beverages,73,74,0,1,9,0
+2025-01-17,Dinner,Veg Sandwich,Sandwiches,18,15,3,0,8,0
+2025-01-17,Dinner,Brownie,Desserts,27,25,2,0,10,0
+2025-01-18,Lunch,Classic Burger,Burgers,67,56,11,0,9,1
+2025-01-18,Lunch,Veg Burger,Burgers,42,34,8,0,9,1
+2025-01-18,Lunch,Margherita Pizza,Pizza,34,32,2,0,14,0
+2025-01-18,Lunch,Paneer Wrap,Wraps,53,49,4,0,7,0
+2025-01-18,Lunch,French Fries,Sides,104,106,0,2,14,0
+2025-01-18,Lunch,Cold Coffee,Beverages,53,53,0,0,9,0
+2025-01-18,Lunch,Veg Sandwich,Sandwiches,42,40,2,0,11,0
+2025-01-18,Lunch,Brownie,Desserts,13,12,1,0,6,0
+2025-01-18,Dinner,Classic Burger,Burgers,61,63,0,2,11,0
+2025-01-18,Dinner,Veg Burger,Burgers,52,48,4,0,10,0
+2025-01-18,Dinner,Margherita Pizza,Pizza,94,84,10,0,19,0
+2025-01-18,Dinner,Paneer Wrap,Wraps,37,33,4,0,9,0
+2025-01-18,Dinner,French Fries,Sides,105,119,0,14,13,0
+2025-01-18,Dinner,Cold Coffee,Beverages,150,126,24,0,10,0
+2025-01-18,Dinner,Veg Sandwich,Sandwiches,22,21,1,0,6,0
+2025-01-18,Dinner,Brownie,Desserts,37,34,3,0,10,0
+2025-01-19,Lunch,Classic Burger,Burgers,58,47,11,0,9,1
+2025-01-19,Lunch,Veg Burger,Burgers,47,42,5,0,10,0
+2025-01-19,Lunch,Margherita Pizza,Pizza,45,41,4,0,15,0
+2025-01-19,Lunch,Paneer Wrap,Wraps,43,47,0,4,11,0
+2025-01-19,Lunch,French Fries,Sides,108,89,19,0,11,1
+2025-01-19,Lunch,Cold Coffee,Beverages,71,70,1,0,8,0
+2025-01-19,Lunch,Veg Sandwich,Sandwiches,37,42,0,5,10,0
+2025-01-19,Lunch,Brownie,Desserts,13,12,1,0,5,0
+2025-01-19,Dinner,Classic Burger,Burgers,105,86,19,0,14,1
+2025-01-19,Dinner,Veg Burger,Burgers,55,48,7,0,10,0
+2025-01-19,Dinner,Margherita Pizza,Pizza,94,80,14,0,18,0
+2025-01-19,Dinner,Paneer Wrap,Wraps,69,54,15,0,13,1
+2025-01-19,Dinner,French Fries,Sides,145,133,12,0,11,0
+2025-01-19,Dinner,Cold Coffee,Beverages,133,111,22,0,11,1
+2025-01-19,Dinner,Veg Sandwich,Sandwiches,19,20,0,1,7,0
+2025-01-19,Dinner,Brownie,Desserts,38,38,0,0,8,0
+2025-01-20,Lunch,Classic Burger,Burgers,36,38,0,2,9,0
+2025-01-20,Lunch,Veg Burger,Burgers,29,28,1,0,13,0
+2025-01-20,Lunch,Margherita Pizza,Pizza,24,23,1,0,14,0
+2025-01-20,Lunch,Paneer Wrap,Wraps,26,25,1,0,9,0
+2025-01-20,Lunch,French Fries,Sides,78,78,0,0,10,0
+2025-01-20,Lunch,Cold Coffee,Beverages,38,39,0,1,7,0
+2025-01-20,Lunch,Veg Sandwich,Sandwiches,28,24,4,0,8,0
+2025-01-20,Lunch,Brownie,Desserts,7,7,0,0,5,0
+2025-01-20,Dinner,Classic Burger,Burgers,58,55,3,0,13,0
+2025-01-20,Dinner,Veg Burger,Burgers,33,30,3,0,9,0
+2025-01-20,Dinner,Margherita Pizza,Pizza,71,69,2,0,16,0
+2025-01-20,Dinner,Paneer Wrap,Wraps,31,30,1,0,8,0
+2025-01-20,Dinner,French Fries,Sides,118,93,25,0,14,1
+2025-01-20,Dinner,Cold Coffee,Beverages,68,66,2,0,6,0
+2025-01-20,Dinner,Veg Sandwich,Sandwiches,15,13,2,0,6,0
+2025-01-20,Dinner,Brownie,Desserts,32,31,1,0,7,0
+2025-01-21,Lunch,Classic Burger,Burgers,34,30,4,0,8,0
+2025-01-21,Lunch,Veg Burger,Burgers,34,29,5,0,9,1
+2025-01-21,Lunch,Margherita Pizza,Pizza,23,19,4,0,15,0
+2025-01-21,Lunch,Paneer Wrap,Wraps,25,27,0,2,9,0
+2025-01-21,Lunch,French Fries,Sides,70,67,3,0,8,0
+2025-01-21,Lunch,Cold Coffee,Beverages,42,40,2,0,6,0
+2025-01-21,Lunch,Veg Sandwich,Sandwiches,22,21,1,0,9,0
+2025-01-21,Lunch,Brownie,Desserts,4,4,0,0,6,0
+2025-01-21,Dinner,Classic Burger,Burgers,56,49,7,0,11,0
+2025-01-21,Dinner,Veg Burger,Burgers,29,25,4,0,7,0
+2025-01-21,Dinner,Margherita Pizza,Pizza,60,59,1,0,16,0
+2025-01-21,Dinner,Paneer Wrap,Wraps,34,30,4,0,10,0
+2025-01-21,Dinner,French Fries,Sides,92,97,0,5,9,0
+2025-01-21,Dinner,Cold Coffee,Beverages,56,53,3,0,8,0
+2025-01-21,Dinner,Veg Sandwich,Sandwiches,15,13,2,0,8,0
+2025-01-21,Dinner,Brownie,Desserts,22,20,2,0,5,0
+2025-01-22,Lunch,Classic Burger,Burgers,51,42,9,0,11,1
+2025-01-22,Lunch,Veg Burger,Burgers,33,31,2,0,10,0
+2025-01-22,Lunch,Margherita Pizza,Pizza,33,34,0,1,13,0
+2025-01-22,Lunch,Paneer Wrap,Wraps,35,28,7,0,7,1
+2025-01-22,Lunch,French Fries,Sides,67,75,0,8,10,0
+2025-01-22,Lunch,Cold Coffee,Beverages,42,36,6,0,7,0
+2025-01-22,Lunch,Veg Sandwich,Sandwiches,27,26,1,0,7,0
+2025-01-22,Lunch,Brownie,Desserts,5,5,0,0,5,0
+2025-01-22,Dinner,Classic Burger,Burgers,70,63,7,0,12,0
+2025-01-22,Dinner,Veg Burger,Burgers,45,39,6,0,5,0
+2025-01-22,Dinner,Margherita Pizza,Pizza,65,66,0,1,18,0
+2025-01-22,Dinner,Paneer Wrap,Wraps,21,21,0,0,8,0
+2025-01-22,Dinner,French Fries,Sides,94,89,5,0,9,0
+2025-01-22,Dinner,Cold Coffee,Beverages,88,89,0,1,8,0
+2025-01-22,Dinner,Veg Sandwich,Sandwiches,13,14,0,1,5,0
+2025-01-22,Dinner,Brownie,Desserts,21,22,0,1,5,0
+2025-01-23,Lunch,Classic Burger,Burgers,44,48,0,4,10,0
+2025-01-23,Lunch,Veg Burger,Burgers,30,31,0,1,9,0
+2025-01-23,Lunch,Margherita Pizza,Pizza,30,28,2,0,14,0
+2025-01-23,Lunch,Paneer Wrap,Wraps,36,33,3,0,9,0
+2025-01-23,Lunch,French Fries,Sides,89,76,13,0,6,0
+2025-01-23,Lunch,Cold Coffee,Beverages,49,44,5,0,5,0
+2025-01-23,Lunch,Veg Sandwich,Sandwiches,30,29,1,0,8,0
+2025-01-23,Lunch,Brownie,Desserts,8,7,1,0,6,0
+2025-01-23,Dinner,Classic Burger,Burgers,65,57,8,0,12,0
+2025-01-23,Dinner,Veg Burger,Burgers,39,37,2,0,9,0
+2025-01-23,Dinner,Margherita Pizza,Pizza,74,61,13,0,16,1
+2025-01-23,Dinner,Paneer Wrap,Wraps,24,25,0,1,11,0
+2025-01-23,Dinner,French Fries,Sides,124,111,13,0,12,0
+2025-01-23,Dinner,Cold Coffee,Beverages,67,70,0,3,9,0
+2025-01-23,Dinner,Veg Sandwich,Sandwiches,12,10,2,0,6,0
+2025-01-23,Dinner,Brownie,Desserts,28,25,3,0,6,0
+2025-01-24,Lunch,Classic Burger,Burgers,78,67,11,0,16,0
+2025-01-24,Lunch,Veg Burger,Burgers,41,35,6,0,10,0
+2025-01-24,Lunch,Margherita Pizza,Pizza,38,39,0,1,16,0
+2025-01-24,Lunch,Paneer Wrap,Wraps,67,64,3,0,9,0
+2025-01-24,Lunch,French Fries,Sides,105,98,7,0,11,0
+2025-01-24,Lunch,Cold Coffee,Beverages,79,74,5,0,6,0
+2025-01-24,Lunch,Veg Sandwich,Sandwiches,28,28,0,0,6,0
+2025-01-24,Lunch,Brownie,Desserts,11,11,0,0,6,0
+2025-01-24,Dinner,Classic Burger,Burgers,106,90,16,0,14,0
+2025-01-24,Dinner,Veg Burger,Burgers,50,45,5,0,11,0
+2025-01-24,Dinner,Margherita Pizza,Pizza,69,75,0,6,20,0
+2025-01-24,Dinner,Paneer Wrap,Wraps,45,38,7,0,9,1
+2025-01-24,Dinner,French Fries,Sides,175,147,28,0,15,0
+2025-01-24,Dinner,Cold Coffee,Beverages,148,126,22,0,13,0
+2025-01-24,Dinner,Veg Sandwich,Sandwiches,21,20,1,0,8,0
+2025-01-24,Dinner,Brownie,Desserts,45,38,7,0,8,1
+2025-01-25,Lunch,Classic Burger,Burgers,85,72,13,0,14,0
+2025-01-25,Lunch,Veg Burger,Burgers,70,51,19,0,11,1
+2025-01-25,Lunch,Margherita Pizza,Pizza,47,39,8,0,14,1
+2025-01-25,Lunch,Paneer Wrap,Wraps,54,53,1,0,9,0
+2025-01-25,Lunch,French Fries,Sides,118,101,17,0,10,0
+2025-01-25,Lunch,Cold Coffee,Beverages,66,57,9,0,9,0
+2025-01-25,Lunch,Veg Sandwich,Sandwiches,61,45,16,0,7,1
+2025-01-25,Lunch,Brownie,Desserts,11,11,0,0,5,0
+2025-01-25,Dinner,Classic Burger,Burgers,71,67,4,0,16,0
+2025-01-25,Dinner,Veg Burger,Burgers,51,55,0,4,11,0
+2025-01-25,Dinner,Margherita Pizza,Pizza,95,81,14,0,16,0
+2025-01-25,Dinner,Paneer Wrap,Wraps,33,36,0,3,9,0
+2025-01-25,Dinner,French Fries,Sides,178,147,31,0,14,1
+2025-01-25,Dinner,Cold Coffee,Beverages,121,103,18,0,12,0
+2025-01-25,Dinner,Veg Sandwich,Sandwiches,28,26,2,0,8,0
+2025-01-25,Dinner,Brownie,Desserts,34,32,2,0,6,0
+2025-01-26,Lunch,Classic Burger,Burgers,119,90,29,0,15,1
+2025-01-26,Lunch,Veg Burger,Burgers,64,64,0,0,10,0
+2025-01-26,Lunch,Margherita Pizza,Pizza,64,60,4,0,18,0
+2025-01-26,Lunch,Paneer Wrap,Wraps,66,64,2,0,11,0
+2025-01-26,Lunch,French Fries,Sides,177,156,21,0,15,0
+2025-01-26,Lunch,Cold Coffee,Beverages,130,113,17,0,12,0
+2025-01-26,Lunch,Veg Sandwich,Sandwiches,63,62,1,0,11,0
+2025-01-26,Lunch,Brownie,Desserts,18,17,1,0,5,0
+2025-01-26,Dinner,Classic Burger,Burgers,131,107,24,0,16,1
+2025-01-26,Dinner,Veg Burger,Burgers,98,84,14,0,16,0
+2025-01-26,Dinner,Margherita Pizza,Pizza,135,128,7,0,23,0
+2025-01-26,Dinner,Paneer Wrap,Wraps,68,64,4,0,11,0
+2025-01-26,Dinner,French Fries,Sides,232,179,53,0,17,1
+2025-01-26,Dinner,Cold Coffee,Beverages,230,208,22,0,18,0
+2025-01-26,Dinner,Veg Sandwich,Sandwiches,41,32,9,0,8,1
+2025-01-26,Dinner,Brownie,Desserts,60,56,4,0,5,0
+2025-01-27,Lunch,Classic Burger,Burgers,46,41,5,0,12,0
+2025-01-27,Lunch,Veg Burger,Burgers,30,27,3,0,8,0
+2025-01-27,Lunch,Margherita Pizza,Pizza,37,31,6,0,15,1
+2025-01-27,Lunch,Paneer Wrap,Wraps,46,43,3,0,11,0
+2025-01-27,Lunch,French Fries,Sides,75,60,15,0,9,1
+2025-01-27,Lunch,Cold Coffee,Beverages,52,46,6,0,5,0
+2025-01-27,Lunch,Veg Sandwich,Sandwiches,25,21,4,0,10,0
+2025-01-27,Lunch,Brownie,Desserts,13,12,1,0,10,0
+2025-01-27,Dinner,Classic Burger,Burgers,78,66,12,0,11,0
+2025-01-27,Dinner,Veg Burger,Burgers,38,36,2,0,6,0
+2025-01-27,Dinner,Margherita Pizza,Pizza,67,61,6,0,16,0
+2025-01-27,Dinner,Paneer Wrap,Wraps,37,32,5,0,8,0
+2025-01-27,Dinner,French Fries,Sides,82,81,1,0,8,0
+2025-01-27,Dinner,Cold Coffee,Beverages,76,72,4,0,10,0
+2025-01-27,Dinner,Veg Sandwich,Sandwiches,18,16,2,0,6,0
+2025-01-27,Dinner,Brownie,Desserts,15,18,0,3,5,0
+2025-01-28,Lunch,Classic Burger,Burgers,31,32,0,1,12,0
+2025-01-28,Lunch,Veg Burger,Burgers,39,34,5,0,6,0
+2025-01-28,Lunch,Margherita Pizza,Pizza,23,22,1,0,14,0
+2025-01-28,Lunch,Paneer Wrap,Wraps,43,39,4,0,12,0
+2025-01-28,Lunch,French Fries,Sides,58,52,6,0,7,0
+2025-01-28,Lunch,Cold Coffee,Beverages,35,35,0,0,6,0
+2025-01-28,Lunch,Veg Sandwich,Sandwiches,35,31,4,0,7,0
+2025-01-28,Lunch,Brownie,Desserts,9,9,0,0,5,0
+2025-01-28,Dinner,Classic Burger,Burgers,60,57,3,0,13,0
+2025-01-28,Dinner,Veg Burger,Burgers,37,31,6,0,8,1
+2025-01-28,Dinner,Margherita Pizza,Pizza,40,41,0,1,15,0
+2025-01-28,Dinner,Paneer Wrap,Wraps,24,23,1,0,11,0
+2025-01-28,Dinner,French Fries,Sides,105,104,1,0,11,0
+2025-01-28,Dinner,Cold Coffee,Beverages,57,53,4,0,9,0
+2025-01-28,Dinner,Veg Sandwich,Sandwiches,14,13,1,0,7,0
+2025-01-28,Dinner,Brownie,Desserts,23,22,1,0,8,0
+2025-01-29,Lunch,Classic Burger,Burgers,42,35,7,0,14,1
+2025-01-29,Lunch,Veg Burger,Burgers,37,30,7,0,10,1
+2025-01-29,Lunch,Margherita Pizza,Pizza,38,31,7,0,16,1
+2025-01-29,Lunch,Paneer Wrap,Wraps,46,43,3,0,9,0
+2025-01-29,Lunch,French Fries,Sides,104,84,20,0,11,1
+2025-01-29,Lunch,Cold Coffee,Beverages,36,33,3,0,5,0
+2025-01-29,Lunch,Veg Sandwich,Sandwiches,37,36,1,0,10,0
+2025-01-29,Lunch,Brownie,Desserts,8,7,1,0,6,0
+2025-01-29,Dinner,Classic Burger,Burgers,55,54,1,0,9,0
+2025-01-29,Dinner,Veg Burger,Burgers,46,40,6,0,9,0
+2025-01-29,Dinner,Margherita Pizza,Pizza,83,64,19,0,14,1
+2025-01-29,Dinner,Paneer Wrap,Wraps,33,31,2,0,6,0
+2025-01-29,Dinner,French Fries,Sides,133,107,26,0,14,1
+2025-01-29,Dinner,Cold Coffee,Beverages,90,80,10,0,9,0
+2025-01-29,Dinner,Veg Sandwich,Sandwiches,14,12,2,0,9,0
+2025-01-29,Dinner,Brownie,Desserts,23,23,0,0,5,0
+2025-01-30,Lunch,Classic Burger,Burgers,54,45,9,0,11,1
+2025-01-30,Lunch,Veg Burger,Burgers,35,32,3,0,11,0
+2025-01-30,Lunch,Margherita Pizza,Pizza,42,32,10,0,15,1
+2025-01-30,Lunch,Paneer Wrap,Wraps,49,40,9,0,10,1
+2025-01-30,Lunch,French Fries,Sides,65,52,13,0,8,1
+2025-01-30,Lunch,Cold Coffee,Beverages,43,43,0,0,6,0
+2025-01-30,Lunch,Veg Sandwich,Sandwiches,37,32,5,0,7,0
+2025-01-30,Lunch,Brownie,Desserts,9,8,1,0,7,0
+2025-01-30,Dinner,Classic Burger,Burgers,52,50,2,0,14,0
+2025-01-30,Dinner,Veg Burger,Burgers,47,38,9,0,12,1
+2025-01-30,Dinner,Margherita Pizza,Pizza,52,52,0,0,16,0
+2025-01-30,Dinner,Paneer Wrap,Wraps,34,29,5,0,11,1
+2025-01-30,Dinner,French Fries,Sides,114,98,16,0,11,0
+2025-01-30,Dinner,Cold Coffee,Beverages,85,67,18,0,7,1
+2025-01-30,Dinner,Veg Sandwich,Sandwiches,14,16,0,2,9,0
+2025-01-30,Dinner,Brownie,Desserts,22,20,2,0,5,0
+2025-01-31,Lunch,Classic Burger,Burgers,43,42,1,0,10,0
+2025-01-31,Lunch,Veg Burger,Burgers,30,28,2,0,9,0
+2025-01-31,Lunch,Margherita Pizza,Pizza,42,34,8,0,14,1
+2025-01-31,Lunch,Paneer Wrap,Wraps,54,43,11,0,11,1
+2025-01-31,Lunch,French Fries,Sides,64,59,5,0,10,0
+2025-01-31,Lunch,Cold Coffee,Beverages,40,43,0,3,6,0
+2025-01-31,Lunch,Veg Sandwich,Sandwiches,37,38,0,1,9,0
+2025-01-31,Lunch,Brownie,Desserts,10,9,1,0,6,0
+2025-01-31,Dinner,Classic Burger,Burgers,73,65,8,0,12,0
+2025-01-31,Dinner,Veg Burger,Burgers,48,44,4,0,10,0
+2025-01-31,Dinner,Margherita Pizza,Pizza,79,71,8,0,17,0
+2025-01-31,Dinner,Paneer Wrap,Wraps,37,33,4,0,11,0
+2025-01-31,Dinner,French Fries,Sides,87,89,0,2,8,0
+2025-01-31,Dinner,Cold Coffee,Beverages,141,105,36,0,12,1
+2025-01-31,Dinner,Veg Sandwich,Sandwiches,14,16,0,2,9,0
+2025-01-31,Dinner,Brownie,Desserts,30,29,1,0,8,0
+2025-02-01,Lunch,Classic Burger,Burgers,64,58,6,0,14,0
+2025-02-01,Lunch,Veg Burger,Burgers,43,37,6,0,11,0
+2025-02-01,Lunch,Margherita Pizza,Pizza,48,40,8,0,14,1
+2025-02-01,Lunch,Paneer Wrap,Wraps,56,47,9,0,11,1
+2025-02-01,Lunch,French Fries,Sides,127,111,16,0,10,0
+2025-02-01,Lunch,Cold Coffee,Beverages,83,73,10,0,8,0
+2025-02-01,Lunch,Veg Sandwich,Sandwiches,43,42,1,0,11,0
+2025-02-01,Lunch,Brownie,Desserts,14,12,2,0,7,0
+2025-02-01,Dinner,Classic Burger,Burgers,91,85,6,0,15,0
+2025-02-01,Dinner,Veg Burger,Burgers,66,59,7,0,14,0
+2025-02-01,Dinner,Margherita Pizza,Pizza,65,62,3,0,15,0
+2025-02-01,Dinner,Paneer Wrap,Wraps,43,39,4,0,9,0
+2025-02-01,Dinner,French Fries,Sides,134,119,15,0,13,0
+2025-02-01,Dinner,Cold Coffee,Beverages,123,95,28,0,7,1
+2025-02-01,Dinner,Veg Sandwich,Sandwiches,35,30,5,0,7,0
+2025-02-01,Dinner,Brownie,Desserts,38,35,3,0,9,0
+2025-02-02,Lunch,Classic Burger,Burgers,64,55,9,0,13,0
+2025-02-02,Lunch,Veg Burger,Burgers,42,40,2,0,11,0
+2025-02-02,Lunch,Margherita Pizza,Pizza,61,49,12,0,16,1
+2025-02-02,Lunch,Paneer Wrap,Wraps,51,46,5,0,10,0
+2025-02-02,Lunch,French Fries,Sides,85,87,0,2,11,0
+2025-02-02,Lunch,Cold Coffee,Beverages,66,73,0,7,8,0
+2025-02-02,Lunch,Veg Sandwich,Sandwiches,29,30,0,1,9,0
+2025-02-02,Lunch,Brownie,Desserts,15,13,2,0,6,0
+2025-02-02,Dinner,Classic Burger,Burgers,87,82,5,0,13,0
+2025-02-02,Dinner,Veg Burger,Burgers,58,56,2,0,10,0
+2025-02-02,Dinner,Margherita Pizza,Pizza,77,76,1,0,19,0
+2025-02-02,Dinner,Paneer Wrap,Wraps,40,38,2,0,9,0
+2025-02-02,Dinner,French Fries,Sides,185,147,38,0,17,1
+2025-02-02,Dinner,Cold Coffee,Beverages,92,95,0,3,9,0
+2025-02-02,Dinner,Veg Sandwich,Sandwiches,22,20,2,0,5,0
+2025-02-02,Dinner,Brownie,Desserts,37,31,6,0,9,1
+2025-02-03,Lunch,Classic Burger,Burgers,43,35,8,0,10,1
+2025-02-03,Lunch,Veg Burger,Burgers,30,27,3,0,8,0
+2025-02-03,Lunch,Margherita Pizza,Pizza,34,30,4,0,15,0
+2025-02-03,Lunch,Paneer Wrap,Wraps,45,42,3,0,6,0
+2025-02-03,Lunch,French Fries,Sides,56,50,6,0,8,0
+2025-02-03,Lunch,Cold Coffee,Beverages,60,53,7,0,6,0
+2025-02-03,Lunch,Veg Sandwich,Sandwiches,29,29,0,0,11,0
+2025-02-03,Lunch,Brownie,Desserts,8,8,0,0,5,0
+2025-02-03,Dinner,Classic Burger,Burgers,54,56,0,2,11,0
+2025-02-03,Dinner,Veg Burger,Burgers,39,36,3,0,12,0
+2025-02-03,Dinner,Margherita Pizza,Pizza,59,56,3,0,16,0
+2025-02-03,Dinner,Paneer Wrap,Wraps,41,35,6,0,12,0
+2025-02-03,Dinner,French Fries,Sides,99,101,0,2,15,0
+2025-02-03,Dinner,Cold Coffee,Beverages,110,85,25,0,7,1
+2025-02-03,Dinner,Veg Sandwich,Sandwiches,18,15,3,0,7,0
+2025-02-03,Dinner,Brownie,Desserts,26,25,1,0,7,0
+2025-02-04,Lunch,Classic Burger,Burgers,49,41,8,0,11,1
+2025-02-04,Lunch,Veg Burger,Burgers,24,21,3,0,7,0
+2025-02-04,Lunch,Margherita Pizza,Pizza,33,28,5,0,12,1
+2025-02-04,Lunch,Paneer Wrap,Wraps,35,30,5,0,7,0
+2025-02-04,Lunch,French Fries,Sides,74,68,6,0,8,0
+2025-02-04,Lunch,Cold Coffee,Beverages,39,39,0,0,5,0
+2025-02-04,Lunch,Veg Sandwich,Sandwiches,31,28,3,0,9,0
+2025-02-04,Lunch,Brownie,Desserts,11,11,0,0,6,0
+2025-02-04,Dinner,Classic Burger,Burgers,52,49,3,0,10,0
+2025-02-04,Dinner,Veg Burger,Burgers,44,33,11,0,10,1
+2025-02-04,Dinner,Margherita Pizza,Pizza,59,52,7,0,19,0
+2025-02-04,Dinner,Paneer Wrap,Wraps,23,24,0,1,10,0
+2025-02-04,Dinner,French Fries,Sides,109,112,0,3,13,0
+2025-02-04,Dinner,Cold Coffee,Beverages,72,68,4,0,9,0
+2025-02-04,Dinner,Veg Sandwich,Sandwiches,14,12,2,0,9,0
+2025-02-04,Dinner,Brownie,Desserts,25,20,5,0,5,1
+2025-02-05,Lunch,Classic Burger,Burgers,52,45,7,0,10,0
+2025-02-05,Lunch,Veg Burger,Burgers,31,28,3,0,9,0
+2025-02-05,Lunch,Margherita Pizza,Pizza,34,33,1,0,15,0
+2025-02-05,Lunch,Paneer Wrap,Wraps,47,42,5,0,11,0
+2025-02-05,Lunch,French Fries,Sides,71,63,8,0,9,0
+2025-02-05,Lunch,Cold Coffee,Beverages,53,46,7,0,6,0
+2025-02-05,Lunch,Veg Sandwich,Sandwiches,35,31,4,0,7,0
+2025-02-05,Lunch,Brownie,Desserts,9,9,0,0,8,0
+2025-02-05,Dinner,Classic Burger,Burgers,68,63,5,0,13,0
+2025-02-05,Dinner,Veg Burger,Burgers,38,35,3,0,12,0
+2025-02-05,Dinner,Margherita Pizza,Pizza,69,60,9,0,16,0
+2025-02-05,Dinner,Paneer Wrap,Wraps,28,26,2,0,7,0
+2025-02-05,Dinner,French Fries,Sides,109,93,16,0,10,0
+2025-02-05,Dinner,Cold Coffee,Beverages,94,80,14,0,10,0
+2025-02-05,Dinner,Veg Sandwich,Sandwiches,18,16,2,0,7,0
+2025-02-05,Dinner,Brownie,Desserts,23,25,0,2,6,0
+2025-02-06,Lunch,Classic Burger,Burgers,41,41,0,0,10,0
+2025-02-06,Lunch,Veg Burger,Burgers,30,29,1,0,9,0
+2025-02-06,Lunch,Margherita Pizza,Pizza,25,26,0,1,14,0
+2025-02-06,Lunch,Paneer Wrap,Wraps,50,41,9,0,9,1
+2025-02-06,Lunch,French Fries,Sides,89,79,10,0,11,0
+2025-02-06,Lunch,Cold Coffee,Beverages,46,39,7,0,5,1
+2025-02-06,Lunch,Veg Sandwich,Sandwiches,39,33,6,0,12,1
+2025-02-06,Lunch,Brownie,Desserts,9,10,0,1,5,0
+2025-02-06,Dinner,Classic Burger,Burgers,62,57,5,0,13,0
+2025-02-06,Dinner,Veg Burger,Burgers,30,30,0,0,10,0
+2025-02-06,Dinner,Margherita Pizza,Pizza,63,54,9,0,17,0
+2025-02-06,Dinner,Paneer Wrap,Wraps,27,24,3,0,9,0
+2025-02-06,Dinner,French Fries,Sides,105,109,0,4,13,0
+2025-02-06,Dinner,Cold Coffee,Beverages,74,73,1,0,8,0
+2025-02-06,Dinner,Veg Sandwich,Sandwiches,20,16,4,0,6,0
+2025-02-06,Dinner,Brownie,Desserts,25,24,1,0,5,0
+2025-02-07,Lunch,Classic Burger,Burgers,62,68,0,6,11,0
+2025-02-07,Lunch,Veg Burger,Burgers,47,44,3,0,13,0
+2025-02-07,Lunch,Margherita Pizza,Pizza,44,43,1,0,17,0
+2025-02-07,Lunch,Paneer Wrap,Wraps,38,38,0,0,9,0
+2025-02-07,Lunch,French Fries,Sides,128,110,18,0,12,0
+2025-02-07,Lunch,Cold Coffee,Beverages,85,65,20,0,9,1
+2025-02-07,Lunch,Veg Sandwich,Sandwiches,47,42,5,0,10,0
+2025-02-07,Lunch,Brownie,Desserts,10,9,1,0,5,0
+2025-02-07,Dinner,Classic Burger,Burgers,102,87,15,0,12,0
+2025-02-07,Dinner,Veg Burger,Burgers,55,46,9,0,11,1
+2025-02-07,Dinner,Margherita Pizza,Pizza,73,80,0,7,17,0
+2025-02-07,Dinner,Paneer Wrap,Wraps,43,37,6,0,8,0
+2025-02-07,Dinner,French Fries,Sides,147,125,22,0,11,0
+2025-02-07,Dinner,Cold Coffee,Beverages,116,115,1,0,11,0
+2025-02-07,Dinner,Veg Sandwich,Sandwiches,22,21,1,0,5,0
+2025-02-07,Dinner,Brownie,Desserts,29,27,2,0,7,0
+2025-02-08,Lunch,Classic Burger,Burgers,45,39,6,0,9,0
+2025-02-08,Lunch,Veg Burger,Burgers,49,44,5,0,10,0
+2025-02-08,Lunch,Margherita Pizza,Pizza,38,35,3,0,14,0
+2025-02-08,Lunch,Paneer Wrap,Wraps,60,56,4,0,11,0
+2025-02-08,Lunch,French Fries,Sides,108,103,5,0,9,0
+2025-02-08,Lunch,Cold Coffee,Beverages,58,57,1,0,5,0
+2025-02-08,Lunch,Veg Sandwich,Sandwiches,47,45,2,0,6,0
+2025-02-08,Lunch,Brownie,Desserts,11,11,0,0,7,0
+2025-02-08,Dinner,Classic Burger,Burgers,61,64,0,3,12,0
+2025-02-08,Dinner,Veg Burger,Burgers,40,38,2,0,8,0
+2025-02-08,Dinner,Margherita Pizza,Pizza,101,83,18,0,18,1
+2025-02-08,Dinner,Paneer Wrap,Wraps,57,41,16,0,10,1
+2025-02-08,Dinner,French Fries,Sides,171,154,17,0,14,0
+2025-02-08,Dinner,Cold Coffee,Beverages,145,137,8,0,14,0
+2025-02-08,Dinner,Veg Sandwich,Sandwiches,24,21,3,0,10,0
+2025-02-08,Dinner,Brownie,Desserts,39,36,3,0,6,0
+2025-02-09,Lunch,Classic Burger,Burgers,75,65,10,0,16,0
+2025-02-09,Lunch,Veg Burger,Burgers,60,63,0,3,11,0
+2025-02-09,Lunch,Margherita Pizza,Pizza,71,61,10,0,13,0
+2025-02-09,Lunch,Paneer Wrap,Wraps,65,62,3,0,13,0
+2025-02-09,Lunch,French Fries,Sides,145,135,10,0,12,0
+2025-02-09,Lunch,Cold Coffee,Beverages,71,65,6,0,9,0
+2025-02-09,Lunch,Veg Sandwich,Sandwiches,60,58,2,0,12,0
+2025-02-09,Lunch,Brownie,Desserts,20,16,4,0,6,0
+2025-02-09,Dinner,Classic Burger,Burgers,98,102,0,4,14,0
+2025-02-09,Dinner,Veg Burger,Burgers,86,74,12,0,11,0
+2025-02-09,Dinner,Margherita Pizza,Pizza,128,102,26,0,20,1
+2025-02-09,Dinner,Paneer Wrap,Wraps,53,42,11,0,10,1
+2025-02-09,Dinner,French Fries,Sides,223,209,14,0,20,0
+2025-02-09,Dinner,Cold Coffee,Beverages,151,120,31,0,13,1
+2025-02-09,Dinner,Veg Sandwich,Sandwiches,24,25,0,1,9,0
+2025-02-09,Dinner,Brownie,Desserts,32,31,1,0,8,0
+2025-02-10,Lunch,Classic Burger,Burgers,46,41,5,0,9,0
+2025-02-10,Lunch,Veg Burger,Burgers,35,30,5,0,7,0
+2025-02-10,Lunch,Margherita Pizza,Pizza,38,32,6,0,15,1
+2025-02-10,Lunch,Paneer Wrap,Wraps,41,36,5,0,10,0
+2025-02-10,Lunch,French Fries,Sides,82,74,8,0,9,0
+2025-02-10,Lunch,Cold Coffee,Beverages,49,44,5,0,5,0
+2025-02-10,Lunch,Veg Sandwich,Sandwiches,34,27,7,0,9,1
+2025-02-10,Lunch,Brownie,Desserts,8,8,0,0,5,0
+2025-02-10,Dinner,Classic Burger,Burgers,81,65,16,0,13,1
+2025-02-10,Dinner,Veg Burger,Burgers,48,41,7,0,10,0
+2025-02-10,Dinner,Margherita Pizza,Pizza,58,63,0,5,18,0
+2025-02-10,Dinner,Paneer Wrap,Wraps,35,33,2,0,10,0
+2025-02-10,Dinner,French Fries,Sides,91,94,0,3,8,0
+2025-02-10,Dinner,Cold Coffee,Beverages,103,93,10,0,12,0
+2025-02-10,Dinner,Veg Sandwich,Sandwiches,18,16,2,0,8,0
+2025-02-10,Dinner,Brownie,Desserts,23,22,1,0,7,0
+2025-02-11,Lunch,Classic Burger,Burgers,41,38,3,0,8,0
+2025-02-11,Lunch,Veg Burger,Burgers,32,29,3,0,10,0
+2025-02-11,Lunch,Margherita Pizza,Pizza,29,30,0,1,17,0
+2025-02-11,Lunch,Paneer Wrap,Wraps,32,29,3,0,8,0
+2025-02-11,Lunch,French Fries,Sides,85,69,16,0,10,1
+2025-02-11,Lunch,Cold Coffee,Beverages,48,39,9,0,5,1
+2025-02-11,Lunch,Veg Sandwich,Sandwiches,24,25,0,1,8,0
+2025-02-11,Lunch,Brownie,Desserts,7,6,1,0,5,0
+2025-02-11,Dinner,Classic Burger,Burgers,55,51,4,0,12,0
+2025-02-11,Dinner,Veg Burger,Burgers,39,38,1,0,8,0
+2025-02-11,Dinner,Margherita Pizza,Pizza,68,60,8,0,16,0
+2025-02-11,Dinner,Paneer Wrap,Wraps,32,29,3,0,11,0
+2025-02-11,Dinner,French Fries,Sides,102,99,3,0,12,0
+2025-02-11,Dinner,Cold Coffee,Beverages,102,99,3,0,9,0
+2025-02-11,Dinner,Veg Sandwich,Sandwiches,14,12,2,0,11,0
+2025-02-11,Dinner,Brownie,Desserts,20,20,0,0,8,0
+2025-02-12,Lunch,Classic Burger,Burgers,44,37,7,0,10,1
+2025-02-12,Lunch,Veg Burger,Burgers,30,28,2,0,7,0
+2025-02-12,Lunch,Margherita Pizza,Pizza,38,32,6,0,15,1
+2025-02-12,Lunch,Paneer Wrap,Wraps,47,39,8,0,10,1
+2025-02-12,Lunch,French Fries,Sides,88,77,11,0,10,0
+2025-02-12,Lunch,Cold Coffee,Beverages,55,48,7,0,6,0
+2025-02-12,Lunch,Veg Sandwich,Sandwiches,21,22,0,1,10,0
+2025-02-12,Lunch,Brownie,Desserts,13,12,1,0,9,0
+2025-02-12,Dinner,Classic Burger,Burgers,55,52,3,0,13,0
+2025-02-12,Dinner,Veg Burger,Burgers,28,30,0,2,8,0
+2025-02-12,Dinner,Margherita Pizza,Pizza,69,64,5,0,17,0
+2025-02-12,Dinner,Paneer Wrap,Wraps,36,32,4,0,9,0
+2025-02-12,Dinner,French Fries,Sides,116,108,8,0,13,0
+2025-02-12,Dinner,Cold Coffee,Beverages,84,69,15,0,8,1
+2025-02-12,Dinner,Veg Sandwich,Sandwiches,17,15,2,0,7,0
+2025-02-12,Dinner,Brownie,Desserts,31,24,7,0,6,1
+2025-02-13,Lunch,Classic Burger,Burgers,41,35,6,0,10,0
+2025-02-13,Lunch,Veg Burger,Burgers,32,29,3,0,9,0
+2025-02-13,Lunch,Margherita Pizza,Pizza,41,38,3,0,19,0
+2025-02-13,Lunch,Paneer Wrap,Wraps,41,40,1,0,8,0
+2025-02-13,Lunch,French Fries,Sides,75,66,9,0,7,0
+2025-02-13,Lunch,Cold Coffee,Beverages,43,46,0,3,5,0
+2025-02-13,Lunch,Veg Sandwich,Sandwiches,35,31,4,0,8,0
+2025-02-13,Lunch,Brownie,Desserts,6,6,0,0,6,0
+2025-02-13,Dinner,Classic Burger,Burgers,53,47,6,0,11,0
+2025-02-13,Dinner,Veg Burger,Burgers,45,44,1,0,10,0
+2025-02-13,Dinner,Margherita Pizza,Pizza,51,50,1,0,14,0
+2025-02-13,Dinner,Paneer Wrap,Wraps,27,23,4,0,6,0
+2025-02-13,Dinner,French Fries,Sides,80,84,0,4,10,0
+2025-02-13,Dinner,Cold Coffee,Beverages,61,61,0,0,6,0
+2025-02-13,Dinner,Veg Sandwich,Sandwiches,13,13,0,0,5,0
+2025-02-13,Dinner,Brownie,Desserts,16,16,0,0,6,0
+2025-02-14,Lunch,Classic Burger,Burgers,71,74,0,3,11,0
+2025-02-14,Lunch,Veg Burger,Burgers,48,42,6,0,12,0
+2025-02-14,Lunch,Margherita Pizza,Pizza,56,49,7,0,16,0
+2025-02-14,Lunch,Paneer Wrap,Wraps,82,67,15,0,12,1
+2025-02-14,Lunch,French Fries,Sides,166,124,42,0,13,1
+2025-02-14,Lunch,Cold Coffee,Beverages,75,73,2,0,10,0
+2025-02-14,Lunch,Veg Sandwich,Sandwiches,50,42,8,0,10,1
+2025-02-14,Lunch,Brownie,Desserts,14,15,0,1,5,0
+2025-02-14,Dinner,Classic Burger,Burgers,104,93,11,0,17,0
+2025-02-14,Dinner,Veg Burger,Burgers,56,52,4,0,12,0
+2025-02-14,Dinner,Margherita Pizza,Pizza,94,98,0,4,18,0
+2025-02-14,Dinner,Paneer Wrap,Wraps,50,41,9,0,9,1
+2025-02-14,Dinner,French Fries,Sides,176,164,12,0,15,0
+2025-02-14,Dinner,Cold Coffee,Beverages,155,117,38,0,13,1
+2025-02-14,Dinner,Veg Sandwich,Sandwiches,23,23,0,0,9,0
+2025-02-14,Dinner,Brownie,Desserts,54,44,10,0,8,1
+2025-02-15,Lunch,Classic Burger,Burgers,58,54,4,0,12,0
+2025-02-15,Lunch,Veg Burger,Burgers,43,45,0,2,9,0
+2025-02-15,Lunch,Margherita Pizza,Pizza,41,38,3,0,15,0
+2025-02-15,Lunch,Paneer Wrap,Wraps,51,44,7,0,9,0
+2025-02-15,Lunch,French Fries,Sides,109,101,8,0,11,0
+2025-02-15,Lunch,Cold Coffee,Beverages,60,60,0,0,7,0
+2025-02-15,Lunch,Veg Sandwich,Sandwiches,44,41,3,0,10,0
+2025-02-15,Lunch,Brownie,Desserts,13,12,1,0,6,0
+2025-02-15,Dinner,Classic Burger,Burgers,91,88,3,0,13,0
+2025-02-15,Dinner,Veg Burger,Burgers,59,54,5,0,11,0
+2025-02-15,Dinner,Margherita Pizza,Pizza,64,59,5,0,18,0
+2025-02-15,Dinner,Paneer Wrap,Wraps,37,35,2,0,9,0
+2025-02-15,Dinner,French Fries,Sides,182,137,45,0,14,1
+2025-02-15,Dinner,Cold Coffee,Beverages,114,99,15,0,11,0
+2025-02-15,Dinner,Veg Sandwich,Sandwiches,26,24,2,0,7,0
+2025-02-15,Dinner,Brownie,Desserts,34,41,0,7,10,0
+2025-02-16,Lunch,Classic Burger,Burgers,68,66,2,0,13,0
+2025-02-16,Lunch,Veg Burger,Burgers,47,39,8,0,9,1
+2025-02-16,Lunch,Margherita Pizza,Pizza,39,39,0,0,15,0
+2025-02-16,Lunch,Paneer Wrap,Wraps,61,57,4,0,11,0
+2025-02-16,Lunch,French Fries,Sides,124,86,38,0,10,1
+2025-02-16,Lunch,Cold Coffee,Beverages,64,58,6,0,10,0
+2025-02-16,Lunch,Veg Sandwich,Sandwiches,50,41,9,0,9,1
+2025-02-16,Lunch,Brownie,Desserts,11,10,1,0,8,0
+2025-02-16,Dinner,Classic Burger,Burgers,104,90,14,0,12,0
+2025-02-16,Dinner,Veg Burger,Burgers,52,52,0,0,10,0
+2025-02-16,Dinner,Margherita Pizza,Pizza,90,88,2,0,20,0
+2025-02-16,Dinner,Paneer Wrap,Wraps,46,42,4,0,11,0
+2025-02-16,Dinner,French Fries,Sides,156,154,2,0,15,0
+2025-02-16,Dinner,Cold Coffee,Beverages,102,86,16,0,11,0
+2025-02-16,Dinner,Veg Sandwich,Sandwiches,24,21,3,0,7,0
+2025-02-16,Dinner,Brownie,Desserts,36,32,4,0,10,0
+2025-02-17,Lunch,Classic Burger,Burgers,51,36,15,0,9,1
+2025-02-17,Lunch,Veg Burger,Burgers,36,28,8,0,8,1
+2025-02-17,Lunch,Margherita Pizza,Pizza,34,34,0,0,16,0
+2025-02-17,Lunch,Paneer Wrap,Wraps,47,42,5,0,10,0
+2025-02-17,Lunch,French Fries,Sides,76,75,1,0,8,0
+2025-02-17,Lunch,Cold Coffee,Beverages,43,38,5,0,6,0
+2025-02-17,Lunch,Veg Sandwich,Sandwiches,28,27,1,0,9,0
+2025-02-17,Lunch,Brownie,Desserts,4,5,0,1,7,0
+2025-02-17,Dinner,Classic Burger,Burgers,69,66,3,0,11,0
+2025-02-17,Dinner,Veg Burger,Burgers,38,39,0,1,8,0
+2025-02-17,Dinner,Margherita Pizza,Pizza,65,61,4,0,17,0
+2025-02-17,Dinner,Paneer Wrap,Wraps,35,28,7,0,5,1
+2025-02-17,Dinner,French Fries,Sides,116,113,3,0,11,0
+2025-02-17,Dinner,Cold Coffee,Beverages,83,75,8,0,9,0
+2025-02-17,Dinner,Veg Sandwich,Sandwiches,16,15,1,0,6,0
+2025-02-17,Dinner,Brownie,Desserts,28,26,2,0,7,0
+2025-02-18,Lunch,Classic Burger,Burgers,32,37,0,5,11,0
+2025-02-18,Lunch,Veg Burger,Burgers,33,29,4,0,9,0
+2025-02-18,Lunch,Margherita Pizza,Pizza,28,28,0,0,18,0
+2025-02-18,Lunch,Paneer Wrap,Wraps,34,31,3,0,8,0
+2025-02-18,Lunch,French Fries,Sides,71,61,10,0,6,0
+2025-02-18,Lunch,Cold Coffee,Beverages,59,49,10,0,7,1
+2025-02-18,Lunch,Veg Sandwich,Sandwiches,26,24,2,0,7,0
+2025-02-18,Lunch,Brownie,Desserts,4,4,0,0,5,0
+2025-02-18,Dinner,Classic Burger,Burgers,62,54,8,0,13,0
+2025-02-18,Dinner,Veg Burger,Burgers,32,34,0,2,8,0
+2025-02-18,Dinner,Margherita Pizza,Pizza,52,49,3,0,18,0
+2025-02-18,Dinner,Paneer Wrap,Wraps,29,28,1,0,6,0
+2025-02-18,Dinner,French Fries,Sides,112,108,4,0,10,0
+2025-02-18,Dinner,Cold Coffee,Beverages,101,89,12,0,10,0
+2025-02-18,Dinner,Veg Sandwich,Sandwiches,13,13,0,0,8,0
+2025-02-18,Dinner,Brownie,Desserts,20,17,3,0,5,0
+2025-02-19,Lunch,Classic Burger,Burgers,38,34,4,0,10,0
+2025-02-19,Lunch,Veg Burger,Burgers,27,26,1,0,8,0
+2025-02-19,Lunch,Margherita Pizza,Pizza,38,36,2,0,15,0
+2025-02-19,Lunch,Paneer Wrap,Wraps,39,36,3,0,11,0
+2025-02-19,Lunch,French Fries,Sides,76,62,14,0,9,1
+2025-02-19,Lunch,Cold Coffee,Beverages,53,45,8,0,5,0
+2025-02-19,Lunch,Veg Sandwich,Sandwiches,29,27,2,0,6,0
+2025-02-19,Lunch,Brownie,Desserts,7,8,0,1,6,0
+2025-02-19,Dinner,Classic Burger,Burgers,61,58,3,0,13,0
+2025-02-19,Dinner,Veg Burger,Burgers,27,30,0,3,9,0
+2025-02-19,Dinner,Margherita Pizza,Pizza,57,50,7,0,16,0
+2025-02-19,Dinner,Paneer Wrap,Wraps,37,34,3,0,7,0
+2025-02-19,Dinner,French Fries,Sides,121,108,13,0,12,0
+2025-02-19,Dinner,Cold Coffee,Beverages,88,76,12,0,8,0
+2025-02-19,Dinner,Veg Sandwich,Sandwiches,16,15,1,0,6,0
+2025-02-19,Dinner,Brownie,Desserts,31,28,3,0,7,0
+2025-02-20,Lunch,Classic Burger,Burgers,40,36,4,0,10,0
+2025-02-20,Lunch,Veg Burger,Burgers,33,32,1,0,12,0
+2025-02-20,Lunch,Margherita Pizza,Pizza,33,26,7,0,12,1
+2025-02-20,Lunch,Paneer Wrap,Wraps,32,33,0,1,9,0
+2025-02-20,Lunch,French Fries,Sides,48,50,0,2,9,0
+2025-02-20,Lunch,Cold Coffee,Beverages,44,35,9,0,7,1
+2025-02-20,Lunch,Veg Sandwich,Sandwiches,26,25,1,0,7,0
+2025-02-20,Lunch,Brownie,Desserts,13,11,2,0,7,0
+2025-02-20,Dinner,Classic Burger,Burgers,54,54,0,0,12,0
+2025-02-20,Dinner,Veg Burger,Burgers,35,36,0,1,9,0
+2025-02-20,Dinner,Margherita Pizza,Pizza,70,59,11,0,17,1
+2025-02-20,Dinner,Paneer Wrap,Wraps,40,35,5,0,8,0
+2025-02-20,Dinner,French Fries,Sides,106,106,0,0,12,0
+2025-02-20,Dinner,Cold Coffee,Beverages,86,77,9,0,7,0
+2025-02-20,Dinner,Veg Sandwich,Sandwiches,20,18,2,0,10,0
+2025-02-20,Dinner,Brownie,Desserts,32,28,4,0,5,0
+2025-02-21,Lunch,Classic Burger,Burgers,74,64,10,0,13,0
+2025-02-21,Lunch,Veg Burger,Burgers,27,24,3,0,9,0
+2025-02-21,Lunch,Margherita Pizza,Pizza,54,48,6,0,16,0
+2025-02-21,Lunch,Paneer Wrap,Wraps,45,53,0,8,10,0
+2025-02-21,Lunch,French Fries,Sides,144,117,27,0,12,1
+2025-02-21,Lunch,Cold Coffee,Beverages,83,70,13,0,10,0
+2025-02-21,Lunch,Veg Sandwich,Sandwiches,43,39,4,0,10,0
+2025-02-21,Lunch,Brownie,Desserts,15,13,2,0,9,0
+2025-02-21,Dinner,Classic Burger,Burgers,102,94,8,0,15,0
+2025-02-21,Dinner,Veg Burger,Burgers,43,41,2,0,10,0
+2025-02-21,Dinner,Margherita Pizza,Pizza,119,94,25,0,14,1
+2025-02-21,Dinner,Paneer Wrap,Wraps,32,32,0,0,9,0
+2025-02-21,Dinner,French Fries,Sides,189,160,29,0,14,0
+2025-02-21,Dinner,Cold Coffee,Beverages,101,103,0,2,5,0
+2025-02-21,Dinner,Veg Sandwich,Sandwiches,21,17,4,0,6,0
+2025-02-21,Dinner,Brownie,Desserts,32,33,0,1,7,0
+2025-02-22,Lunch,Classic Burger,Burgers,50,50,0,0,13,0
+2025-02-22,Lunch,Veg Burger,Burgers,50,46,4,0,9,0
+2025-02-22,Lunch,Margherita Pizza,Pizza,41,44,0,3,15,0
+2025-02-22,Lunch,Paneer Wrap,Wraps,67,56,11,0,13,1
+2025-02-22,Lunch,French Fries,Sides,119,109,10,0,11,0
+2025-02-22,Lunch,Cold Coffee,Beverages,74,65,9,0,9,0
+2025-02-22,Lunch,Veg Sandwich,Sandwiches,40,37,3,0,8,0
+2025-02-22,Lunch,Brownie,Desserts,10,11,0,1,5,0
+2025-02-22,Dinner,Classic Burger,Burgers,93,77,16,0,13,1
+2025-02-22,Dinner,Veg Burger,Burgers,66,59,7,0,12,0
+2025-02-22,Dinner,Margherita Pizza,Pizza,103,89,14,0,19,0
+2025-02-22,Dinner,Paneer Wrap,Wraps,40,38,2,0,12,0
+2025-02-22,Dinner,French Fries,Sides,166,164,2,0,15,0
+2025-02-22,Dinner,Cold Coffee,Beverages,104,105,0,1,11,0
+2025-02-22,Dinner,Veg Sandwich,Sandwiches,27,21,6,0,5,1
+2025-02-22,Dinner,Brownie,Desserts,36,31,5,0,8,0
+2025-02-23,Lunch,Classic Burger,Burgers,60,55,5,0,12,0
+2025-02-23,Lunch,Veg Burger,Burgers,42,43,0,1,8,0
+2025-02-23,Lunch,Margherita Pizza,Pizza,39,34,5,0,12,0
+2025-02-23,Lunch,Paneer Wrap,Wraps,72,64,8,0,16,0
+2025-02-23,Lunch,French Fries,Sides,98,103,0,5,14,0
+2025-02-23,Lunch,Cold Coffee,Beverages,74,63,11,0,6,0
+2025-02-23,Lunch,Veg Sandwich,Sandwiches,36,35,1,0,10,0
+2025-02-23,Lunch,Brownie,Desserts,9,10,0,1,5,0
+2025-02-23,Dinner,Classic Burger,Burgers,63,80,0,17,15,0
+2025-02-23,Dinner,Veg Burger,Burgers,60,53,7,0,12,0
+2025-02-23,Dinner,Margherita Pizza,Pizza,90,78,12,0,17,0
+2025-02-23,Dinner,Paneer Wrap,Wraps,60,46,14,0,9,1
+2025-02-23,Dinner,French Fries,Sides,118,136,0,18,16,0
+2025-02-23,Dinner,Cold Coffee,Beverages,112,108,4,0,13,0
+2025-02-23,Dinner,Veg Sandwich,Sandwiches,21,21,0,0,7,0
+2025-02-23,Dinner,Brownie,Desserts,33,38,0,5,6,0
+2025-02-24,Lunch,Classic Burger,Burgers,31,34,0,3,9,0
+2025-02-24,Lunch,Veg Burger,Burgers,35,35,0,0,7,0
+2025-02-24,Lunch,Margherita Pizza,Pizza,31,26,5,0,15,1
+2025-02-24,Lunch,Paneer Wrap,Wraps,36,33,3,0,12,0
+2025-02-24,Lunch,French Fries,Sides,51,53,0,2,7,0
+2025-02-24,Lunch,Cold Coffee,Beverages,46,40,6,0,7,0
+2025-02-24,Lunch,Veg Sandwich,Sandwiches,30,31,0,1,8,0
+2025-02-24,Lunch,Brownie,Desserts,14,13,1,0,5,0
+2025-02-24,Dinner,Classic Burger,Burgers,56,47,9,0,12,1
+2025-02-24,Dinner,Veg Burger,Burgers,45,40,5,0,9,0
+2025-02-24,Dinner,Margherita Pizza,Pizza,63,56,7,0,18,0
+2025-02-24,Dinner,Paneer Wrap,Wraps,27,28,0,1,7,0
+2025-02-24,Dinner,French Fries,Sides,112,91,21,0,11,1
+2025-02-24,Dinner,Cold Coffee,Beverages,81,72,9,0,11,0
+2025-02-24,Dinner,Veg Sandwich,Sandwiches,18,18,0,0,7,0
+2025-02-24,Dinner,Brownie,Desserts,20,21,0,1,8,0
+2025-02-25,Lunch,Classic Burger,Burgers,42,37,5,0,12,0
+2025-02-25,Lunch,Veg Burger,Burgers,26,27,0,1,7,0
+2025-02-25,Lunch,Margherita Pizza,Pizza,41,33,8,0,16,1
+2025-02-25,Lunch,Paneer Wrap,Wraps,43,37,6,0,9,0
+2025-02-25,Lunch,French Fries,Sides,69,59,10,0,7,0
+2025-02-25,Lunch,Cold Coffee,Beverages,43,42,1,0,6,0
+2025-02-25,Lunch,Veg Sandwich,Sandwiches,36,34,2,0,10,0
+2025-02-25,Lunch,Brownie,Desserts,9,10,0,1,7,0
+2025-02-25,Dinner,Classic Burger,Burgers,67,66,1,0,12,0
+2025-02-25,Dinner,Veg Burger,Burgers,39,38,1,0,10,0
+2025-02-25,Dinner,Margherita Pizza,Pizza,59,52,7,0,15,0
+2025-02-25,Dinner,Paneer Wrap,Wraps,23,22,1,0,8,0
+2025-02-25,Dinner,French Fries,Sides,91,98,0,7,14,0
+2025-02-25,Dinner,Cold Coffee,Beverages,67,59,8,0,6,0
+2025-02-25,Dinner,Veg Sandwich,Sandwiches,16,16,0,0,6,0
+2025-02-25,Dinner,Brownie,Desserts,26,23,3,0,7,0
+2025-02-26,Lunch,Classic Burger,Burgers,35,34,1,0,11,0
+2025-02-26,Lunch,Veg Burger,Burgers,35,31,4,0,8,0
+2025-02-26,Lunch,Margherita Pizza,Pizza,31,32,0,1,17,0
+2025-02-26,Lunch,Paneer Wrap,Wraps,40,38,2,0,8,0
+2025-02-26,Lunch,French Fries,Sides,77,77,0,0,9,0
+2025-02-26,Lunch,Cold Coffee,Beverages,33,28,5,0,5,1
+2025-02-26,Lunch,Veg Sandwich,Sandwiches,36,34,2,0,10,0
+2025-02-26,Lunch,Brownie,Desserts,5,6,0,1,5,0
+2025-02-26,Dinner,Classic Burger,Burgers,51,55,0,4,9,0
+2025-02-26,Dinner,Veg Burger,Burgers,44,44,0,0,10,0
+2025-02-26,Dinner,Margherita Pizza,Pizza,68,66,2,0,17,0
+2025-02-26,Dinner,Paneer Wrap,Wraps,32,29,3,0,9,0
+2025-02-26,Dinner,French Fries,Sides,95,89,6,0,11,0
+2025-02-26,Dinner,Cold Coffee,Beverages,68,56,12,0,6,1
+2025-02-26,Dinner,Veg Sandwich,Sandwiches,19,16,3,0,7,0
+2025-02-26,Dinner,Brownie,Desserts,24,24,0,0,5,0
+2025-02-27,Lunch,Classic Burger,Burgers,41,35,6,0,12,0
+2025-02-27,Lunch,Veg Burger,Burgers,35,27,8,0,9,1
+2025-02-27,Lunch,Margherita Pizza,Pizza,37,32,5,0,14,0
+2025-02-27,Lunch,Paneer Wrap,Wraps,41,41,0,0,9,0
+2025-02-27,Lunch,French Fries,Sides,85,83,2,0,11,0
+2025-02-27,Lunch,Cold Coffee,Beverages,43,40,3,0,5,0
+2025-02-27,Lunch,Veg Sandwich,Sandwiches,33,29,4,0,9,0
+2025-02-27,Lunch,Brownie,Desserts,9,8,1,0,5,0
+2025-02-27,Dinner,Classic Burger,Burgers,66,53,13,0,12,1
+2025-02-27,Dinner,Veg Burger,Burgers,44,44,0,0,10,0
+2025-02-27,Dinner,Margherita Pizza,Pizza,62,58,4,0,17,0
+2025-02-27,Dinner,Paneer Wrap,Wraps,34,31,3,0,5,0
+2025-02-27,Dinner,French Fries,Sides,121,96,25,0,10,1
+2025-02-27,Dinner,Cold Coffee,Beverages,90,77,13,0,7,0
+2025-02-27,Dinner,Veg Sandwich,Sandwiches,12,14,0,2,7,0
+2025-02-27,Dinner,Brownie,Desserts,19,19,0,0,5,0
+2025-02-28,Lunch,Classic Burger,Burgers,44,33,11,0,11,1
+2025-02-28,Lunch,Veg Burger,Burgers,44,34,10,0,9,1
+2025-02-28,Lunch,Margherita Pizza,Pizza,44,43,1,0,14,0
+2025-02-28,Lunch,Paneer Wrap,Wraps,46,40,6,0,8,0
+2025-02-28,Lunch,French Fries,Sides,89,80,9,0,8,0
+2025-02-28,Lunch,Cold Coffee,Beverages,56,48,8,0,8,0
+2025-02-28,Lunch,Veg Sandwich,Sandwiches,37,37,0,0,8,0
+2025-02-28,Lunch,Brownie,Desserts,9,10,0,1,5,0
+2025-02-28,Dinner,Classic Burger,Burgers,64,60,4,0,10,0
+2025-02-28,Dinner,Veg Burger,Burgers,46,44,2,0,11,0
+2025-02-28,Dinner,Margherita Pizza,Pizza,70,59,11,0,17,1
+2025-02-28,Dinner,Paneer Wrap,Wraps,41,36,5,0,11,0
+2025-02-28,Dinner,French Fries,Sides,130,121,9,0,11,0
+2025-02-28,Dinner,Cold Coffee,Beverages,106,90,16,0,11,0
+2025-02-28,Dinner,Veg Sandwich,Sandwiches,21,18,3,0,8,0
+2025-02-28,Dinner,Brownie,Desserts,28,23,5,0,9,1
+2025-03-01,Lunch,Classic Burger,Burgers,60,61,0,1,10,0
+2025-03-01,Lunch,Veg Burger,Burgers,52,45,7,0,11,0
+2025-03-01,Lunch,Margherita Pizza,Pizza,34,38,0,4,16,0
+2025-03-01,Lunch,Paneer Wrap,Wraps,49,47,2,0,11,0
+2025-03-01,Lunch,French Fries,Sides,95,90,5,0,13,0
+2025-03-01,Lunch,Cold Coffee,Beverages,58,49,9,0,7,1
+2025-03-01,Lunch,Veg Sandwich,Sandwiches,51,44,7,0,12,0
+2025-03-01,Lunch,Brownie,Desserts,17,13,4,0,6,0
+2025-03-01,Dinner,Classic Burger,Burgers,108,95,13,0,14,0
+2025-03-01,Dinner,Veg Burger,Burgers,60,48,12,0,13,1
+2025-03-01,Dinner,Margherita Pizza,Pizza,98,85,13,0,18,0
+2025-03-01,Dinner,Paneer Wrap,Wraps,51,41,10,0,7,1
+2025-03-01,Dinner,French Fries,Sides,175,152,23,0,15,0
+2025-03-01,Dinner,Cold Coffee,Beverages,140,116,24,0,10,1
+2025-03-01,Dinner,Veg Sandwich,Sandwiches,29,25,4,0,8,0
+2025-03-01,Dinner,Brownie,Desserts,36,34,2,0,6,0
+2025-03-02,Lunch,Classic Burger,Burgers,52,47,5,0,10,0
+2025-03-02,Lunch,Veg Burger,Burgers,49,45,4,0,10,0
+2025-03-02,Lunch,Margherita Pizza,Pizza,52,49,3,0,15,0
+2025-03-02,Lunch,Paneer Wrap,Wraps,52,49,3,0,11,0
+2025-03-02,Lunch,French Fries,Sides,147,125,22,0,13,0
+2025-03-02,Lunch,Cold Coffee,Beverages,73,61,12,0,7,1
+2025-03-02,Lunch,Veg Sandwich,Sandwiches,48,40,8,0,8,1
+2025-03-02,Lunch,Brownie,Desserts,13,11,2,0,5,0
+2025-03-02,Dinner,Classic Burger,Burgers,74,77,0,3,11,0
+2025-03-02,Dinner,Veg Burger,Burgers,55,48,7,0,12,0
+2025-03-02,Dinner,Margherita Pizza,Pizza,62,64,0,2,16,0
+2025-03-02,Dinner,Paneer Wrap,Wraps,47,43,4,0,8,0
+2025-03-02,Dinner,French Fries,Sides,188,157,31,0,13,1
+2025-03-02,Dinner,Cold Coffee,Beverages,120,108,12,0,12,0
+2025-03-02,Dinner,Veg Sandwich,Sandwiches,28,29,0,1,10,0
+2025-03-02,Dinner,Brownie,Desserts,31,29,2,0,8,0
+2025-03-03,Lunch,Classic Burger,Burgers,48,41,7,0,11,0
+2025-03-03,Lunch,Veg Burger,Burgers,38,35,3,0,11,0
+2025-03-03,Lunch,Margherita Pizza,Pizza,40,31,9,0,13,1
+2025-03-03,Lunch,Paneer Wrap,Wraps,41,33,8,0,10,1
+2025-03-03,Lunch,French Fries,Sides,84,77,7,0,8,0
+2025-03-03,Lunch,Cold Coffee,Beverages,51,45,6,0,8,0
+2025-03-03,Lunch,Veg Sandwich,Sandwiches,29,28,1,0,8,0
+2025-03-03,Lunch,Brownie,Desserts,7,6,1,0,5,0
+2025-03-03,Dinner,Classic Burger,Burgers,75,60,15,0,13,1
+2025-03-03,Dinner,Veg Burger,Burgers,41,41,0,0,9,0
+2025-03-03,Dinner,Margherita Pizza,Pizza,59,56,3,0,17,0
+2025-03-03,Dinner,Paneer Wrap,Wraps,35,30,5,0,8,0
+2025-03-03,Dinner,French Fries,Sides,106,96,10,0,9,0
+2025-03-03,Dinner,Cold Coffee,Beverages,68,72,0,4,7,0
+2025-03-03,Dinner,Veg Sandwich,Sandwiches,18,15,3,0,8,0
+2025-03-03,Dinner,Brownie,Desserts,20,20,0,0,8,0
+2025-03-04,Lunch,Classic Burger,Burgers,39,35,4,0,10,0
+2025-03-04,Lunch,Veg Burger,Burgers,32,29,3,0,9,0
+2025-03-04,Lunch,Margherita Pizza,Pizza,26,30,0,4,15,0
+2025-03-04,Lunch,Paneer Wrap,Wraps,34,29,5,0,7,1
+2025-03-04,Lunch,French Fries,Sides,73,64,9,0,7,0
+2025-03-04,Lunch,Cold Coffee,Beverages,46,44,2,0,6,0
+2025-03-04,Lunch,Veg Sandwich,Sandwiches,28,28,0,0,6,0
+2025-03-04,Lunch,Brownie,Desserts,10,11,0,1,5,0
+2025-03-04,Dinner,Classic Burger,Burgers,61,56,5,0,12,0
+2025-03-04,Dinner,Veg Burger,Burgers,45,39,6,0,11,0
+2025-03-04,Dinner,Margherita Pizza,Pizza,55,54,1,0,17,0
+2025-03-04,Dinner,Paneer Wrap,Wraps,28,28,0,0,8,0
+2025-03-04,Dinner,French Fries,Sides,99,99,0,0,11,0
+2025-03-04,Dinner,Cold Coffee,Beverages,84,74,10,0,8,0
+2025-03-04,Dinner,Veg Sandwich,Sandwiches,16,13,3,0,9,0
+2025-03-04,Dinner,Brownie,Desserts,22,23,0,1,6,0
+2025-03-05,Lunch,Classic Burger,Burgers,46,39,7,0,10,1
+2025-03-05,Lunch,Veg Burger,Burgers,30,28,2,0,9,0
+2025-03-05,Lunch,Margherita Pizza,Pizza,41,30,11,0,14,1
+2025-03-05,Lunch,Paneer Wrap,Wraps,49,40,9,0,10,1
+2025-03-05,Lunch,French Fries,Sides,27,30,0,3,8,0
+2025-03-05,Lunch,Cold Coffee,Beverages,23,27,0,4,6,0
+2025-03-05,Lunch,Veg Sandwich,Sandwiches,35,34,1,0,6,0
+2025-03-05,Lunch,Brownie,Desserts,9,10,0,1,5,0
+2025-03-05,Dinner,Classic Burger,Burgers,56,49,7,0,9,0
+2025-03-05,Dinner,Veg Burger,Burgers,44,41,3,0,7,0
+2025-03-05,Dinner,Margherita Pizza,Pizza,63,55,8,0,16,0
+2025-03-05,Dinner,Paneer Wrap,Wraps,31,28,3,0,9,0
+2025-03-05,Dinner,French Fries,Sides,107,100,7,0,11,0
+2025-03-05,Dinner,Cold Coffee,Beverages,93,72,21,0,7,1
+2025-03-05,Dinner,Veg Sandwich,Sandwiches,17,14,3,0,9,0
+2025-03-05,Dinner,Brownie,Desserts,26,25,1,0,6,0
+2025-03-06,Lunch,Classic Burger,Burgers,52,46,6,0,11,0
+2025-03-06,Lunch,Veg Burger,Burgers,34,28,6,0,10,1
+2025-03-06,Lunch,Margherita Pizza,Pizza,37,31,6,0,15,1
+2025-03-06,Lunch,Paneer Wrap,Wraps,29,37,0,8,10,0
+2025-03-06,Lunch,French Fries,Sides,106,92,14,0,11,0
+2025-03-06,Lunch,Cold Coffee,Beverages,52,47,5,0,7,0
+2025-03-06,Lunch,Veg Sandwich,Sandwiches,21,23,0,2,5,0
+2025-03-06,Lunch,Brownie,Desserts,9,9,0,0,5,0
+2025-03-06,Dinner,Classic Burger,Burgers,72,59,13,0,13,1
+2025-03-06,Dinner,Veg Burger,Burgers,50,43,7,0,11,0
+2025-03-06,Dinner,Margherita Pizza,Pizza,48,44,4,0,16,0
+2025-03-06,Dinner,Paneer Wrap,Wraps,30,30,0,0,9,0
+2025-03-06,Dinner,French Fries,Sides,122,91,31,0,11,1
+2025-03-06,Dinner,Cold Coffee,Beverages,77,71,6,0,8,0
+2025-03-06,Dinner,Veg Sandwich,Sandwiches,21,18,3,0,11,0
+2025-03-06,Dinner,Brownie,Desserts,29,24,5,0,6,1
+2025-03-07,Lunch,Classic Burger,Burgers,60,57,3,0,12,0
+2025-03-07,Lunch,Veg Burger,Burgers,49,48,1,0,12,0
+2025-03-07,Lunch,Margherita Pizza,Pizza,55,45,10,0,14,1
+2025-03-07,Lunch,Paneer Wrap,Wraps,55,49,6,0,9,0
+2025-03-07,Lunch,French Fries,Sides,117,112,5,0,10,0
+2025-03-07,Lunch,Cold Coffee,Beverages,94,82,12,0,9,0
+2025-03-07,Lunch,Veg Sandwich,Sandwiches,38,36,2,0,6,0
+2025-03-07,Lunch,Brownie,Desserts,12,12,0,0,5,0
+2025-03-07,Dinner,Classic Burger,Burgers,79,73,6,0,10,0
+2025-03-07,Dinner,Veg Burger,Burgers,52,54,0,2,10,0
+2025-03-07,Dinner,Margherita Pizza,Pizza,84,72,12,0,18,0
+2025-03-07,Dinner,Paneer Wrap,Wraps,53,44,9,0,12,1
+2025-03-07,Dinner,French Fries,Sides,212,172,40,0,18,1
+2025-03-07,Dinner,Cold Coffee,Beverages,142,137,5,0,10,0
+2025-03-07,Dinner,Veg Sandwich,Sandwiches,24,19,5,0,8,1
+2025-03-07,Dinner,Brownie,Desserts,37,39,0,2,9,0
+2025-03-08,Lunch,Classic Burger,Burgers,63,52,11,0,13,1
+2025-03-08,Lunch,Veg Burger,Burgers,49,42,7,0,12,0
+2025-03-08,Lunch,Margherita Pizza,Pizza,50,46,4,0,16,0
+2025-03-08,Lunch,Paneer Wrap,Wraps,71,64,7,0,11,0
+2025-03-08,Lunch,French Fries,Sides,117,106,11,0,11,0
+2025-03-08,Lunch,Cold Coffee,Beverages,65,60,5,0,7,0
+2025-03-08,Lunch,Veg Sandwich,Sandwiches,45,37,8,0,9,1
+2025-03-08,Lunch,Brownie,Desserts,14,13,1,0,6,0
+2025-03-08,Dinner,Classic Burger,Burgers,103,81,22,0,18,1
+2025-03-08,Dinner,Veg Burger,Burgers,49,45,4,0,11,0
+2025-03-08,Dinner,Margherita Pizza,Pizza,97,90,7,0,18,0
+2025-03-08,Dinner,Paneer Wrap,Wraps,39,33,6,0,10,1
+2025-03-08,Dinner,French Fries,Sides,194,159,35,0,12,1
+2025-03-08,Dinner,Cold Coffee,Beverages,132,122,10,0,12,0
+2025-03-08,Dinner,Veg Sandwich,Sandwiches,24,20,4,0,7,0
+2025-03-08,Dinner,Brownie,Desserts,34,27,7,0,9,1
+2025-03-09,Lunch,Classic Burger,Burgers,63,50,13,0,12,1
+2025-03-09,Lunch,Veg Burger,Burgers,55,45,10,0,10,1
+2025-03-09,Lunch,Margherita Pizza,Pizza,39,41,0,2,14,0
+2025-03-09,Lunch,Paneer Wrap,Wraps,73,62,11,0,8,0
+2025-03-09,Lunch,French Fries,Sides,126,106,20,0,12,0
+2025-03-09,Lunch,Cold Coffee,Beverages,66,59,7,0,10,0
+2025-03-09,Lunch,Veg Sandwich,Sandwiches,46,43,3,0,10,0
+2025-03-09,Lunch,Brownie,Desserts,13,13,0,0,5,0
+2025-03-09,Dinner,Classic Burger,Burgers,92,78,14,0,14,0
+2025-03-09,Dinner,Veg Burger,Burgers,45,47,0,2,12,0
+2025-03-09,Dinner,Margherita Pizza,Pizza,78,81,0,3,18,0
+2025-03-09,Dinner,Paneer Wrap,Wraps,37,42,0,5,10,0
+2025-03-09,Dinner,French Fries,Sides,190,178,12,0,17,0
+2025-03-09,Dinner,Cold Coffee,Beverages,117,99,18,0,10,0
+2025-03-09,Dinner,Veg Sandwich,Sandwiches,26,25,1,0,7,0
+2025-03-09,Dinner,Brownie,Desserts,33,31,2,0,8,0
+2025-03-10,Lunch,Classic Burger,Burgers,44,36,8,0,10,1
+2025-03-10,Lunch,Veg Burger,Burgers,30,27,3,0,10,0
+2025-03-10,Lunch,Margherita Pizza,Pizza,43,37,6,0,13,0
+2025-03-10,Lunch,Paneer Wrap,Wraps,38,32,6,0,10,1
+2025-03-10,Lunch,French Fries,Sides,91,70,21,0,7,1
+2025-03-10,Lunch,Cold Coffee,Beverages,38,38,0,0,5,0
+2025-03-10,Lunch,Veg Sandwich,Sandwiches,30,24,6,0,7,1
+2025-03-10,Lunch,Brownie,Desserts,9,9,0,0,6,0
+2025-03-10,Dinner,Classic Burger,Burgers,69,63,6,0,12,0
+2025-03-10,Dinner,Veg Burger,Burgers,38,34,4,0,10,0
+2025-03-10,Dinner,Margherita Pizza,Pizza,58,56,2,0,16,0
+2025-03-10,Dinner,Paneer Wrap,Wraps,32,28,4,0,11,0
+2025-03-10,Dinner,French Fries,Sides,110,85,25,0,11,1
+2025-03-10,Dinner,Cold Coffee,Beverages,101,86,15,0,10,0
+2025-03-10,Dinner,Veg Sandwich,Sandwiches,19,18,1,0,9,0
+2025-03-10,Dinner,Brownie,Desserts,18,19,0,1,5,0
+2025-03-11,Lunch,Classic Burger,Burgers,41,36,5,0,13,0
+2025-03-11,Lunch,Veg Burger,Burgers,30,29,1,0,8,0
+2025-03-11,Lunch,Margherita Pizza,Pizza,22,21,1,0,13,0
+2025-03-11,Lunch,Paneer Wrap,Wraps,40,31,9,0,12,1
+2025-03-11,Lunch,French Fries,Sides,61,51,10,0,8,1
+2025-03-11,Lunch,Cold Coffee,Beverages,47,37,10,0,6,1
+2025-03-11,Lunch,Veg Sandwich,Sandwiches,38,30,8,0,10,1
+2025-03-11,Lunch,Brownie,Desserts,5,4,1,0,6,0
+2025-03-11,Dinner,Classic Burger,Burgers,47,47,0,0,11,0
+2025-03-11,Dinner,Veg Burger,Burgers,47,39,8,0,8,1
+2025-03-11,Dinner,Margherita Pizza,Pizza,60,56,4,0,16,0
+2025-03-11,Dinner,Paneer Wrap,Wraps,35,30,5,0,9,0
+2025-03-11,Dinner,French Fries,Sides,93,91,2,0,11,0
+2025-03-11,Dinner,Cold Coffee,Beverages,94,86,8,0,7,0
+2025-03-11,Dinner,Veg Sandwich,Sandwiches,18,18,0,0,6,0
+2025-03-11,Dinner,Brownie,Desserts,29,25,4,0,6,0
+2025-03-12,Lunch,Classic Burger,Burgers,40,39,1,0,13,0
+2025-03-12,Lunch,Veg Burger,Burgers,32,29,3,0,9,0
+2025-03-12,Lunch,Margherita Pizza,Pizza,33,30,3,0,14,0
+2025-03-12,Lunch,Paneer Wrap,Wraps,44,41,3,0,10,0
+2025-03-12,Lunch,French Fries,Sides,72,68,4,0,11,0
+2025-03-12,Lunch,Cold Coffee,Beverages,54,51,3,0,9,0
+2025-03-12,Lunch,Veg Sandwich,Sandwiches,35,30,5,0,7,0
+2025-03-12,Lunch,Brownie,Desserts,10,9,1,0,5,0
+2025-03-12,Dinner,Classic Burger,Burgers,51,48,3,0,10,0
+2025-03-12,Dinner,Veg Burger,Burgers,46,38,8,0,10,1
+2025-03-12,Dinner,Margherita Pizza,Pizza,66,57,9,0,21,0
+2025-03-12,Dinner,Paneer Wrap,Wraps,35,28,7,0,10,1
+2025-03-12,Dinner,French Fries,Sides,72,74,0,2,11,0
+2025-03-12,Dinner,Cold Coffee,Beverages,84,67,17,0,8,1
+2025-03-12,Dinner,Veg Sandwich,Sandwiches,14,15,0,1,7,0
+2025-03-12,Dinner,Brownie,Desserts,26,26,0,0,6,0
+2025-03-13,Lunch,Classic Burger,Burgers,31,33,0,2,13,0
+2025-03-13,Lunch,Veg Burger,Burgers,23,24,0,1,10,0
+2025-03-13,Lunch,Margherita Pizza,Pizza,40,35,5,0,17,0
+2025-03-13,Lunch,Paneer Wrap,Wraps,46,46,0,0,12,0
+2025-03-13,Lunch,French Fries,Sides,60,57,3,0,8,0
+2025-03-13,Lunch,Cold Coffee,Beverages,68,57,11,0,7,1
+2025-03-13,Lunch,Veg Sandwich,Sandwiches,31,35,0,4,6,0
+2025-03-13,Lunch,Brownie,Desserts,6,5,1,0,5,0
+2025-03-13,Dinner,Classic Burger,Burgers,55,54,1,0,10,0
+2025-03-13,Dinner,Veg Burger,Burgers,50,43,7,0,10,0
+2025-03-13,Dinner,Margherita Pizza,Pizza,64,61,3,0,19,0
+2025-03-13,Dinner,Paneer Wrap,Wraps,34,28,6,0,8,1
+2025-03-13,Dinner,French Fries,Sides,149,117,32,0,11,1
+2025-03-13,Dinner,Cold Coffee,Beverages,72,68,4,0,8,0
+2025-03-13,Dinner,Veg Sandwich,Sandwiches,16,14,2,0,7,0
+2025-03-13,Dinner,Brownie,Desserts,26,23,3,0,5,0
+2025-03-14,Lunch,Classic Burger,Burgers,78,75,3,0,14,0
+2025-03-14,Lunch,Veg Burger,Burgers,52,47,5,0,13,0
+2025-03-14,Lunch,Margherita Pizza,Pizza,46,46,0,0,16,0
+2025-03-14,Lunch,Paneer Wrap,Wraps,70,64,6,0,11,0
+2025-03-14,Lunch,French Fries,Sides,114,116,0,2,14,0
+2025-03-14,Lunch,Cold Coffee,Beverages,94,75,19,0,9,1
+2025-03-14,Lunch,Veg Sandwich,Sandwiches,54,47,7,0,11,0
+2025-03-14,Lunch,Brownie,Desserts,18,17,1,0,6,0
+2025-03-14,Dinner,Classic Burger,Burgers,132,124,8,0,17,0
+2025-03-14,Dinner,Veg Burger,Burgers,64,57,7,0,10,0
+2025-03-14,Dinner,Margherita Pizza,Pizza,118,100,18,0,19,0
+2025-03-14,Dinner,Paneer Wrap,Wraps,50,37,13,0,12,1
+2025-03-14,Dinner,French Fries,Sides,176,174,2,0,16,0
+2025-03-14,Dinner,Cold Coffee,Beverages,105,102,3,0,10,0
+2025-03-14,Dinner,Veg Sandwich,Sandwiches,32,30,2,0,8,0
+2025-03-14,Dinner,Brownie,Desserts,39,38,1,0,6,0
+2025-03-15,Lunch,Classic Burger,Burgers,60,55,5,0,13,0
+2025-03-15,Lunch,Veg Burger,Burgers,57,46,11,0,14,1
+2025-03-15,Lunch,Margherita Pizza,Pizza,50,48,2,0,16,0
+2025-03-15,Lunch,Paneer Wrap,Wraps,50,48,2,0,11,0
+2025-03-15,Lunch,French Fries,Sides,109,97,12,0,12,0
+2025-03-15,Lunch,Cold Coffee,Beverages,81,67,14,0,9,1
+2025-03-15,Lunch,Veg Sandwich,Sandwiches,46,44,2,0,9,0
+2025-03-15,Lunch,Brownie,Desserts,18,15,3,0,5,0
+2025-03-15,Dinner,Classic Burger,Burgers,79,68,11,0,14,0
+2025-03-15,Dinner,Veg Burger,Burgers,67,61,6,0,14,0
+2025-03-15,Dinner,Margherita Pizza,Pizza,53,53,0,0,15,0
+2025-03-15,Dinner,Paneer Wrap,Wraps,48,41,7,0,10,0
+2025-03-15,Dinner,French Fries,Sides,139,139,0,0,13,0
+2025-03-15,Dinner,Cold Coffee,Beverages,102,93,9,0,10,0
+2025-03-15,Dinner,Veg Sandwich,Sandwiches,15,17,0,2,7,0
+2025-03-15,Dinner,Brownie,Desserts,35,34,1,0,9,0
+2025-03-16,Lunch,Classic Burger,Burgers,65,57,8,0,15,0
+2025-03-16,Lunch,Veg Burger,Burgers,50,48,2,0,10,0
+2025-03-16,Lunch,Margherita Pizza,Pizza,51,43,8,0,15,1
+2025-03-16,Lunch,Paneer Wrap,Wraps,55,57,0,2,11,0
+2025-03-16,Lunch,French Fries,Sides,97,98,0,1,11,0
+2025-03-16,Lunch,Cold Coffee,Beverages,69,62,7,0,7,0
+2025-03-16,Lunch,Veg Sandwich,Sandwiches,46,48,0,2,11,0
+2025-03-16,Lunch,Brownie,Desserts,15,13,2,0,6,0
+2025-03-16,Dinner,Classic Burger,Burgers,78,74,4,0,11,0
+2025-03-16,Dinner,Veg Burger,Burgers,60,54,6,0,12,0
+2025-03-16,Dinner,Margherita Pizza,Pizza,100,91,9,0,17,0
+2025-03-16,Dinner,Paneer Wrap,Wraps,50,42,8,0,9,1
+2025-03-16,Dinner,French Fries,Sides,139,131,8,0,13,0
+2025-03-16,Dinner,Cold Coffee,Beverages,149,126,23,0,12,0
+2025-03-16,Dinner,Veg Sandwich,Sandwiches,19,20,0,1,5,0
+2025-03-16,Dinner,Brownie,Desserts,55,42,13,0,7,1
+2025-03-17,Lunch,Classic Burger,Burgers,39,41,0,2,9,0
+2025-03-17,Lunch,Veg Burger,Burgers,34,29,5,0,7,1
+2025-03-17,Lunch,Margherita Pizza,Pizza,41,36,5,0,13,0
+2025-03-17,Lunch,Paneer Wrap,Wraps,42,39,3,0,9,0
+2025-03-17,Lunch,French Fries,Sides,69,66,3,0,8,0
+2025-03-17,Lunch,Cold Coffee,Beverages,50,47,3,0,7,0
+2025-03-17,Lunch,Veg Sandwich,Sandwiches,27,26,1,0,8,0
+2025-03-17,Lunch,Brownie,Desserts,6,5,1,0,5,0
+2025-03-17,Dinner,Classic Burger,Burgers,56,46,10,0,11,1
+2025-03-17,Dinner,Veg Burger,Burgers,50,46,4,0,10,0
+2025-03-17,Dinner,Margherita Pizza,Pizza,61,48,13,0,17,1
+2025-03-17,Dinner,Paneer Wrap,Wraps,34,27,7,0,8,1
+2025-03-17,Dinner,French Fries,Sides,135,123,12,0,12,0
+2025-03-17,Dinner,Cold Coffee,Beverages,92,84,8,0,10,0
+2025-03-17,Dinner,Veg Sandwich,Sandwiches,18,15,3,0,8,0
+2025-03-17,Dinner,Brownie,Desserts,23,22,1,0,6,0
+2025-03-18,Lunch,Classic Burger,Burgers,43,45,0,2,12,0
+2025-03-18,Lunch,Veg Burger,Burgers,36,37,0,1,11,0
+2025-03-18,Lunch,Margherita Pizza,Pizza,33,26,7,0,16,1
+2025-03-18,Lunch,Paneer Wrap,Wraps,36,34,2,0,8,0
+2025-03-18,Lunch,French Fries,Sides,52,50,2,0,9,0
+2025-03-18,Lunch,Cold Coffee,Beverages,42,38,4,0,9,0
+2025-03-18,Lunch,Veg Sandwich,Sandwiches,32,26,6,0,7,1
+2025-03-18,Lunch,Brownie,Desserts,11,10,1,0,5,0
+2025-03-18,Dinner,Classic Burger,Burgers,64,60,4,0,13,0
+2025-03-18,Dinner,Veg Burger,Burgers,37,33,4,0,9,0
+2025-03-18,Dinner,Margherita Pizza,Pizza,53,51,2,0,15,0
+2025-03-18,Dinner,Paneer Wrap,Wraps,27,24,3,0,10,0
+2025-03-18,Dinner,French Fries,Sides,82,72,10,0,8,0
+2025-03-18,Dinner,Cold Coffee,Beverages,100,85,15,0,9,0
+2025-03-18,Dinner,Veg Sandwich,Sandwiches,11,14,0,3,5,0
+2025-03-18,Dinner,Brownie,Desserts,26,25,1,0,10,0
+2025-03-19,Lunch,Classic Burger,Burgers,43,39,4,0,9,0
+2025-03-19,Lunch,Veg Burger,Burgers,41,37,4,0,8,0
+2025-03-19,Lunch,Margherita Pizza,Pizza,42,37,5,0,14,0
+2025-03-19,Lunch,Paneer Wrap,Wraps,40,37,3,0,11,0
+2025-03-19,Lunch,French Fries,Sides,68,67,1,0,8,0
+2025-03-19,Lunch,Cold Coffee,Beverages,46,43,3,0,7,0
+2025-03-19,Lunch,Veg Sandwich,Sandwiches,29,28,1,0,6,0
+2025-03-19,Lunch,Brownie,Desserts,8,8,0,0,5,0
+2025-03-19,Dinner,Classic Burger,Burgers,69,62,7,0,11,0
+2025-03-19,Dinner,Veg Burger,Burgers,40,32,8,0,8,1
+2025-03-19,Dinner,Margherita Pizza,Pizza,62,62,0,0,16,0
+2025-03-19,Dinner,Paneer Wrap,Wraps,30,29,1,0,10,0
+2025-03-19,Dinner,French Fries,Sides,143,132,11,0,15,0
+2025-03-19,Dinner,Cold Coffee,Beverages,79,77,2,0,9,0
+2025-03-19,Dinner,Veg Sandwich,Sandwiches,14,13,1,0,9,0
+2025-03-19,Dinner,Brownie,Desserts,23,22,1,0,6,0
+2025-03-20,Lunch,Classic Burger,Burgers,39,34,5,0,11,0
+2025-03-20,Lunch,Veg Burger,Burgers,43,35,8,0,11,1
+2025-03-20,Lunch,Margherita Pizza,Pizza,43,37,6,0,14,0
+2025-03-20,Lunch,Paneer Wrap,Wraps,37,36,1,0,9,0
+2025-03-20,Lunch,French Fries,Sides,55,48,7,0,10,0
+2025-03-20,Lunch,Cold Coffee,Beverages,59,44,15,0,8,1
+2025-03-20,Lunch,Veg Sandwich,Sandwiches,31,30,1,0,10,0
+2025-03-20,Lunch,Brownie,Desserts,6,5,1,0,5,0
+2025-03-20,Dinner,Classic Burger,Burgers,66,67,0,1,13,0
+2025-03-20,Dinner,Veg Burger,Burgers,31,32,0,1,8,0
+2025-03-20,Dinner,Margherita Pizza,Pizza,71,61,10,0,18,0
+2025-03-20,Dinner,Paneer Wrap,Wraps,32,28,4,0,7,0
+2025-03-20,Dinner,French Fries,Sides,107,91,16,0,8,0
+2025-03-20,Dinner,Cold Coffee,Beverages,58,61,0,3,6,0
+2025-03-20,Dinner,Veg Sandwich,Sandwiches,15,15,0,0,9,0
+2025-03-20,Dinner,Brownie,Desserts,26,24,2,0,9,0
+2025-03-21,Lunch,Classic Burger,Burgers,61,55,6,0,14,0
+2025-03-21,Lunch,Veg Burger,Burgers,53,46,7,0,10,0
+2025-03-21,Lunch,Margherita Pizza,Pizza,51,48,3,0,14,0
+2025-03-21,Lunch,Paneer Wrap,Wraps,49,50,0,1,11,0
+2025-03-21,Lunch,French Fries,Sides,137,123,14,0,13,0
+2025-03-21,Lunch,Cold Coffee,Beverages,92,72,20,0,9,1
+2025-03-21,Lunch,Veg Sandwich,Sandwiches,64,48,16,0,8,1
+2025-03-21,Lunch,Brownie,Desserts,14,14,0,0,7,0
+2025-03-21,Dinner,Classic Burger,Burgers,72,83,0,11,15,0
+2025-03-21,Dinner,Veg Burger,Burgers,56,46,10,0,12,1
+2025-03-21,Dinner,Margherita Pizza,Pizza,88,74,14,0,17,1
+2025-03-21,Dinner,Paneer Wrap,Wraps,33,32,1,0,10,0
+2025-03-21,Dinner,French Fries,Sides,200,185,15,0,17,0
+2025-03-21,Dinner,Cold Coffee,Beverages,141,126,15,0,10,0
+2025-03-21,Dinner,Veg Sandwich,Sandwiches,21,20,1,0,5,0
+2025-03-21,Dinner,Brownie,Desserts,35,32,3,0,7,0
+2025-03-22,Lunch,Classic Burger,Burgers,60,59,1,0,11,0
+2025-03-22,Lunch,Veg Burger,Burgers,47,44,3,0,10,0
+2025-03-22,Lunch,Margherita Pizza,Pizza,83,58,25,0,17,1
+2025-03-22,Lunch,Paneer Wrap,Wraps,51,43,8,0,10,1
+2025-03-22,Lunch,French Fries,Sides,107,94,13,0,10,0
+2025-03-22,Lunch,Cold Coffee,Beverages,78,66,12,0,8,0
+2025-03-22,Lunch,Veg Sandwich,Sandwiches,46,44,2,0,9,0
+2025-03-22,Lunch,Brownie,Desserts,13,11,2,0,7,0
+2025-03-22,Dinner,Classic Burger,Burgers,90,82,8,0,13,0
+2025-03-22,Dinner,Veg Burger,Burgers,57,50,7,0,10,0
+2025-03-22,Dinner,Margherita Pizza,Pizza,95,90,5,0,19,0
+2025-03-22,Dinner,Paneer Wrap,Wraps,50,43,7,0,9,0
+2025-03-22,Dinner,French Fries,Sides,137,137,0,0,15,0
+2025-03-22,Dinner,Cold Coffee,Beverages,129,123,6,0,10,0
+2025-03-22,Dinner,Veg Sandwich,Sandwiches,28,26,2,0,7,0
+2025-03-22,Dinner,Brownie,Desserts,27,28,0,1,5,0
+2025-03-23,Lunch,Classic Burger,Burgers,55,54,1,0,13,0
+2025-03-23,Lunch,Veg Burger,Burgers,54,53,1,0,11,0
+2025-03-23,Lunch,Margherita Pizza,Pizza,90,83,7,0,17,0
+2025-03-23,Lunch,Paneer Wrap,Wraps,86,67,19,0,11,1
+2025-03-23,Lunch,French Fries,Sides,158,138,20,0,15,0
+2025-03-23,Lunch,Cold Coffee,Beverages,83,70,13,0,8,0
+2025-03-23,Lunch,Veg Sandwich,Sandwiches,59,49,10,0,8,1
+2025-03-23,Lunch,Brownie,Desserts,15,15,0,0,7,0
+2025-03-23,Dinner,Classic Burger,Burgers,120,103,17,0,13,0
+2025-03-23,Dinner,Veg Burger,Burgers,84,69,15,0,10,1
+2025-03-23,Dinner,Margherita Pizza,Pizza,244,177,67,0,23,1
+2025-03-23,Dinner,Paneer Wrap,Wraps,55,49,6,0,10,0
+2025-03-23,Dinner,French Fries,Sides,189,174,15,0,16,0
+2025-03-23,Dinner,Cold Coffee,Beverages,142,127,15,0,14,0
+2025-03-23,Dinner,Veg Sandwich,Sandwiches,30,28,2,0,6,0
+2025-03-23,Dinner,Brownie,Desserts,32,39,0,7,6,0
+2025-03-24,Lunch,Classic Burger,Burgers,57,46,11,0,12,1
+2025-03-24,Lunch,Veg Burger,Burgers,32,29,3,0,13,0
+2025-03-24,Lunch,Margherita Pizza,Pizza,36,29,7,0,17,1
+2025-03-24,Lunch,Paneer Wrap,Wraps,31,32,0,1,10,0
+2025-03-24,Lunch,French Fries,Sides,82,67,15,0,8,1
+2025-03-24,Lunch,Cold Coffee,Beverages,50,46,4,0,5,0
+2025-03-24,Lunch,Veg Sandwich,Sandwiches,32,30,2,0,8,0
+2025-03-24,Lunch,Brownie,Desserts,6,6,0,0,5,0
+2025-03-24,Dinner,Classic Burger,Burgers,75,65,10,0,15,0
+2025-03-24,Dinner,Veg Burger,Burgers,38,40,0,2,8,0
+2025-03-24,Dinner,Margherita Pizza,Pizza,52,57,0,5,14,0
+2025-03-24,Dinner,Paneer Wrap,Wraps,31,28,3,0,8,0
+2025-03-24,Dinner,French Fries,Sides,129,118,11,0,11,0
+2025-03-24,Dinner,Cold Coffee,Beverages,94,81,13,0,10,0
+2025-03-24,Dinner,Veg Sandwich,Sandwiches,17,14,3,0,5,0
+2025-03-24,Dinner,Brownie,Desserts,18,20,0,2,6,0
+2025-03-25,Lunch,Classic Burger,Burgers,23,23,0,0,9,0
+2025-03-25,Lunch,Veg Burger,Burgers,34,32,2,0,8,0
+2025-03-25,Lunch,Margherita Pizza,Pizza,30,28,2,0,15,0
+2025-03-25,Lunch,Paneer Wrap,Wraps,40,35,5,0,9,0
+2025-03-25,Lunch,French Fries,Sides,80,64,16,0,10,1
+2025-03-25,Lunch,Cold Coffee,Beverages,39,35,4,0,5,0
+2025-03-25,Lunch,Veg Sandwich,Sandwiches,36,32,4,0,7,0
+2025-03-25,Lunch,Brownie,Desserts,10,8,2,0,7,0
+2025-03-25,Dinner,Classic Burger,Burgers,61,52,9,0,9,0
+2025-03-25,Dinner,Veg Burger,Burgers,35,34,1,0,8,0
+2025-03-25,Dinner,Margherita Pizza,Pizza,65,54,11,0,15,1
+2025-03-25,Dinner,Paneer Wrap,Wraps,33,28,5,0,9,1
+2025-03-25,Dinner,French Fries,Sides,111,107,4,0,13,0
+2025-03-25,Dinner,Cold Coffee,Beverages,81,78,3,0,10,0
+2025-03-25,Dinner,Veg Sandwich,Sandwiches,15,15,0,0,8,0
+2025-03-25,Dinner,Brownie,Desserts,24,23,1,0,5,0
+2025-03-26,Lunch,Classic Burger,Burgers,38,38,0,0,13,0
+2025-03-26,Lunch,Veg Burger,Burgers,28,30,0,2,11,0
+2025-03-26,Lunch,Margherita Pizza,Pizza,23,22,1,0,14,0
+2025-03-26,Lunch,Paneer Wrap,Wraps,34,33,1,0,8,0
+2025-03-26,Lunch,French Fries,Sides,93,78,15,0,9,1
+2025-03-26,Lunch,Cold Coffee,Beverages,45,47,0,2,5,0
+2025-03-26,Lunch,Veg Sandwich,Sandwiches,31,31,0,0,10,0
+2025-03-26,Lunch,Brownie,Desserts,10,8,2,0,5,0
+2025-03-26,Dinner,Classic Burger,Burgers,58,51,7,0,12,0
+2025-03-26,Dinner,Veg Burger,Burgers,56,52,4,0,9,0
+2025-03-26,Dinner,Margherita Pizza,Pizza,53,55,0,2,18,0
+2025-03-26,Dinner,Paneer Wrap,Wraps,34,30,4,0,10,0
+2025-03-26,Dinner,French Fries,Sides,119,112,7,0,11,0
+2025-03-26,Dinner,Cold Coffee,Beverages,73,63,10,0,7,0
+2025-03-26,Dinner,Veg Sandwich,Sandwiches,18,17,1,0,7,0
+2025-03-26,Dinner,Brownie,Desserts,31,27,4,0,8,0
+2025-03-27,Lunch,Classic Burger,Burgers,35,30,5,0,9,0
+2025-03-27,Lunch,Veg Burger,Burgers,32,26,6,0,9,1
+2025-03-27,Lunch,Margherita Pizza,Pizza,32,29,3,0,12,0
+2025-03-27,Lunch,Paneer Wrap,Wraps,33,35,0,2,11,0
+2025-03-27,Lunch,French Fries,Sides,68,69,0,1,12,0
+2025-03-27,Lunch,Cold Coffee,Beverages,52,43,9,0,5,1
+2025-03-27,Lunch,Veg Sandwich,Sandwiches,28,24,4,0,7,0
+2025-03-27,Lunch,Brownie,Desserts,12,11,1,0,6,0
+2025-03-27,Dinner,Classic Burger,Burgers,47,50,0,3,11,0
+2025-03-27,Dinner,Veg Burger,Burgers,38,36,2,0,9,0
+2025-03-27,Dinner,Margherita Pizza,Pizza,69,65,4,0,17,0
+2025-03-27,Dinner,Paneer Wrap,Wraps,28,28,0,0,10,0
+2025-03-27,Dinner,French Fries,Sides,95,119,0,24,10,0
+2025-03-27,Dinner,Cold Coffee,Beverages,76,77,0,1,8,0
+2025-03-27,Dinner,Veg Sandwich,Sandwiches,18,16,2,0,6,0
+2025-03-27,Dinner,Brownie,Desserts,21,20,1,0,5,0
+2025-03-28,Lunch,Classic Burger,Burgers,60,49,11,0,13,1
+2025-03-28,Lunch,Veg Burger,Burgers,46,32,14,0,7,1
+2025-03-28,Lunch,Margherita Pizza,Pizza,34,33,1,0,14,0
+2025-03-28,Lunch,Paneer Wrap,Wraps,45,44,1,0,8,0
+2025-03-28,Lunch,French Fries,Sides,79,80,0,1,11,0
+2025-03-28,Lunch,Cold Coffee,Beverages,65,53,12,0,6,1
+2025-03-28,Lunch,Veg Sandwich,Sandwiches,30,36,0,6,8,0
+2025-03-28,Lunch,Brownie,Desserts,9,10,0,1,5,0
+2025-03-28,Dinner,Classic Burger,Burgers,69,55,14,0,11,1
+2025-03-28,Dinner,Veg Burger,Burgers,46,38,8,0,10,1
+2025-03-28,Dinner,Margherita Pizza,Pizza,61,53,8,0,13,0
+2025-03-28,Dinner,Paneer Wrap,Wraps,39,31,8,0,10,1
+2025-03-28,Dinner,French Fries,Sides,105,99,6,0,11,0
+2025-03-28,Dinner,Cold Coffee,Beverages,106,93,13,0,6,0
+2025-03-28,Dinner,Veg Sandwich,Sandwiches,16,17,0,1,5,0
+2025-03-28,Dinner,Brownie,Desserts,26,24,2,0,5,0
+2025-03-29,Lunch,Classic Burger,Burgers,63,55,8,0,12,0
+2025-03-29,Lunch,Veg Burger,Burgers,41,41,0,0,9,0
+2025-03-29,Lunch,Margherita Pizza,Pizza,54,47,7,0,13,0
+2025-03-29,Lunch,Paneer Wrap,Wraps,56,54,2,0,10,0
+2025-03-29,Lunch,French Fries,Sides,128,113,15,0,12,0
+2025-03-29,Lunch,Cold Coffee,Beverages,59,60,0,1,10,0
+2025-03-29,Lunch,Veg Sandwich,Sandwiches,42,41,1,0,8,0
+2025-03-29,Lunch,Brownie,Desserts,11,9,2,0,5,0
+2025-03-29,Dinner,Classic Burger,Burgers,92,74,18,0,12,1
+2025-03-29,Dinner,Veg Burger,Burgers,55,57,0,2,9,0
+2025-03-29,Dinner,Margherita Pizza,Pizza,94,93,1,0,17,0
+2025-03-29,Dinner,Paneer Wrap,Wraps,52,45,7,0,9,0
+2025-03-29,Dinner,French Fries,Sides,198,157,41,0,13,1
+2025-03-29,Dinner,Cold Coffee,Beverages,117,111,6,0,14,0
+2025-03-29,Dinner,Veg Sandwich,Sandwiches,34,29,5,0,6,1
+2025-03-29,Dinner,Brownie,Desserts,28,27,1,0,7,0
+2025-03-30,Lunch,Classic Burger,Burgers,45,38,7,0,12,1
+2025-03-30,Lunch,Veg Burger,Burgers,54,47,7,0,11,0
+2025-03-30,Lunch,Margherita Pizza,Pizza,54,51,3,0,14,0
+2025-03-30,Lunch,Paneer Wrap,Wraps,65,54,11,0,9,1
+2025-03-30,Lunch,French Fries,Sides,90,86,4,0,10,0
+2025-03-30,Lunch,Cold Coffee,Beverages,79,67,12,0,8,0
+2025-03-30,Lunch,Veg Sandwich,Sandwiches,51,51,0,0,7,0
+2025-03-30,Lunch,Brownie,Desserts,9,9,0,0,5,0
+2025-03-30,Dinner,Classic Burger,Burgers,87,74,13,0,13,0
+2025-03-30,Dinner,Veg Burger,Burgers,71,68,3,0,11,0
+2025-03-30,Dinner,Margherita Pizza,Pizza,77,91,0,14,19,0
+2025-03-30,Dinner,Paneer Wrap,Wraps,40,40,0,0,9,0
+2025-03-30,Dinner,French Fries,Sides,164,135,29,0,12,1
+2025-03-30,Dinner,Cold Coffee,Beverages,89,87,2,0,6,0
+2025-03-30,Dinner,Veg Sandwich,Sandwiches,32,28,4,0,7,0
+2025-03-30,Dinner,Brownie,Desserts,42,38,4,0,9,0
+2025-03-31,Lunch,Classic Burger,Burgers,51,43,8,0,11,1
+2025-03-31,Lunch,Veg Burger,Burgers,33,30,3,0,8,0
+2025-03-31,Lunch,Margherita Pizza,Pizza,40,36,4,0,15,0
+2025-03-31,Lunch,Paneer Wrap,Wraps,40,35,5,0,10,0
+2025-03-31,Lunch,French Fries,Sides,79,68,11,0,8,0
+2025-03-31,Lunch,Cold Coffee,Beverages,56,52,4,0,8,0
+2025-03-31,Lunch,Veg Sandwich,Sandwiches,36,36,0,0,10,0
+2025-03-31,Lunch,Brownie,Desserts,11,10,1,0,5,0
+2025-03-31,Dinner,Classic Burger,Burgers,63,58,5,0,12,0
+2025-03-31,Dinner,Veg Burger,Burgers,49,36,13,0,7,1
+2025-03-31,Dinner,Margherita Pizza,Pizza,52,54,0,2,16,0
+2025-03-31,Dinner,Paneer Wrap,Wraps,32,30,2,0,11,0
+2025-03-31,Dinner,French Fries,Sides,99,97,2,0,11,0
+2025-03-31,Dinner,Cold Coffee,Beverages,67,60,7,0,5,0
+2025-03-31,Dinner,Veg Sandwich,Sandwiches,17,14,3,0,9,0
+2025-03-31,Dinner,Brownie,Desserts,24,21,3,0,6,0
+2025-04-01,Lunch,Classic Burger,Burgers,38,32,6,0,11,1
+2025-04-01,Lunch,Veg Burger,Burgers,33,29,4,0,9,0
+2025-04-01,Lunch,Margherita Pizza,Pizza,31,32,0,1,15,0
+2025-04-01,Lunch,Paneer Wrap,Wraps,49,42,7,0,7,0
+2025-04-01,Lunch,French Fries,Sides,61,61,0,0,10,0
+2025-04-01,Lunch,Cold Coffee,Beverages,50,45,5,0,7,0
+2025-04-01,Lunch,Veg Sandwich,Sandwiches,32,27,5,0,10,1
+2025-04-01,Lunch,Brownie,Desserts,12,11,1,0,5,0
+2025-04-01,Dinner,Classic Burger,Burgers,63,61,2,0,13,0
+2025-04-01,Dinner,Veg Burger,Burgers,38,30,8,0,10,1
+2025-04-01,Dinner,Margherita Pizza,Pizza,46,45,1,0,15,0
+2025-04-01,Dinner,Paneer Wrap,Wraps,33,32,1,0,8,0
+2025-04-01,Dinner,French Fries,Sides,119,112,7,0,14,0
+2025-04-01,Dinner,Cold Coffee,Beverages,115,111,4,0,10,0
+2025-04-01,Dinner,Veg Sandwich,Sandwiches,17,14,3,0,7,0
+2025-04-01,Dinner,Brownie,Desserts,16,18,0,2,7,0
+2025-04-02,Lunch,Classic Burger,Burgers,48,44,4,0,12,0
+2025-04-02,Lunch,Veg Burger,Burgers,31,29,2,0,10,0
+2025-04-02,Lunch,Margherita Pizza,Pizza,29,26,3,0,15,0
+2025-04-02,Lunch,Paneer Wrap,Wraps,32,34,0,2,11,0
+2025-04-02,Lunch,French Fries,Sides,81,81,0,0,11,0
+2025-04-02,Lunch,Cold Coffee,Beverages,53,46,7,0,8,0
+2025-04-02,Lunch,Veg Sandwich,Sandwiches,17,15,2,0,5,0
+2025-04-02,Lunch,Brownie,Desserts,9,8,1,0,7,0
+2025-04-02,Dinner,Classic Burger,Burgers,71,59,12,0,13,1
+2025-04-02,Dinner,Veg Burger,Burgers,35,32,3,0,9,0
+2025-04-02,Dinner,Margherita Pizza,Pizza,63,54,9,0,19,0
+2025-04-02,Dinner,Paneer Wrap,Wraps,32,33,0,1,9,0
+2025-04-02,Dinner,French Fries,Sides,108,94,14,0,9,0
+2025-04-02,Dinner,Cold Coffee,Beverages,79,70,9,0,5,0
+2025-04-02,Dinner,Veg Sandwich,Sandwiches,8,8,0,0,9,0
+2025-04-02,Dinner,Brownie,Desserts,23,20,3,0,9,0
+2025-04-03,Lunch,Classic Burger,Burgers,44,42,2,0,11,0
+2025-04-03,Lunch,Veg Burger,Burgers,30,26,4,0,6,0
+2025-04-03,Lunch,Margherita Pizza,Pizza,35,33,2,0,13,0
+2025-04-03,Lunch,Paneer Wrap,Wraps,41,37,4,0,9,0
+2025-04-03,Lunch,French Fries,Sides,74,75,0,1,8,0
+2025-04-03,Lunch,Cold Coffee,Beverages,49,47,2,0,5,0
+2025-04-03,Lunch,Veg Sandwich,Sandwiches,40,36,4,0,6,0
+2025-04-03,Lunch,Brownie,Desserts,7,7,0,0,6,0
+2025-04-03,Dinner,Classic Burger,Burgers,59,56,3,0,12,0
+2025-04-03,Dinner,Veg Burger,Burgers,39,39,0,0,10,0
+2025-04-03,Dinner,Margherita Pizza,Pizza,68,69,0,1,19,0
+2025-04-03,Dinner,Paneer Wrap,Wraps,31,30,1,0,11,0
+2025-04-03,Dinner,French Fries,Sides,123,100,23,0,9,1
+2025-04-03,Dinner,Cold Coffee,Beverages,102,74,28,0,9,1
+2025-04-03,Dinner,Veg Sandwich,Sandwiches,19,18,1,0,8,0
+2025-04-03,Dinner,Brownie,Desserts,25,24,1,0,6,0
+2025-04-04,Lunch,Classic Burger,Burgers,70,65,5,0,15,0
+2025-04-04,Lunch,Veg Burger,Burgers,37,37,0,0,9,0
+2025-04-04,Lunch,Margherita Pizza,Pizza,46,38,8,0,14,1
+2025-04-04,Lunch,Paneer Wrap,Wraps,59,51,8,0,8,0
+2025-04-04,Lunch,French Fries,Sides,118,116,2,0,11,0
+2025-04-04,Lunch,Cold Coffee,Beverages,81,70,11,0,9,0
+2025-04-04,Lunch,Veg Sandwich,Sandwiches,37,37,0,0,9,0
+2025-04-04,Lunch,Brownie,Desserts,13,11,2,0,5,0
+2025-04-04,Dinner,Classic Burger,Burgers,135,111,24,0,16,1
+2025-04-04,Dinner,Veg Burger,Burgers,42,38,4,0,8,0
+2025-04-04,Dinner,Margherita Pizza,Pizza,67,69,0,2,16,0
+2025-04-04,Dinner,Paneer Wrap,Wraps,34,26,8,0,9,1
+2025-04-04,Dinner,French Fries,Sides,142,142,0,0,15,0
+2025-04-04,Dinner,Cold Coffee,Beverages,134,112,22,0,8,1
+2025-04-04,Dinner,Veg Sandwich,Sandwiches,17,19,0,2,7,0
+2025-04-04,Dinner,Brownie,Desserts,38,35,3,0,8,0
+2025-04-05,Lunch,Classic Burger,Burgers,69,67,2,0,12,0
+2025-04-05,Lunch,Veg Burger,Burgers,38,37,1,0,10,0
+2025-04-05,Lunch,Margherita Pizza,Pizza,45,37,8,0,14,1
+2025-04-05,Lunch,Paneer Wrap,Wraps,63,57,6,0,8,0
+2025-04-05,Lunch,French Fries,Sides,136,113,23,0,13,1
+2025-04-05,Lunch,Cold Coffee,Beverages,71,64,7,0,8,0
+2025-04-05,Lunch,Veg Sandwich,Sandwiches,56,52,4,0,9,0
+2025-04-05,Lunch,Brownie,Desserts,14,12,2,0,5,0
+2025-04-05,Dinner,Classic Burger,Burgers,112,90,22,0,15,1
+2025-04-05,Dinner,Veg Burger,Burgers,69,59,10,0,9,0
+2025-04-05,Dinner,Margherita Pizza,Pizza,121,105,16,0,19,0
+2025-04-05,Dinner,Paneer Wrap,Wraps,43,43,0,0,11,0
+2025-04-05,Dinner,French Fries,Sides,160,138,22,0,14,0
+2025-04-05,Dinner,Cold Coffee,Beverages,134,103,31,0,8,1
+2025-04-05,Dinner,Veg Sandwich,Sandwiches,25,23,2,0,9,0
+2025-04-05,Dinner,Brownie,Desserts,34,33,1,0,6,0
+2025-04-06,Lunch,Classic Burger,Burgers,48,42,6,0,12,0
+2025-04-06,Lunch,Veg Burger,Burgers,55,42,13,0,12,1
+2025-04-06,Lunch,Margherita Pizza,Pizza,49,48,1,0,13,0
+2025-04-06,Lunch,Paneer Wrap,Wraps,43,45,0,2,10,0
+2025-04-06,Lunch,French Fries,Sides,99,95,4,0,12,0
+2025-04-06,Lunch,Cold Coffee,Beverages,51,46,5,0,7,0
+2025-04-06,Lunch,Veg Sandwich,Sandwiches,40,39,1,0,11,0
+2025-04-06,Lunch,Brownie,Desserts,13,12,1,0,7,0
+2025-04-06,Dinner,Classic Burger,Burgers,97,87,10,0,13,0
+2025-04-06,Dinner,Veg Burger,Burgers,63,56,7,0,12,0
+2025-04-06,Dinner,Margherita Pizza,Pizza,98,74,24,0,17,1
+2025-04-06,Dinner,Paneer Wrap,Wraps,55,51,4,0,12,0
+2025-04-06,Dinner,French Fries,Sides,211,174,37,0,16,1
+2025-04-06,Dinner,Cold Coffee,Beverages,113,114,0,1,12,0
+2025-04-06,Dinner,Veg Sandwich,Sandwiches,19,17,2,0,5,0
+2025-04-06,Dinner,Brownie,Desserts,29,33,0,4,8,0
+2025-04-07,Lunch,Classic Burger,Burgers,42,34,8,0,11,1
+2025-04-07,Lunch,Veg Burger,Burgers,29,28,1,0,8,0
+2025-04-07,Lunch,Margherita Pizza,Pizza,34,31,3,0,14,0
+2025-04-07,Lunch,Paneer Wrap,Wraps,44,39,5,0,11,0
+2025-04-07,Lunch,French Fries,Sides,67,64,3,0,8,0
+2025-04-07,Lunch,Cold Coffee,Beverages,32,43,0,11,6,0
+2025-04-07,Lunch,Veg Sandwich,Sandwiches,31,30,1,0,9,0
+2025-04-07,Lunch,Brownie,Desserts,6,6,0,0,5,0
+2025-04-07,Dinner,Classic Burger,Burgers,74,66,8,0,13,0
+2025-04-07,Dinner,Veg Burger,Burgers,49,41,8,0,12,1
+2025-04-07,Dinner,Margherita Pizza,Pizza,58,54,4,0,16,0
+2025-04-07,Dinner,Paneer Wrap,Wraps,34,31,3,0,11,0
+2025-04-07,Dinner,French Fries,Sides,103,104,0,1,9,0
+2025-04-07,Dinner,Cold Coffee,Beverages,94,84,10,0,10,0
+2025-04-07,Dinner,Veg Sandwich,Sandwiches,18,17,1,0,8,0
+2025-04-07,Dinner,Brownie,Desserts,24,22,2,0,9,0
+2025-04-08,Lunch,Classic Burger,Burgers,34,42,0,8,10,0
+2025-04-08,Lunch,Veg Burger,Burgers,28,24,4,0,11,0
+2025-04-08,Lunch,Margherita Pizza,Pizza,28,29,0,1,13,0
+2025-04-08,Lunch,Paneer Wrap,Wraps,35,33,2,0,9,0
+2025-04-08,Lunch,French Fries,Sides,74,61,13,0,8,1
+2025-04-08,Lunch,Cold Coffee,Beverages,46,47,0,1,6,0
+2025-04-08,Lunch,Veg Sandwich,Sandwiches,33,32,1,0,9,0
+2025-04-08,Lunch,Brownie,Desserts,7,7,0,0,7,0
+2025-04-08,Dinner,Classic Burger,Burgers,55,53,2,0,14,0
+2025-04-08,Dinner,Veg Burger,Burgers,56,42,14,0,11,1
+2025-04-08,Dinner,Margherita Pizza,Pizza,64,52,12,0,15,1
+2025-04-08,Dinner,Paneer Wrap,Wraps,31,28,3,0,9,0
+2025-04-08,Dinner,French Fries,Sides,110,95,15,0,11,0
+2025-04-08,Dinner,Cold Coffee,Beverages,65,73,0,8,10,0
+2025-04-08,Dinner,Veg Sandwich,Sandwiches,14,16,0,2,7,0
+2025-04-08,Dinner,Brownie,Desserts,27,27,0,0,7,0
+2025-04-09,Lunch,Classic Burger,Burgers,56,45,11,0,11,1
+2025-04-09,Lunch,Veg Burger,Burgers,39,35,4,0,10,0
+2025-04-09,Lunch,Margherita Pizza,Pizza,33,31,2,0,16,0
+2025-04-09,Lunch,Paneer Wrap,Wraps,33,36,0,3,10,0
+2025-04-09,Lunch,French Fries,Sides,65,59,6,0,9,0
+2025-04-09,Lunch,Cold Coffee,Beverages,50,44,6,0,9,0
+2025-04-09,Lunch,Veg Sandwich,Sandwiches,33,36,0,3,11,0
+2025-04-09,Lunch,Brownie,Desserts,13,11,2,0,8,0
+2025-04-09,Dinner,Classic Burger,Burgers,76,64,12,0,12,1
+2025-04-09,Dinner,Veg Burger,Burgers,37,36,1,0,9,0
+2025-04-09,Dinner,Margherita Pizza,Pizza,79,61,18,0,17,1
+2025-04-09,Dinner,Paneer Wrap,Wraps,34,31,3,0,7,0
+2025-04-09,Dinner,French Fries,Sides,108,101,7,0,11,0
+2025-04-09,Dinner,Cold Coffee,Beverages,78,85,0,7,10,0
+2025-04-09,Dinner,Veg Sandwich,Sandwiches,14,12,2,0,5,0
+2025-04-09,Dinner,Brownie,Desserts,16,18,0,2,7,0
+2025-04-10,Lunch,Classic Burger,Burgers,34,29,5,0,12,1
+2025-04-10,Lunch,Veg Burger,Burgers,40,35,5,0,12,0
+2025-04-10,Lunch,Margherita Pizza,Pizza,38,36,2,0,17,0
+2025-04-10,Lunch,Paneer Wrap,Wraps,32,30,2,0,7,0
+2025-04-10,Lunch,French Fries,Sides,108,83,25,0,10,1
+2025-04-10,Lunch,Cold Coffee,Beverages,53,51,2,0,9,0
+2025-04-10,Lunch,Veg Sandwich,Sandwiches,37,35,2,0,7,0
+2025-04-10,Lunch,Brownie,Desserts,9,9,0,0,5,0
+2025-04-10,Dinner,Classic Burger,Burgers,63,55,8,0,15,0
+2025-04-10,Dinner,Veg Burger,Burgers,39,37,2,0,9,0
+2025-04-10,Dinner,Margherita Pizza,Pizza,79,64,15,0,16,1
+2025-04-10,Dinner,Paneer Wrap,Wraps,25,26,0,1,10,0
+2025-04-10,Dinner,French Fries,Sides,144,125,19,0,12,0
+2025-04-10,Dinner,Cold Coffee,Beverages,77,66,11,0,8,0
+2025-04-10,Dinner,Veg Sandwich,Sandwiches,17,15,2,0,5,0
+2025-04-10,Dinner,Brownie,Desserts,23,20,3,0,5,0
+2025-04-11,Lunch,Classic Burger,Burgers,43,51,0,8,11,0
+2025-04-11,Lunch,Veg Burger,Burgers,50,39,11,0,6,1
+2025-04-11,Lunch,Margherita Pizza,Pizza,41,33,8,0,16,1
+2025-04-11,Lunch,Paneer Wrap,Wraps,32,34,0,2,6,0
+2025-04-11,Lunch,French Fries,Sides,100,88,12,0,10,0
+2025-04-11,Lunch,Cold Coffee,Beverages,41,38,3,0,5,0
+2025-04-11,Lunch,Veg Sandwich,Sandwiches,33,35,0,2,8,0
+2025-04-11,Lunch,Brownie,Desserts,7,7,0,0,6,0
+2025-04-11,Dinner,Classic Burger,Burgers,51,46,5,0,8,0
+2025-04-11,Dinner,Veg Burger,Burgers,44,43,1,0,7,0
+2025-04-11,Dinner,Margherita Pizza,Pizza,47,57,0,10,15,0
+2025-04-11,Dinner,Paneer Wrap,Wraps,36,39,0,3,7,0
+2025-04-11,Dinner,French Fries,Sides,135,137,0,2,15,0
+2025-04-11,Dinner,Cold Coffee,Beverages,109,117,0,8,14,0
+2025-04-11,Dinner,Veg Sandwich,Sandwiches,18,15,3,0,7,0
+2025-04-11,Dinner,Brownie,Desserts,25,25,0,0,7,0
+2025-04-12,Lunch,Classic Burger,Burgers,69,57,12,0,10,1
+2025-04-12,Lunch,Veg Burger,Burgers,55,47,8,0,10,0
+2025-04-12,Lunch,Margherita Pizza,Pizza,68,58,10,0,19,0
+2025-04-12,Lunch,Paneer Wrap,Wraps,45,43,2,0,11,0
+2025-04-12,Lunch,French Fries,Sides,125,116,9,0,13,0
+2025-04-12,Lunch,Cold Coffee,Beverages,95,89,6,0,8,0
+2025-04-12,Lunch,Veg Sandwich,Sandwiches,57,45,12,0,8,1
+2025-04-12,Lunch,Brownie,Desserts,14,12,2,0,6,0
+2025-04-12,Dinner,Classic Burger,Burgers,114,91,23,0,12,1
+2025-04-12,Dinner,Veg Burger,Burgers,54,47,7,0,12,0
+2025-04-12,Dinner,Margherita Pizza,Pizza,81,77,4,0,16,0
+2025-04-12,Dinner,Paneer Wrap,Wraps,49,38,11,0,9,1
+2025-04-12,Dinner,French Fries,Sides,152,155,0,3,15,0
+2025-04-12,Dinner,Cold Coffee,Beverages,138,126,12,0,14,0
+2025-04-12,Dinner,Veg Sandwich,Sandwiches,24,24,0,0,8,0
+2025-04-12,Dinner,Brownie,Desserts,37,35,2,0,8,0
+2025-04-13,Lunch,Classic Burger,Burgers,74,62,12,0,11,1
+2025-04-13,Lunch,Veg Burger,Burgers,40,37,3,0,8,0
+2025-04-13,Lunch,Margherita Pizza,Pizza,53,46,7,0,14,0
+2025-04-13,Lunch,Paneer Wrap,Wraps,64,55,9,0,12,0
+2025-04-13,Lunch,French Fries,Sides,101,101,0,0,8,0
+2025-04-13,Lunch,Cold Coffee,Beverages,80,66,14,0,9,1
+2025-04-13,Lunch,Veg Sandwich,Sandwiches,44,40,4,0,9,0
+2025-04-13,Lunch,Brownie,Desserts,13,12,1,0,6,0
+2025-04-13,Dinner,Classic Burger,Burgers,83,81,2,0,15,0
+2025-04-13,Dinner,Veg Burger,Burgers,71,62,9,0,10,0
+2025-04-13,Dinner,Margherita Pizza,Pizza,98,80,18,0,17,1
+2025-04-13,Dinner,Paneer Wrap,Wraps,57,47,10,0,13,1
+2025-04-13,Dinner,French Fries,Sides,142,133,9,0,11,0
+2025-04-13,Dinner,Cold Coffee,Beverages,152,135,17,0,11,0
+2025-04-13,Dinner,Veg Sandwich,Sandwiches,23,22,1,0,6,0
+2025-04-13,Dinner,Brownie,Desserts,40,38,2,0,7,0
+2025-04-14,Lunch,Classic Burger,Burgers,67,70,0,3,15,0
+2025-04-14,Lunch,Veg Burger,Burgers,47,43,4,0,10,0
+2025-04-14,Lunch,Margherita Pizza,Pizza,36,37,0,1,13,0
+2025-04-14,Lunch,Paneer Wrap,Wraps,48,43,5,0,13,0
+2025-04-14,Lunch,French Fries,Sides,79,68,11,0,6,0
+2025-04-14,Lunch,Cold Coffee,Beverages,110,77,33,0,10,1
+2025-04-14,Lunch,Veg Sandwich,Sandwiches,37,38,0,1,7,0
+2025-04-14,Lunch,Brownie,Desserts,14,14,0,0,7,0
+2025-04-14,Dinner,Classic Burger,Burgers,86,91,0,5,11,0
+2025-04-14,Dinner,Veg Burger,Burgers,56,51,5,0,10,0
+2025-04-14,Dinner,Margherita Pizza,Pizza,67,72,0,5,17,0
+2025-04-14,Dinner,Paneer Wrap,Wraps,30,33,0,3,11,0
+2025-04-14,Dinner,French Fries,Sides,136,146,0,10,12,0
+2025-04-14,Dinner,Cold Coffee,Beverages,109,108,1,0,11,0
+2025-04-14,Dinner,Veg Sandwich,Sandwiches,22,21,1,0,7,0
+2025-04-14,Dinner,Brownie,Desserts,39,38,1,0,6,0
+2025-04-15,Lunch,Classic Burger,Burgers,40,37,3,0,12,0
+2025-04-15,Lunch,Veg Burger,Burgers,35,30,5,0,6,0
+2025-04-15,Lunch,Margherita Pizza,Pizza,34,32,2,0,17,0
+2025-04-15,Lunch,Paneer Wrap,Wraps,38,42,0,4,10,0
+2025-04-15,Lunch,French Fries,Sides,64,61,3,0,10,0
+2025-04-15,Lunch,Cold Coffee,Beverages,32,30,2,0,6,0
+2025-04-15,Lunch,Veg Sandwich,Sandwiches,24,24,0,0,7,0
+2025-04-15,Lunch,Brownie,Desserts,8,8,0,0,5,0
+2025-04-15,Dinner,Classic Burger,Burgers,63,63,0,0,12,0
+2025-04-15,Dinner,Veg Burger,Burgers,36,34,2,0,9,0
+2025-04-15,Dinner,Margherita Pizza,Pizza,46,51,0,5,13,0
+2025-04-15,Dinner,Paneer Wrap,Wraps,37,30,7,0,10,1
+2025-04-15,Dinner,French Fries,Sides,108,95,13,0,10,0
+2025-04-15,Dinner,Cold Coffee,Beverages,84,71,13,0,9,0
+2025-04-15,Dinner,Veg Sandwich,Sandwiches,17,15,2,0,7,0
+2025-04-15,Dinner,Brownie,Desserts,21,20,1,0,10,0
+2025-04-16,Lunch,Classic Burger,Burgers,35,31,4,0,14,0
+2025-04-16,Lunch,Veg Burger,Burgers,34,27,7,0,8,1
+2025-04-16,Lunch,Margherita Pizza,Pizza,33,34,0,1,12,0
+2025-04-16,Lunch,Paneer Wrap,Wraps,34,36,0,2,8,0
+2025-04-16,Lunch,French Fries,Sides,79,73,6,0,10,0
+2025-04-16,Lunch,Cold Coffee,Beverages,48,45,3,0,7,0
+2025-04-16,Lunch,Veg Sandwich,Sandwiches,27,25,2,0,6,0
+2025-04-16,Lunch,Brownie,Desserts,6,6,0,0,5,0
+2025-04-16,Dinner,Classic Burger,Burgers,65,61,4,0,14,0
+2025-04-16,Dinner,Veg Burger,Burgers,38,39,0,1,8,0
+2025-04-16,Dinner,Margherita Pizza,Pizza,83,68,15,0,19,1
+2025-04-16,Dinner,Paneer Wrap,Wraps,34,32,2,0,12,0
+2025-04-16,Dinner,French Fries,Sides,104,109,0,5,14,0
+2025-04-16,Dinner,Cold Coffee,Beverages,89,76,13,0,7,0
+2025-04-16,Dinner,Veg Sandwich,Sandwiches,17,16,1,0,5,0
+2025-04-16,Dinner,Brownie,Desserts,23,22,1,0,6,0
+2025-04-17,Lunch,Classic Burger,Burgers,45,39,6,0,9,0
+2025-04-17,Lunch,Veg Burger,Burgers,32,27,5,0,9,1
+2025-04-17,Lunch,Margherita Pizza,Pizza,27,23,4,0,13,0
+2025-04-17,Lunch,Paneer Wrap,Wraps,40,45,0,5,9,0
+2025-04-17,Lunch,French Fries,Sides,69,58,11,0,8,1
+2025-04-17,Lunch,Cold Coffee,Beverages,48,42,6,0,5,0
+2025-04-17,Lunch,Veg Sandwich,Sandwiches,28,36,0,8,9,0
+2025-04-17,Lunch,Brownie,Desserts,9,9,0,0,5,0
+2025-04-17,Dinner,Classic Burger,Burgers,70,59,11,0,12,1
+2025-04-17,Dinner,Veg Burger,Burgers,39,35,4,0,7,0
+2025-04-17,Dinner,Margherita Pizza,Pizza,55,51,4,0,18,0
+2025-04-17,Dinner,Paneer Wrap,Wraps,33,29,4,0,8,0
+2025-04-17,Dinner,French Fries,Sides,114,95,19,0,12,1
+2025-04-17,Dinner,Cold Coffee,Beverages,71,61,10,0,9,0
+2025-04-17,Dinner,Veg Sandwich,Sandwiches,24,21,3,0,6,0
+2025-04-17,Dinner,Brownie,Desserts,25,23,2,0,6,0
+2025-04-18,Lunch,Classic Burger,Burgers,62,70,0,8,11,0
+2025-04-18,Lunch,Veg Burger,Burgers,39,43,0,4,10,0
+2025-04-18,Lunch,Margherita Pizza,Pizza,43,37,6,0,17,0
+2025-04-18,Lunch,Paneer Wrap,Wraps,45,45,0,0,11,0
+2025-04-18,Lunch,French Fries,Sides,99,86,13,0,9,0
+2025-04-18,Lunch,Cold Coffee,Beverages,64,60,4,0,7,0
+2025-04-18,Lunch,Veg Sandwich,Sandwiches,41,46,0,5,9,0
+2025-04-18,Lunch,Brownie,Desserts,15,12,3,0,6,0
+2025-04-18,Dinner,Classic Burger,Burgers,122,97,25,0,15,1
+2025-04-18,Dinner,Veg Burger,Burgers,50,40,10,0,12,1
+2025-04-18,Dinner,Margherita Pizza,Pizza,106,94,12,0,18,0
+2025-04-18,Dinner,Paneer Wrap,Wraps,41,38,3,0,11,0
+2025-04-18,Dinner,French Fries,Sides,121,103,18,0,14,0
+2025-04-18,Dinner,Cold Coffee,Beverages,128,122,6,0,10,0
+2025-04-18,Dinner,Veg Sandwich,Sandwiches,22,22,0,0,8,0
+2025-04-18,Dinner,Brownie,Desserts,31,33,0,2,9,0
+2025-04-19,Lunch,Classic Burger,Burgers,58,46,12,0,12,1
+2025-04-19,Lunch,Veg Burger,Burgers,51,48,3,0,12,0
+2025-04-19,Lunch,Margherita Pizza,Pizza,47,42,5,0,15,0
+2025-04-19,Lunch,Paneer Wrap,Wraps,50,49,1,0,12,0
+2025-04-19,Lunch,French Fries,Sides,119,108,11,0,16,0
+2025-04-19,Lunch,Cold Coffee,Beverages,78,72,6,0,8,0
+2025-04-19,Lunch,Veg Sandwich,Sandwiches,38,42,0,4,9,0
+2025-04-19,Lunch,Brownie,Desserts,9,8,1,0,7,0
+2025-04-19,Dinner,Classic Burger,Burgers,92,87,5,0,16,0
+2025-04-19,Dinner,Veg Burger,Burgers,66,53,13,0,12,1
+2025-04-19,Dinner,Margherita Pizza,Pizza,90,83,7,0,17,0
+2025-04-19,Dinner,Paneer Wrap,Wraps,39,40,0,1,9,0
+2025-04-19,Dinner,French Fries,Sides,164,161,3,0,12,0
+2025-04-19,Dinner,Cold Coffee,Beverages,125,123,2,0,12,0
+2025-04-19,Dinner,Veg Sandwich,Sandwiches,17,19,0,2,12,0
+2025-04-19,Dinner,Brownie,Desserts,39,31,8,0,9,1
+2025-04-20,Lunch,Classic Burger,Burgers,68,57,11,0,10,1
+2025-04-20,Lunch,Veg Burger,Burgers,52,48,4,0,13,0
+2025-04-20,Lunch,Margherita Pizza,Pizza,75,59,16,0,15,1
+2025-04-20,Lunch,Paneer Wrap,Wraps,63,79,0,16,12,0
+2025-04-20,Lunch,French Fries,Sides,159,139,20,0,11,0
+2025-04-20,Lunch,Cold Coffee,Beverages,93,86,7,0,9,0
+2025-04-20,Lunch,Veg Sandwich,Sandwiches,39,44,0,5,9,0
+2025-04-20,Lunch,Brownie,Desserts,19,15,4,0,6,0
+2025-04-20,Dinner,Classic Burger,Burgers,116,101,15,0,16,0
+2025-04-20,Dinner,Veg Burger,Burgers,54,50,4,0,11,0
+2025-04-20,Dinner,Margherita Pizza,Pizza,116,102,14,0,17,0
+2025-04-20,Dinner,Paneer Wrap,Wraps,45,48,0,3,9,0
+2025-04-20,Dinner,French Fries,Sides,157,146,11,0,13,0
+2025-04-20,Dinner,Cold Coffee,Beverages,139,128,11,0,17,0
+2025-04-20,Dinner,Veg Sandwich,Sandwiches,24,23,1,0,7,0
+2025-04-20,Dinner,Brownie,Desserts,46,45,1,0,6,0
+2025-04-21,Lunch,Classic Burger,Burgers,42,36,6,0,10,0
+2025-04-21,Lunch,Veg Burger,Burgers,31,30,1,0,10,0
+2025-04-21,Lunch,Margherita Pizza,Pizza,40,36,4,0,15,0
+2025-04-21,Lunch,Paneer Wrap,Wraps,40,35,5,0,9,0
+2025-04-21,Lunch,French Fries,Sides,62,55,7,0,8,0
+2025-04-21,Lunch,Cold Coffee,Beverages,37,32,5,0,5,0
+2025-04-21,Lunch,Veg Sandwich,Sandwiches,21,22,0,1,6,0
+2025-04-21,Lunch,Brownie,Desserts,10,9,1,0,5,0
+2025-04-21,Dinner,Classic Burger,Burgers,60,48,12,0,14,1
+2025-04-21,Dinner,Veg Burger,Burgers,45,39,6,0,7,0
+2025-04-21,Dinner,Margherita Pizza,Pizza,55,54,1,0,16,0
+2025-04-21,Dinner,Paneer Wrap,Wraps,35,30,5,0,12,0
+2025-04-21,Dinner,French Fries,Sides,111,102,9,0,9,0
+2025-04-21,Dinner,Cold Coffee,Beverages,82,77,5,0,7,0
+2025-04-21,Dinner,Veg Sandwich,Sandwiches,15,16,0,1,5,0
+2025-04-21,Dinner,Brownie,Desserts,30,24,6,0,10,1
+2025-04-22,Lunch,Classic Burger,Burgers,38,32,6,0,10,1
+2025-04-22,Lunch,Veg Burger,Burgers,32,34,0,2,10,0
+2025-04-22,Lunch,Margherita Pizza,Pizza,31,28,3,0,14,0
+2025-04-22,Lunch,Paneer Wrap,Wraps,44,38,6,0,8,0
+2025-04-22,Lunch,French Fries,Sides,59,54,5,0,5,0
+2025-04-22,Lunch,Cold Coffee,Beverages,41,38,3,0,7,0
+2025-04-22,Lunch,Veg Sandwich,Sandwiches,38,31,7,0,9,1
+2025-04-22,Lunch,Brownie,Desserts,14,13,1,0,5,0
+2025-04-22,Dinner,Classic Burger,Burgers,61,57,4,0,13,0
+2025-04-22,Dinner,Veg Burger,Burgers,42,34,8,0,11,1
+2025-04-22,Dinner,Margherita Pizza,Pizza,55,54,1,0,16,0
+2025-04-22,Dinner,Paneer Wrap,Wraps,24,25,0,1,11,0
+2025-04-22,Dinner,French Fries,Sides,100,85,15,0,10,0
+2025-04-22,Dinner,Cold Coffee,Beverages,87,80,7,0,9,0
+2025-04-22,Dinner,Veg Sandwich,Sandwiches,20,17,3,0,5,0
+2025-04-22,Dinner,Brownie,Desserts,25,21,4,0,5,0
+2025-04-23,Lunch,Classic Burger,Burgers,32,30,2,0,11,0
+2025-04-23,Lunch,Veg Burger,Burgers,38,34,4,0,11,0
+2025-04-23,Lunch,Margherita Pizza,Pizza,30,26,4,0,14,0
+2025-04-23,Lunch,Paneer Wrap,Wraps,36,34,2,0,7,0
+2025-04-23,Lunch,French Fries,Sides,65,63,2,0,6,0
+2025-04-23,Lunch,Cold Coffee,Beverages,41,37,4,0,7,0
+2025-04-23,Lunch,Veg Sandwich,Sandwiches,36,35,1,0,6,0
+2025-04-23,Lunch,Brownie,Desserts,12,11,1,0,6,0
+2025-04-23,Dinner,Classic Burger,Burgers,66,55,11,0,12,1
+2025-04-23,Dinner,Veg Burger,Burgers,38,33,5,0,10,0
+2025-04-23,Dinner,Margherita Pizza,Pizza,50,52,0,2,14,0
+2025-04-23,Dinner,Paneer Wrap,Wraps,36,32,4,0,13,0
+2025-04-23,Dinner,French Fries,Sides,113,114,0,1,8,0
+2025-04-23,Dinner,Cold Coffee,Beverages,90,95,0,5,9,0
+2025-04-23,Dinner,Veg Sandwich,Sandwiches,17,19,0,2,9,0
+2025-04-23,Dinner,Brownie,Desserts,22,23,0,1,6,0
+2025-04-24,Lunch,Classic Burger,Burgers,44,40,4,0,12,0
+2025-04-24,Lunch,Veg Burger,Burgers,29,29,0,0,7,0
+2025-04-24,Lunch,Margherita Pizza,Pizza,27,30,0,3,14,0
+2025-04-24,Lunch,Paneer Wrap,Wraps,40,30,10,0,7,1
+2025-04-24,Lunch,French Fries,Sides,80,68,12,0,8,0
+2025-04-24,Lunch,Cold Coffee,Beverages,60,56,4,0,6,0
+2025-04-24,Lunch,Veg Sandwich,Sandwiches,33,33,0,0,9,0
+2025-04-24,Lunch,Brownie,Desserts,12,11,1,0,7,0
+2025-04-24,Dinner,Classic Burger,Burgers,48,48,0,0,11,0
+2025-04-24,Dinner,Veg Burger,Burgers,45,38,7,0,10,1
+2025-04-24,Dinner,Margherita Pizza,Pizza,59,55,4,0,20,0
+2025-04-24,Dinner,Paneer Wrap,Wraps,36,30,6,0,10,1
+2025-04-24,Dinner,French Fries,Sides,136,114,22,0,11,1
+2025-04-24,Dinner,Cold Coffee,Beverages,70,70,0,0,7,0
+2025-04-24,Dinner,Veg Sandwich,Sandwiches,16,15,1,0,7,0
+2025-04-24,Dinner,Brownie,Desserts,19,22,0,3,6,0
+2025-04-25,Lunch,Classic Burger,Burgers,43,41,2,0,11,0
+2025-04-25,Lunch,Veg Burger,Burgers,41,39,2,0,11,0
+2025-04-25,Lunch,Margherita Pizza,Pizza,31,29,2,0,18,0
+2025-04-25,Lunch,Paneer Wrap,Wraps,40,39,1,0,11,0
+2025-04-25,Lunch,French Fries,Sides,86,87,0,1,12,0
+2025-04-25,Lunch,Cold Coffee,Beverages,46,45,1,0,6,0
+2025-04-25,Lunch,Veg Sandwich,Sandwiches,38,40,0,2,6,0
+2025-04-25,Lunch,Brownie,Desserts,9,9,0,0,6,0
+2025-04-25,Dinner,Classic Burger,Burgers,62,48,14,0,11,1
+2025-04-25,Dinner,Veg Burger,Burgers,42,37,5,0,10,0
+2025-04-25,Dinner,Margherita Pizza,Pizza,68,55,13,0,16,1
+2025-04-25,Dinner,Paneer Wrap,Wraps,37,36,1,0,10,0
+2025-04-25,Dinner,French Fries,Sides,148,134,14,0,13,0
+2025-04-25,Dinner,Cold Coffee,Beverages,77,71,6,0,11,0
+2025-04-25,Dinner,Veg Sandwich,Sandwiches,22,20,2,0,7,0
+2025-04-25,Dinner,Brownie,Desserts,23,21,2,0,7,0
+2025-04-26,Lunch,Classic Burger,Burgers,54,51,3,0,11,0
+2025-04-26,Lunch,Veg Burger,Burgers,65,51,14,0,9,1
+2025-04-26,Lunch,Margherita Pizza,Pizza,27,27,0,0,13,0
+2025-04-26,Lunch,Paneer Wrap,Wraps,61,50,11,0,11,1
+2025-04-26,Lunch,French Fries,Sides,115,96,19,0,10,1
+2025-04-26,Lunch,Cold Coffee,Beverages,73,63,10,0,9,0
+2025-04-26,Lunch,Veg Sandwich,Sandwiches,40,35,5,0,8,0
+2025-04-26,Lunch,Brownie,Desserts,12,11,1,0,5,0
+2025-04-26,Dinner,Classic Burger,Burgers,96,78,18,0,14,1
+2025-04-26,Dinner,Veg Burger,Burgers,62,58,4,0,12,0
+2025-04-26,Dinner,Margherita Pizza,Pizza,102,96,6,0,18,0
+2025-04-26,Dinner,Paneer Wrap,Wraps,44,41,3,0,11,0
+2025-04-26,Dinner,French Fries,Sides,145,151,0,6,16,0
+2025-04-26,Dinner,Cold Coffee,Beverages,109,104,5,0,13,0
+2025-04-26,Dinner,Veg Sandwich,Sandwiches,21,23,0,2,7,0
+2025-04-26,Dinner,Brownie,Desserts,32,30,2,0,9,0
+2025-04-27,Lunch,Classic Burger,Burgers,75,67,8,0,11,0
+2025-04-27,Lunch,Veg Burger,Burgers,68,54,14,0,11,1
+2025-04-27,Lunch,Margherita Pizza,Pizza,48,46,2,0,19,0
+2025-04-27,Lunch,Paneer Wrap,Wraps,68,57,11,0,9,1
+2025-04-27,Lunch,French Fries,Sides,83,79,4,0,9,0
+2025-04-27,Lunch,Cold Coffee,Beverages,57,48,9,0,8,1
+2025-04-27,Lunch,Veg Sandwich,Sandwiches,46,41,5,0,8,0
+2025-04-27,Lunch,Brownie,Desserts,15,13,2,0,5,0
+2025-04-27,Dinner,Classic Burger,Burgers,73,69,4,0,15,0
+2025-04-27,Dinner,Veg Burger,Burgers,58,55,3,0,11,0
+2025-04-27,Dinner,Margherita Pizza,Pizza,85,92,0,7,18,0
+2025-04-27,Dinner,Paneer Wrap,Wraps,30,29,1,0,7,0
+2025-04-27,Dinner,French Fries,Sides,195,168,27,0,18,0
+2025-04-27,Dinner,Cold Coffee,Beverages,116,126,0,10,11,0
+2025-04-27,Dinner,Veg Sandwich,Sandwiches,20,20,0,0,8,0
+2025-04-27,Dinner,Brownie,Desserts,40,41,0,1,9,0
+2025-04-28,Lunch,Classic Burger,Burgers,45,38,7,0,11,1
+2025-04-28,Lunch,Veg Burger,Burgers,30,28,2,0,8,0
+2025-04-28,Lunch,Margherita Pizza,Pizza,42,34,8,0,15,1
+2025-04-28,Lunch,Paneer Wrap,Wraps,46,34,12,0,10,1
+2025-04-28,Lunch,French Fries,Sides,86,76,10,0,10,0
+2025-04-28,Lunch,Cold Coffee,Beverages,52,49,3,0,5,0
+2025-04-28,Lunch,Veg Sandwich,Sandwiches,39,36,3,0,9,0
+2025-04-28,Lunch,Brownie,Desserts,10,8,2,0,6,0
+2025-04-28,Dinner,Classic Burger,Burgers,71,64,7,0,11,0
+2025-04-28,Dinner,Veg Burger,Burgers,39,37,2,0,9,0
+2025-04-28,Dinner,Margherita Pizza,Pizza,88,75,13,0,18,0
+2025-04-28,Dinner,Paneer Wrap,Wraps,35,30,5,0,8,0
+2025-04-28,Dinner,French Fries,Sides,99,110,0,11,12,0
+2025-04-28,Dinner,Cold Coffee,Beverages,100,81,19,0,9,1
+2025-04-28,Dinner,Veg Sandwich,Sandwiches,14,14,0,0,5,0
+2025-04-28,Dinner,Brownie,Desserts,24,23,1,0,9,0
+2025-04-29,Lunch,Classic Burger,Burgers,32,26,6,0,12,1
+2025-04-29,Lunch,Veg Burger,Burgers,27,26,1,0,9,0
+2025-04-29,Lunch,Margherita Pizza,Pizza,26,24,2,0,12,0
+2025-04-29,Lunch,Paneer Wrap,Wraps,38,39,0,1,8,0
+2025-04-29,Lunch,French Fries,Sides,73,70,3,0,9,0
+2025-04-29,Lunch,Cold Coffee,Beverages,33,32,1,0,6,0
+2025-04-29,Lunch,Veg Sandwich,Sandwiches,24,19,5,0,6,1
+2025-04-29,Lunch,Brownie,Desserts,9,9,0,0,6,0
+2025-04-29,Dinner,Classic Burger,Burgers,48,42,6,0,11,0
+2025-04-29,Dinner,Veg Burger,Burgers,38,36,2,0,12,0
+2025-04-29,Dinner,Margherita Pizza,Pizza,68,64,4,0,17,0
+2025-04-29,Dinner,Paneer Wrap,Wraps,24,21,3,0,7,0
+2025-04-29,Dinner,French Fries,Sides,86,87,0,1,10,0
+2025-04-29,Dinner,Cold Coffee,Beverages,74,69,5,0,9,0
+2025-04-29,Dinner,Veg Sandwich,Sandwiches,20,16,4,0,8,0
+2025-04-29,Dinner,Brownie,Desserts,23,20,3,0,5,0
+2025-04-30,Lunch,Classic Burger,Burgers,46,47,0,1,13,0
+2025-04-30,Lunch,Veg Burger,Burgers,47,33,14,0,9,1
+2025-04-30,Lunch,Margherita Pizza,Pizza,33,28,5,0,16,1
+2025-04-30,Lunch,Paneer Wrap,Wraps,42,38,4,0,10,0
+2025-04-30,Lunch,French Fries,Sides,76,82,0,6,6,0
+2025-04-30,Lunch,Cold Coffee,Beverages,57,48,9,0,8,1
+2025-04-30,Lunch,Veg Sandwich,Sandwiches,35,32,3,0,9,0
+2025-04-30,Lunch,Brownie,Desserts,6,6,0,0,5,0
+2025-04-30,Dinner,Classic Burger,Burgers,61,50,11,0,10,1
+2025-04-30,Dinner,Veg Burger,Burgers,38,35,3,0,7,0
+2025-04-30,Dinner,Margherita Pizza,Pizza,64,59,5,0,16,0
+2025-04-30,Dinner,Paneer Wrap,Wraps,39,37,2,0,11,0
+2025-04-30,Dinner,French Fries,Sides,92,84,8,0,11,0
+2025-04-30,Dinner,Cold Coffee,Beverages,96,83,13,0,9,0
+2025-04-30,Dinner,Veg Sandwich,Sandwiches,18,16,2,0,8,0
+2025-04-30,Dinner,Brownie,Desserts,23,24,0,1,7,0
+2025-05-01,Lunch,Classic Burger,Burgers,71,70,1,0,12,0
+2025-05-01,Lunch,Veg Burger,Burgers,43,44,0,1,7,0
+2025-05-01,Lunch,Margherita Pizza,Pizza,32,25,7,0,12,1
+2025-05-01,Lunch,Paneer Wrap,Wraps,51,52,0,1,10,0
+2025-05-01,Lunch,French Fries,Sides,91,94,0,3,8,0
+2025-05-01,Lunch,Cold Coffee,Beverages,92,76,16,0,7,1
+2025-05-01,Lunch,Veg Sandwich,Sandwiches,45,41,4,0,7,0
+2025-05-01,Lunch,Brownie,Desserts,17,15,2,0,7,0
+2025-05-01,Dinner,Classic Burger,Burgers,113,95,18,0,14,0
+2025-05-01,Dinner,Veg Burger,Burgers,42,43,0,1,11,0
+2025-05-01,Dinner,Margherita Pizza,Pizza,102,96,6,0,19,0
+2025-05-01,Dinner,Paneer Wrap,Wraps,49,44,5,0,13,0
+2025-05-01,Dinner,French Fries,Sides,146,120,26,0,12,1
+2025-05-01,Dinner,Cold Coffee,Beverages,120,117,3,0,11,0
+2025-05-01,Dinner,Veg Sandwich,Sandwiches,29,23,6,0,11,1
+2025-05-01,Dinner,Brownie,Desserts,39,33,6,0,7,1
+2025-05-02,Lunch,Classic Burger,Burgers,73,62,11,0,13,0
+2025-05-02,Lunch,Veg Burger,Burgers,46,37,9,0,9,1
+2025-05-02,Lunch,Margherita Pizza,Pizza,39,37,2,0,11,0
+2025-05-02,Lunch,Paneer Wrap,Wraps,54,46,8,0,11,0
+2025-05-02,Lunch,French Fries,Sides,100,98,2,0,10,0
+2025-05-02,Lunch,Cold Coffee,Beverages,64,57,7,0,9,0
+2025-05-02,Lunch,Veg Sandwich,Sandwiches,45,43,2,0,7,0
+2025-05-02,Lunch,Brownie,Desserts,13,12,1,0,5,0
+2025-05-02,Dinner,Classic Burger,Burgers,74,91,0,17,15,0
+2025-05-02,Dinner,Veg Burger,Burgers,40,37,3,0,11,0
+2025-05-02,Dinner,Margherita Pizza,Pizza,72,57,15,0,17,1
+2025-05-02,Dinner,Paneer Wrap,Wraps,37,32,5,0,8,0
+2025-05-02,Dinner,French Fries,Sides,192,155,37,0,14,1
+2025-05-02,Dinner,Cold Coffee,Beverages,143,118,25,0,10,1
+2025-05-02,Dinner,Veg Sandwich,Sandwiches,21,20,1,0,9,0
+2025-05-02,Dinner,Brownie,Desserts,27,27,0,0,9,0
+2025-05-03,Lunch,Classic Burger,Burgers,60,56,4,0,12,0
+2025-05-03,Lunch,Veg Burger,Burgers,53,54,0,1,11,0
+2025-05-03,Lunch,Margherita Pizza,Pizza,60,51,9,0,16,0
+2025-05-03,Lunch,Paneer Wrap,Wraps,58,50,8,0,11,0
+2025-05-03,Lunch,French Fries,Sides,108,95,13,0,12,0
+2025-05-03,Lunch,Cold Coffee,Beverages,51,55,0,4,6,0
+2025-05-03,Lunch,Veg Sandwich,Sandwiches,35,40,0,5,12,0
+2025-05-03,Lunch,Brownie,Desserts,14,12,2,0,6,0
+2025-05-03,Dinner,Classic Burger,Burgers,86,80,6,0,15,0
+2025-05-03,Dinner,Veg Burger,Burgers,68,62,6,0,11,0
+2025-05-03,Dinner,Margherita Pizza,Pizza,82,85,0,3,20,0
+2025-05-03,Dinner,Paneer Wrap,Wraps,50,50,0,0,10,0
+2025-05-03,Dinner,French Fries,Sides,235,186,49,0,19,1
+2025-05-03,Dinner,Cold Coffee,Beverages,140,129,11,0,11,0
+2025-05-03,Dinner,Veg Sandwich,Sandwiches,21,20,1,0,8,0
+2025-05-03,Dinner,Brownie,Desserts,26,29,0,3,8,0
+2025-05-04,Lunch,Classic Burger,Burgers,78,60,18,0,12,1
+2025-05-04,Lunch,Veg Burger,Burgers,54,48,6,0,11,0
+2025-05-04,Lunch,Margherita Pizza,Pizza,47,45,2,0,14,0
+2025-05-04,Lunch,Paneer Wrap,Wraps,56,55,1,0,10,0
+2025-05-04,Lunch,French Fries,Sides,146,120,26,0,14,1
+2025-05-04,Lunch,Cold Coffee,Beverages,84,71,13,0,7,0
+2025-05-04,Lunch,Veg Sandwich,Sandwiches,61,50,11,0,8,1
+2025-05-04,Lunch,Brownie,Desserts,13,13,0,0,8,0
+2025-05-04,Dinner,Classic Burger,Burgers,98,81,17,0,14,1
+2025-05-04,Dinner,Veg Burger,Burgers,53,44,9,0,12,1
+2025-05-04,Dinner,Margherita Pizza,Pizza,118,103,15,0,18,0
+2025-05-04,Dinner,Paneer Wrap,Wraps,42,41,1,0,10,0
+2025-05-04,Dinner,French Fries,Sides,110,139,0,29,17,0
+2025-05-04,Dinner,Cold Coffee,Beverages,134,114,20,0,10,0
+2025-05-04,Dinner,Veg Sandwich,Sandwiches,19,19,0,0,6,0
+2025-05-04,Dinner,Brownie,Desserts,40,39,1,0,8,0
+2025-05-05,Lunch,Classic Burger,Burgers,35,31,4,0,12,0
+2025-05-05,Lunch,Veg Burger,Burgers,41,38,3,0,9,0
+2025-05-05,Lunch,Margherita Pizza,Pizza,36,31,5,0,14,0
+2025-05-05,Lunch,Paneer Wrap,Wraps,44,40,4,0,9,0
+2025-05-05,Lunch,French Fries,Sides,71,62,9,0,6,0
+2025-05-05,Lunch,Cold Coffee,Beverages,46,40,6,0,5,0
+2025-05-05,Lunch,Veg Sandwich,Sandwiches,26,27,0,1,8,0
+2025-05-05,Lunch,Brownie,Desserts,9,10,0,1,5,0
+2025-05-05,Dinner,Classic Burger,Burgers,44,46,0,2,11,0
+2025-05-05,Dinner,Veg Burger,Burgers,52,48,4,0,11,0
+2025-05-05,Dinner,Margherita Pizza,Pizza,75,71,4,0,16,0
+2025-05-05,Dinner,Paneer Wrap,Wraps,31,33,0,2,10,0
+2025-05-05,Dinner,French Fries,Sides,95,87,8,0,15,0
+2025-05-05,Dinner,Cold Coffee,Beverages,75,68,7,0,7,0
+2025-05-05,Dinner,Veg Sandwich,Sandwiches,21,18,3,0,5,0
+2025-05-05,Dinner,Brownie,Desserts,25,21,4,0,6,0
+2025-05-06,Lunch,Classic Burger,Burgers,37,35,2,0,10,0
+2025-05-06,Lunch,Veg Burger,Burgers,30,29,1,0,10,0
+2025-05-06,Lunch,Margherita Pizza,Pizza,19,18,1,0,15,0
+2025-05-06,Lunch,Paneer Wrap,Wraps,34,33,1,0,9,0
+2025-05-06,Lunch,French Fries,Sides,70,66,4,0,7,0
+2025-05-06,Lunch,Cold Coffee,Beverages,33,34,0,1,7,0
+2025-05-06,Lunch,Veg Sandwich,Sandwiches,35,31,4,0,11,0
+2025-05-06,Lunch,Brownie,Desserts,9,7,2,0,8,0
+2025-05-06,Dinner,Classic Burger,Burgers,56,46,10,0,9,1
+2025-05-06,Dinner,Veg Burger,Burgers,30,26,4,0,9,0
+2025-05-06,Dinner,Margherita Pizza,Pizza,64,58,6,0,13,0
+2025-05-06,Dinner,Paneer Wrap,Wraps,27,26,1,0,7,0
+2025-05-06,Dinner,French Fries,Sides,85,74,11,0,8,0
+2025-05-06,Dinner,Cold Coffee,Beverages,59,53,6,0,5,0
+2025-05-06,Dinner,Veg Sandwich,Sandwiches,16,14,2,0,7,0
+2025-05-06,Dinner,Brownie,Desserts,24,23,1,0,8,0
+2025-05-07,Lunch,Classic Burger,Burgers,44,36,8,0,10,1
+2025-05-07,Lunch,Veg Burger,Burgers,30,34,0,4,11,0
+2025-05-07,Lunch,Margherita Pizza,Pizza,34,33,1,0,14,0
+2025-05-07,Lunch,Paneer Wrap,Wraps,50,44,6,0,12,0
+2025-05-07,Lunch,French Fries,Sides,73,67,6,0,7,0
+2025-05-07,Lunch,Cold Coffee,Beverages,46,49,0,3,9,0
+2025-05-07,Lunch,Veg Sandwich,Sandwiches,29,24,5,0,8,1
+2025-05-07,Lunch,Brownie,Desserts,9,8,1,0,7,0
+2025-05-07,Dinner,Classic Burger,Burgers,76,66,10,0,12,0
+2025-05-07,Dinner,Veg Burger,Burgers,40,35,5,0,10,0
+2025-05-07,Dinner,Margherita Pizza,Pizza,59,54,5,0,12,0
+2025-05-07,Dinner,Paneer Wrap,Wraps,21,23,0,2,7,0
+2025-05-07,Dinner,French Fries,Sides,114,107,7,0,11,0
+2025-05-07,Dinner,Cold Coffee,Beverages,84,78,6,0,6,0
+2025-05-07,Dinner,Veg Sandwich,Sandwiches,15,14,1,0,6,0
+2025-05-07,Dinner,Brownie,Desserts,25,23,2,0,7,0
+2025-05-08,Lunch,Classic Burger,Burgers,37,34,3,0,10,0
+2025-05-08,Lunch,Veg Burger,Burgers,38,39,0,1,11,0
+2025-05-08,Lunch,Margherita Pizza,Pizza,31,34,0,3,13,0
+2025-05-08,Lunch,Paneer Wrap,Wraps,37,39,0,2,9,0
+2025-05-08,Lunch,French Fries,Sides,58,59,0,1,7,0
+2025-05-08,Lunch,Cold Coffee,Beverages,40,38,2,0,5,0
+2025-05-08,Lunch,Veg Sandwich,Sandwiches,33,27,6,0,7,1
+2025-05-08,Lunch,Brownie,Desserts,9,10,0,1,5,0
+2025-05-08,Dinner,Classic Burger,Burgers,68,65,3,0,11,0
+2025-05-08,Dinner,Veg Burger,Burgers,41,39,2,0,8,0
+2025-05-08,Dinner,Margherita Pizza,Pizza,65,60,5,0,16,0
+2025-05-08,Dinner,Paneer Wrap,Wraps,31,31,0,0,11,0
+2025-05-08,Dinner,French Fries,Sides,106,105,1,0,10,0
+2025-05-08,Dinner,Cold Coffee,Beverages,111,88,23,0,10,1
+2025-05-08,Dinner,Veg Sandwich,Sandwiches,15,14,1,0,8,0
+2025-05-08,Dinner,Brownie,Desserts,24,21,3,0,5,0
+2025-05-09,Lunch,Classic Burger,Burgers,49,45,4,0,13,0
+2025-05-09,Lunch,Veg Burger,Burgers,44,37,7,0,10,1
+2025-05-09,Lunch,Margherita Pizza,Pizza,23,24,0,1,15,0
+2025-05-09,Lunch,Paneer Wrap,Wraps,47,45,2,0,13,0
+2025-05-09,Lunch,French Fries,Sides,86,69,17,0,10,1
+2025-05-09,Lunch,Cold Coffee,Beverages,46,42,4,0,5,0
+2025-05-09,Lunch,Veg Sandwich,Sandwiches,25,26,0,1,6,0
+2025-05-09,Lunch,Brownie,Desserts,6,6,0,0,8,0
+2025-05-09,Dinner,Classic Burger,Burgers,66,61,5,0,13,0
+2025-05-09,Dinner,Veg Burger,Burgers,52,44,8,0,8,1
+2025-05-09,Dinner,Margherita Pizza,Pizza,82,69,13,0,17,1
+2025-05-09,Dinner,Paneer Wrap,Wraps,40,33,7,0,9,1
+2025-05-09,Dinner,French Fries,Sides,131,114,17,0,12,0
+2025-05-09,Dinner,Cold Coffee,Beverages,92,78,14,0,8,0
+2025-05-09,Dinner,Veg Sandwich,Sandwiches,19,19,0,0,8,0
+2025-05-09,Dinner,Brownie,Desserts,29,26,3,0,7,0
+2025-05-10,Lunch,Classic Burger,Burgers,79,65,14,0,14,1
+2025-05-10,Lunch,Veg Burger,Burgers,52,46,6,0,9,0
+2025-05-10,Lunch,Margherita Pizza,Pizza,67,52,15,0,16,1
+2025-05-10,Lunch,Paneer Wrap,Wraps,58,45,13,0,12,1
+2025-05-10,Lunch,French Fries,Sides,120,117,3,0,13,0
+2025-05-10,Lunch,Cold Coffee,Beverages,89,73,16,0,7,1
+2025-05-10,Lunch,Veg Sandwich,Sandwiches,49,43,6,0,9,0
+2025-05-10,Lunch,Brownie,Desserts,11,10,1,0,6,0
+2025-05-10,Dinner,Classic Burger,Burgers,83,83,0,0,18,0
+2025-05-10,Dinner,Veg Burger,Burgers,55,52,3,0,11,0
+2025-05-10,Dinner,Margherita Pizza,Pizza,107,84,23,0,19,1
+2025-05-10,Dinner,Paneer Wrap,Wraps,56,45,11,0,16,1
+2025-05-10,Dinner,French Fries,Sides,170,172,0,2,14,0
+2025-05-10,Dinner,Cold Coffee,Beverages,102,93,9,0,8,0
+2025-05-10,Dinner,Veg Sandwich,Sandwiches,21,21,0,0,6,0
+2025-05-10,Dinner,Brownie,Desserts,37,36,1,0,10,0
+2025-05-11,Lunch,Classic Burger,Burgers,59,49,10,0,12,1
+2025-05-11,Lunch,Veg Burger,Burgers,47,42,5,0,10,0
+2025-05-11,Lunch,Margherita Pizza,Pizza,37,37,0,0,14,0
+2025-05-11,Lunch,Paneer Wrap,Wraps,53,51,2,0,10,0
+2025-05-11,Lunch,French Fries,Sides,79,81,0,2,10,0
+2025-05-11,Lunch,Cold Coffee,Beverages,65,58,7,0,7,0
+2025-05-11,Lunch,Veg Sandwich,Sandwiches,42,44,0,2,8,0
+2025-05-11,Lunch,Brownie,Desserts,12,12,0,0,6,0
+2025-05-11,Dinner,Classic Burger,Burgers,83,77,6,0,13,0
+2025-05-11,Dinner,Veg Burger,Burgers,55,54,1,0,12,0
+2025-05-11,Dinner,Margherita Pizza,Pizza,78,86,0,8,17,0
+2025-05-11,Dinner,Paneer Wrap,Wraps,45,39,6,0,12,0
+2025-05-11,Dinner,French Fries,Sides,188,161,27,0,15,0
+2025-05-11,Dinner,Cold Coffee,Beverages,134,115,19,0,12,0
+2025-05-11,Dinner,Veg Sandwich,Sandwiches,20,18,2,0,7,0
+2025-05-11,Dinner,Brownie,Desserts,35,33,2,0,8,0
+2025-05-12,Lunch,Classic Burger,Burgers,33,36,0,3,11,0
+2025-05-12,Lunch,Veg Burger,Burgers,26,26,0,0,9,0
+2025-05-12,Lunch,Margherita Pizza,Pizza,20,21,0,1,16,0
+2025-05-12,Lunch,Paneer Wrap,Wraps,37,34,3,0,11,0
+2025-05-12,Lunch,French Fries,Sides,108,92,16,0,11,0
+2025-05-12,Lunch,Cold Coffee,Beverages,43,45,0,2,5,0
+2025-05-12,Lunch,Veg Sandwich,Sandwiches,32,30,2,0,8,0
+2025-05-12,Lunch,Brownie,Desserts,8,7,1,0,5,0
+2025-05-12,Dinner,Classic Burger,Burgers,56,55,1,0,11,0
+2025-05-12,Dinner,Veg Burger,Burgers,36,33,3,0,10,0
+2025-05-12,Dinner,Margherita Pizza,Pizza,64,53,11,0,15,1
+2025-05-12,Dinner,Paneer Wrap,Wraps,31,27,4,0,9,0
+2025-05-12,Dinner,French Fries,Sides,122,105,17,0,12,0
+2025-05-12,Dinner,Cold Coffee,Beverages,84,73,11,0,7,0
+2025-05-12,Dinner,Veg Sandwich,Sandwiches,15,15,0,0,5,0
+2025-05-12,Dinner,Brownie,Desserts,27,26,1,0,7,0
+2025-05-13,Lunch,Classic Burger,Burgers,40,37,3,0,11,0
+2025-05-13,Lunch,Veg Burger,Burgers,34,29,5,0,9,1
+2025-05-13,Lunch,Margherita Pizza,Pizza,54,39,15,0,15,1
+2025-05-13,Lunch,Paneer Wrap,Wraps,33,34,0,1,10,0
+2025-05-13,Lunch,French Fries,Sides,77,62,15,0,8,1
+2025-05-13,Lunch,Cold Coffee,Beverages,39,34,5,0,7,0
+2025-05-13,Lunch,Veg Sandwich,Sandwiches,32,30,2,0,8,0
+2025-05-13,Lunch,Brownie,Desserts,7,8,0,1,5,0
+2025-05-13,Dinner,Classic Burger,Burgers,67,54,13,0,13,1
+2025-05-13,Dinner,Veg Burger,Burgers,37,33,4,0,8,0
+2025-05-13,Dinner,Margherita Pizza,Pizza,77,64,13,0,17,1
+2025-05-13,Dinner,Paneer Wrap,Wraps,32,28,4,0,9,0
+2025-05-13,Dinner,French Fries,Sides,117,109,8,0,12,0
+2025-05-13,Dinner,Cold Coffee,Beverages,91,70,21,0,9,1
+2025-05-13,Dinner,Veg Sandwich,Sandwiches,19,18,1,0,7,0
+2025-05-13,Dinner,Brownie,Desserts,27,21,6,0,8,1
+2025-05-14,Lunch,Classic Burger,Burgers,49,44,5,0,14,0
+2025-05-14,Lunch,Veg Burger,Burgers,35,29,6,0,8,1
+2025-05-14,Lunch,Margherita Pizza,Pizza,36,30,6,0,13,1
+2025-05-14,Lunch,Paneer Wrap,Wraps,48,42,6,0,10,0
+2025-05-14,Lunch,French Fries,Sides,81,75,6,0,7,0
+2025-05-14,Lunch,Cold Coffee,Beverages,48,43,5,0,6,0
+2025-05-14,Lunch,Veg Sandwich,Sandwiches,30,28,2,0,8,0
+2025-05-14,Lunch,Brownie,Desserts,7,7,0,0,9,0
+2025-05-14,Dinner,Classic Burger,Burgers,55,55,0,0,13,0
+2025-05-14,Dinner,Veg Burger,Burgers,34,34,0,0,7,0
+2025-05-14,Dinner,Margherita Pizza,Pizza,69,55,14,0,17,1
+2025-05-14,Dinner,Paneer Wrap,Wraps,34,31,3,0,9,0
+2025-05-14,Dinner,French Fries,Sides,143,125,18,0,12,0
+2025-05-14,Dinner,Cold Coffee,Beverages,85,83,2,0,9,0
+2025-05-14,Dinner,Veg Sandwich,Sandwiches,18,17,1,0,8,0
+2025-05-14,Dinner,Brownie,Desserts,26,24,2,0,5,0
+2025-05-15,Lunch,Classic Burger,Burgers,35,38,0,3,12,0
+2025-05-15,Lunch,Veg Burger,Burgers,39,37,2,0,9,0
+2025-05-15,Lunch,Margherita Pizza,Pizza,34,32,2,0,14,0
+2025-05-15,Lunch,Paneer Wrap,Wraps,33,31,2,0,10,0
+2025-05-15,Lunch,French Fries,Sides,74,69,5,0,9,0
+2025-05-15,Lunch,Cold Coffee,Beverages,37,36,1,0,5,0
+2025-05-15,Lunch,Veg Sandwich,Sandwiches,35,33,2,0,9,0
+2025-05-15,Lunch,Brownie,Desserts,9,8,1,0,5,0
+2025-05-15,Dinner,Classic Burger,Burgers,60,55,5,0,10,0
+2025-05-15,Dinner,Veg Burger,Burgers,47,39,8,0,10,1
+2025-05-15,Dinner,Margherita Pizza,Pizza,64,65,0,1,16,0
+2025-05-15,Dinner,Paneer Wrap,Wraps,39,33,6,0,6,1
+2025-05-15,Dinner,French Fries,Sides,141,125,16,0,12,0
+2025-05-15,Dinner,Cold Coffee,Beverages,92,84,8,0,9,0
+2025-05-15,Dinner,Veg Sandwich,Sandwiches,15,17,0,2,5,0
+2025-05-15,Dinner,Brownie,Desserts,18,24,0,6,7,0
+2025-05-16,Lunch,Classic Burger,Burgers,79,68,11,0,11,0
+2025-05-16,Lunch,Veg Burger,Burgers,56,46,10,0,8,1
+2025-05-16,Lunch,Margherita Pizza,Pizza,38,37,1,0,11,0
+2025-05-16,Lunch,Paneer Wrap,Wraps,58,44,14,0,12,1
+2025-05-16,Lunch,French Fries,Sides,130,111,19,0,11,0
+2025-05-16,Lunch,Cold Coffee,Beverages,62,56,6,0,6,0
+2025-05-16,Lunch,Veg Sandwich,Sandwiches,36,36,0,0,9,0
+2025-05-16,Lunch,Brownie,Desserts,14,13,1,0,5,0
+2025-05-16,Dinner,Classic Burger,Burgers,98,89,9,0,16,0
+2025-05-16,Dinner,Veg Burger,Burgers,71,62,9,0,11,0
+2025-05-16,Dinner,Margherita Pizza,Pizza,91,78,13,0,18,0
+2025-05-16,Dinner,Paneer Wrap,Wraps,46,40,6,0,9,0
+2025-05-16,Dinner,French Fries,Sides,175,162,13,0,15,0
+2025-05-16,Dinner,Cold Coffee,Beverages,142,123,19,0,11,0
+2025-05-16,Dinner,Veg Sandwich,Sandwiches,14,15,0,1,8,0
+2025-05-16,Dinner,Brownie,Desserts,20,24,0,4,7,0
+2025-05-17,Lunch,Classic Burger,Burgers,58,53,5,0,11,0
+2025-05-17,Lunch,Veg Burger,Burgers,35,34,1,0,8,0
+2025-05-17,Lunch,Margherita Pizza,Pizza,51,49,2,0,15,0
+2025-05-17,Lunch,Paneer Wrap,Wraps,51,45,6,0,9,0
+2025-05-17,Lunch,French Fries,Sides,99,99,0,0,9,0
+2025-05-17,Lunch,Cold Coffee,Beverages,76,64,12,0,5,1
+2025-05-17,Lunch,Veg Sandwich,Sandwiches,41,34,7,0,9,1
+2025-05-17,Lunch,Brownie,Desserts,12,13,0,1,8,0
+2025-05-17,Dinner,Classic Burger,Burgers,92,85,7,0,15,0
+2025-05-17,Dinner,Veg Burger,Burgers,56,51,5,0,11,0
+2025-05-17,Dinner,Margherita Pizza,Pizza,95,104,0,9,18,0
+2025-05-17,Dinner,Paneer Wrap,Wraps,38,36,2,0,9,0
+2025-05-17,Dinner,French Fries,Sides,161,148,13,0,11,0
+2025-05-17,Dinner,Cold Coffee,Beverages,116,110,6,0,12,0
+2025-05-17,Dinner,Veg Sandwich,Sandwiches,26,26,0,0,9,0
+2025-05-17,Dinner,Brownie,Desserts,34,34,0,0,9,0
+2025-05-18,Lunch,Classic Burger,Burgers,72,68,4,0,14,0
+2025-05-18,Lunch,Veg Burger,Burgers,51,50,1,0,12,0
+2025-05-18,Lunch,Margherita Pizza,Pizza,64,56,8,0,16,0
+2025-05-18,Lunch,Paneer Wrap,Wraps,88,80,8,0,12,0
+2025-05-18,Lunch,French Fries,Sides,131,109,22,0,12,1
+2025-05-18,Lunch,Cold Coffee,Beverages,156,128,28,0,11,1
+2025-05-18,Lunch,Veg Sandwich,Sandwiches,48,46,2,0,10,0
+2025-05-18,Lunch,Brownie,Desserts,17,15,2,0,5,0
+2025-05-18,Dinner,Classic Burger,Burgers,80,68,12,0,15,0
+2025-05-18,Dinner,Veg Burger,Burgers,75,66,9,0,12,0
+2025-05-18,Dinner,Margherita Pizza,Pizza,148,132,16,0,21,0
+2025-05-18,Dinner,Paneer Wrap,Wraps,62,51,11,0,10,1
+2025-05-18,Dinner,French Fries,Sides,244,215,29,0,22,0
+2025-05-18,Dinner,Cold Coffee,Beverages,261,246,15,0,21,0
+2025-05-18,Dinner,Veg Sandwich,Sandwiches,25,23,2,0,8,0
+2025-05-18,Dinner,Brownie,Desserts,39,38,1,0,6,0
+2025-05-19,Lunch,Classic Burger,Burgers,46,41,5,0,11,0
+2025-05-19,Lunch,Veg Burger,Burgers,37,33,4,0,6,0
+2025-05-19,Lunch,Margherita Pizza,Pizza,32,33,0,1,14,0
+2025-05-19,Lunch,Paneer Wrap,Wraps,32,32,0,0,10,0
+2025-05-19,Lunch,French Fries,Sides,75,64,11,0,10,0
+2025-05-19,Lunch,Cold Coffee,Beverages,47,42,5,0,5,0
+2025-05-19,Lunch,Veg Sandwich,Sandwiches,31,28,3,0,11,0
+2025-05-19,Lunch,Brownie,Desserts,7,7,0,0,5,0
+2025-05-19,Dinner,Classic Burger,Burgers,45,43,2,0,10,0
+2025-05-19,Dinner,Veg Burger,Burgers,36,38,0,2,11,0
+2025-05-19,Dinner,Margherita Pizza,Pizza,66,60,6,0,17,0
+2025-05-19,Dinner,Paneer Wrap,Wraps,28,27,1,0,7,0
+2025-05-19,Dinner,French Fries,Sides,128,103,25,0,11,1
+2025-05-19,Dinner,Cold Coffee,Beverages,83,80,3,0,9,0
+2025-05-19,Dinner,Veg Sandwich,Sandwiches,19,16,3,0,7,0
+2025-05-19,Dinner,Brownie,Desserts,20,21,0,1,7,0
+2025-05-20,Lunch,Classic Burger,Burgers,34,33,1,0,13,0
+2025-05-20,Lunch,Veg Burger,Burgers,28,24,4,0,7,0
+2025-05-20,Lunch,Margherita Pizza,Pizza,27,24,3,0,12,0
+2025-05-20,Lunch,Paneer Wrap,Wraps,40,31,9,0,8,1
+2025-05-20,Lunch,French Fries,Sides,62,57,5,0,7,0
+2025-05-20,Lunch,Cold Coffee,Beverages,53,39,14,0,7,1
+2025-05-20,Lunch,Veg Sandwich,Sandwiches,32,28,4,0,9,0
+2025-05-20,Lunch,Brownie,Desserts,8,7,1,0,6,0
+2025-05-20,Dinner,Classic Burger,Burgers,62,52,10,0,11,1
+2025-05-20,Dinner,Veg Burger,Burgers,42,37,5,0,8,0
+2025-05-20,Dinner,Margherita Pizza,Pizza,54,54,0,0,16,0
+2025-05-20,Dinner,Paneer Wrap,Wraps,39,35,4,0,9,0
+2025-05-20,Dinner,French Fries,Sides,111,100,11,0,13,0
+2025-05-20,Dinner,Cold Coffee,Beverages,88,79,9,0,11,0
+2025-05-20,Dinner,Veg Sandwich,Sandwiches,17,16,1,0,8,0
+2025-05-20,Dinner,Brownie,Desserts,24,21,3,0,5,0
+2025-05-21,Lunch,Classic Burger,Burgers,50,47,3,0,11,0
+2025-05-21,Lunch,Veg Burger,Burgers,36,30,6,0,11,1
+2025-05-21,Lunch,Margherita Pizza,Pizza,39,32,7,0,15,1
+2025-05-21,Lunch,Paneer Wrap,Wraps,37,34,3,0,10,0
+2025-05-21,Lunch,French Fries,Sides,81,78,3,0,8,0
+2025-05-21,Lunch,Cold Coffee,Beverages,46,39,7,0,7,1
+2025-05-21,Lunch,Veg Sandwich,Sandwiches,30,28,2,0,9,0
+2025-05-21,Lunch,Brownie,Desserts,8,7,1,0,6,0
+2025-05-21,Dinner,Classic Burger,Burgers,52,47,5,0,12,0
+2025-05-21,Dinner,Veg Burger,Burgers,41,36,5,0,8,0
+2025-05-21,Dinner,Margherita Pizza,Pizza,61,57,4,0,17,0
+2025-05-21,Dinner,Paneer Wrap,Wraps,40,33,7,0,11,1
+2025-05-21,Dinner,French Fries,Sides,117,110,7,0,13,0
+2025-05-21,Dinner,Cold Coffee,Beverages,100,92,8,0,8,0
+2025-05-21,Dinner,Veg Sandwich,Sandwiches,14,15,0,1,8,0
+2025-05-21,Dinner,Brownie,Desserts,28,26,2,0,5,0
+2025-05-22,Lunch,Classic Burger,Burgers,35,34,1,0,9,0
+2025-05-22,Lunch,Veg Burger,Burgers,39,31,8,0,8,1
+2025-05-22,Lunch,Margherita Pizza,Pizza,33,32,1,0,17,0
+2025-05-22,Lunch,Paneer Wrap,Wraps,34,29,5,0,11,1
+2025-05-22,Lunch,French Fries,Sides,71,78,0,7,9,0
+2025-05-22,Lunch,Cold Coffee,Beverages,45,42,3,0,5,0
+2025-05-22,Lunch,Veg Sandwich,Sandwiches,28,28,0,0,8,0
+2025-05-22,Lunch,Brownie,Desserts,10,9,1,0,6,0
+2025-05-22,Dinner,Classic Burger,Burgers,55,55,0,0,11,0
+2025-05-22,Dinner,Veg Burger,Burgers,56,45,11,0,10,1
+2025-05-22,Dinner,Margherita Pizza,Pizza,82,76,6,0,16,0
+2025-05-22,Dinner,Paneer Wrap,Wraps,41,39,2,0,9,0
+2025-05-22,Dinner,French Fries,Sides,145,118,27,0,10,1
+2025-05-22,Dinner,Cold Coffee,Beverages,94,85,9,0,9,0
+2025-05-22,Dinner,Veg Sandwich,Sandwiches,15,14,1,0,6,0
+2025-05-22,Dinner,Brownie,Desserts,26,22,4,0,8,0
+2025-05-23,Lunch,Classic Burger,Burgers,54,43,11,0,14,1
+2025-05-23,Lunch,Veg Burger,Burgers,34,35,0,1,8,0
+2025-05-23,Lunch,Margherita Pizza,Pizza,34,34,0,0,13,0
+2025-05-23,Lunch,Paneer Wrap,Wraps,43,47,0,4,9,0
+2025-05-23,Lunch,French Fries,Sides,124,96,28,0,11,1
+2025-05-23,Lunch,Cold Coffee,Beverages,46,48,0,2,5,0
+2025-05-23,Lunch,Veg Sandwich,Sandwiches,33,26,7,0,7,1
+2025-05-23,Lunch,Brownie,Desserts,16,13,3,0,8,0
+2025-05-23,Dinner,Classic Burger,Burgers,61,56,5,0,12,0
+2025-05-23,Dinner,Veg Burger,Burgers,47,40,7,0,9,0
+2025-05-23,Dinner,Margherita Pizza,Pizza,62,63,0,1,17,0
+2025-05-23,Dinner,Paneer Wrap,Wraps,35,33,2,0,9,0
+2025-05-23,Dinner,French Fries,Sides,123,109,14,0,9,0
+2025-05-23,Dinner,Cold Coffee,Beverages,117,100,17,0,12,0
+2025-05-23,Dinner,Veg Sandwich,Sandwiches,21,20,1,0,5,0
+2025-05-23,Dinner,Brownie,Desserts,23,21,2,0,6,0
+2025-05-24,Lunch,Classic Burger,Burgers,58,53,5,0,12,0
+2025-05-24,Lunch,Veg Burger,Burgers,43,46,0,3,15,0
+2025-05-24,Lunch,Margherita Pizza,Pizza,58,53,5,0,14,0
+2025-05-24,Lunch,Paneer Wrap,Wraps,52,44,8,0,9,1
+2025-05-24,Lunch,French Fries,Sides,109,96,13,0,11,0
+2025-05-24,Lunch,Cold Coffee,Beverages,60,64,0,4,7,0
+2025-05-24,Lunch,Veg Sandwich,Sandwiches,54,47,7,0,7,0
+2025-05-24,Lunch,Brownie,Desserts,11,12,0,1,7,0
+2025-05-24,Dinner,Classic Burger,Burgers,76,73,3,0,13,0
+2025-05-24,Dinner,Veg Burger,Burgers,57,50,7,0,11,0
+2025-05-24,Dinner,Margherita Pizza,Pizza,81,67,14,0,17,1
+2025-05-24,Dinner,Paneer Wrap,Wraps,53,45,8,0,9,0
+2025-05-24,Dinner,French Fries,Sides,129,137,0,8,17,0
+2025-05-24,Dinner,Cold Coffee,Beverages,97,102,0,5,10,0
+2025-05-24,Dinner,Veg Sandwich,Sandwiches,27,28,0,1,7,0
+2025-05-24,Dinner,Brownie,Desserts,33,30,3,0,7,0
+2025-05-25,Lunch,Classic Burger,Burgers,68,67,1,0,12,0
+2025-05-25,Lunch,Veg Burger,Burgers,50,40,10,0,13,1
+2025-05-25,Lunch,Margherita Pizza,Pizza,50,45,5,0,14,0
+2025-05-25,Lunch,Paneer Wrap,Wraps,56,52,4,0,10,0
+2025-05-25,Lunch,French Fries,Sides,111,96,15,0,12,0
+2025-05-25,Lunch,Cold Coffee,Beverages,60,56,4,0,8,0
+2025-05-25,Lunch,Veg Sandwich,Sandwiches,40,39,1,0,10,0
+2025-05-25,Lunch,Brownie,Desserts,9,12,0,3,5,0
+2025-05-25,Dinner,Classic Burger,Burgers,107,92,15,0,12,0
+2025-05-25,Dinner,Veg Burger,Burgers,45,50,0,5,10,0
+2025-05-25,Dinner,Margherita Pizza,Pizza,98,90,8,0,18,0
+2025-05-25,Dinner,Paneer Wrap,Wraps,43,38,5,0,7,0
+2025-05-25,Dinner,French Fries,Sides,161,158,3,0,13,0
+2025-05-25,Dinner,Cold Coffee,Beverages,145,128,17,0,10,0
+2025-05-25,Dinner,Veg Sandwich,Sandwiches,26,23,3,0,8,0
+2025-05-25,Dinner,Brownie,Desserts,25,26,0,1,7,0
+2025-05-26,Lunch,Classic Burger,Burgers,31,27,4,0,9,0
+2025-05-26,Lunch,Veg Burger,Burgers,29,27,2,0,9,0
+2025-05-26,Lunch,Margherita Pizza,Pizza,32,29,3,0,12,0
+2025-05-26,Lunch,Paneer Wrap,Wraps,37,35,2,0,10,0
+2025-05-26,Lunch,French Fries,Sides,91,84,7,0,10,0
+2025-05-26,Lunch,Cold Coffee,Beverages,55,46,9,0,5,1
+2025-05-26,Lunch,Veg Sandwich,Sandwiches,36,33,3,0,9,0
+2025-05-26,Lunch,Brownie,Desserts,7,7,0,0,6,0
+2025-05-26,Dinner,Classic Burger,Burgers,48,47,1,0,11,0
+2025-05-26,Dinner,Veg Burger,Burgers,39,38,1,0,13,0
+2025-05-26,Dinner,Margherita Pizza,Pizza,57,58,0,1,15,0
+2025-05-26,Dinner,Paneer Wrap,Wraps,40,34,6,0,9,1
+2025-05-26,Dinner,French Fries,Sides,141,113,28,0,12,1
+2025-05-26,Dinner,Cold Coffee,Beverages,76,77,0,1,8,0
+2025-05-26,Dinner,Veg Sandwich,Sandwiches,16,15,1,0,7,0
+2025-05-26,Dinner,Brownie,Desserts,25,24,1,0,6,0
+2025-05-27,Lunch,Classic Burger,Burgers,36,33,3,0,9,0
+2025-05-27,Lunch,Veg Burger,Burgers,34,33,1,0,11,0
+2025-05-27,Lunch,Margherita Pizza,Pizza,29,27,2,0,16,0
+2025-05-27,Lunch,Paneer Wrap,Wraps,40,35,5,0,9,0
+2025-05-27,Lunch,French Fries,Sides,69,68,1,0,10,0
+2025-05-27,Lunch,Cold Coffee,Beverages,42,32,10,0,7,1
+2025-05-27,Lunch,Veg Sandwich,Sandwiches,30,29,1,0,6,0
+2025-05-27,Lunch,Brownie,Desserts,6,7,0,1,5,0
+2025-05-27,Dinner,Classic Burger,Burgers,59,53,6,0,10,0
+2025-05-27,Dinner,Veg Burger,Burgers,32,27,5,0,11,1
+2025-05-27,Dinner,Margherita Pizza,Pizza,53,44,9,0,12,1
+2025-05-27,Dinner,Paneer Wrap,Wraps,27,24,3,0,5,0
+2025-05-27,Dinner,French Fries,Sides,107,94,13,0,10,0
+2025-05-27,Dinner,Cold Coffee,Beverages,74,63,11,0,8,0
+2025-05-27,Dinner,Veg Sandwich,Sandwiches,19,17,2,0,7,0
+2025-05-27,Dinner,Brownie,Desserts,26,23,3,0,6,0
+2025-05-28,Lunch,Classic Burger,Burgers,45,34,11,0,9,1
+2025-05-28,Lunch,Veg Burger,Burgers,39,38,1,0,10,0
+2025-05-28,Lunch,Margherita Pizza,Pizza,36,34,2,0,15,0
+2025-05-28,Lunch,Paneer Wrap,Wraps,46,43,3,0,10,0
+2025-05-28,Lunch,French Fries,Sides,85,71,14,0,9,1
+2025-05-28,Lunch,Cold Coffee,Beverages,39,39,0,0,6,0
+2025-05-28,Lunch,Veg Sandwich,Sandwiches,31,31,0,0,7,0
+2025-05-28,Lunch,Brownie,Desserts,7,7,0,0,6,0
+2025-05-28,Dinner,Classic Burger,Burgers,59,61,0,2,14,0
+2025-05-28,Dinner,Veg Burger,Burgers,37,38,0,1,7,0
+2025-05-28,Dinner,Margherita Pizza,Pizza,50,53,0,3,14,0
+2025-05-28,Dinner,Paneer Wrap,Wraps,34,28,6,0,11,1
+2025-05-28,Dinner,French Fries,Sides,165,131,34,0,15,1
+2025-05-28,Dinner,Cold Coffee,Beverages,82,89,0,7,11,0
+2025-05-28,Dinner,Veg Sandwich,Sandwiches,14,13,1,0,8,0
+2025-05-28,Dinner,Brownie,Desserts,27,25,2,0,5,0
+2025-05-29,Lunch,Classic Burger,Burgers,46,47,0,1,10,0
+2025-05-29,Lunch,Veg Burger,Burgers,35,31,4,0,8,0
+2025-05-29,Lunch,Margherita Pizza,Pizza,30,30,0,0,13,0
+2025-05-29,Lunch,Paneer Wrap,Wraps,46,39,7,0,8,1
+2025-05-29,Lunch,French Fries,Sides,86,82,4,0,10,0
+2025-05-29,Lunch,Cold Coffee,Beverages,49,42,7,0,6,0
+2025-05-29,Lunch,Veg Sandwich,Sandwiches,33,30,3,0,12,0
+2025-05-29,Lunch,Brownie,Desserts,9,11,0,2,7,0
+2025-05-29,Dinner,Classic Burger,Burgers,61,62,0,1,13,0
+2025-05-29,Dinner,Veg Burger,Burgers,44,37,7,0,10,1
+2025-05-29,Dinner,Margherita Pizza,Pizza,68,65,3,0,14,0
+2025-05-29,Dinner,Paneer Wrap,Wraps,34,33,1,0,12,0
+2025-05-29,Dinner,French Fries,Sides,123,114,9,0,13,0
+2025-05-29,Dinner,Cold Coffee,Beverages,94,86,8,0,9,0
+2025-05-29,Dinner,Veg Sandwich,Sandwiches,11,12,0,1,6,0
+2025-05-29,Dinner,Brownie,Desserts,26,22,4,0,6,0
+2025-05-30,Lunch,Classic Burger,Burgers,49,46,3,0,10,0
+2025-05-30,Lunch,Veg Burger,Burgers,50,40,10,0,12,1
+2025-05-30,Lunch,Margherita Pizza,Pizza,34,29,5,0,13,1
+2025-05-30,Lunch,Paneer Wrap,Wraps,42,44,0,2,8,0
+2025-05-30,Lunch,French Fries,Sides,100,108,0,8,9,0
+2025-05-30,Lunch,Cold Coffee,Beverages,65,58,7,0,7,0
+2025-05-30,Lunch,Veg Sandwich,Sandwiches,53,49,4,0,8,0
+2025-05-30,Lunch,Brownie,Desserts,13,11,2,0,5,0
+2025-05-30,Dinner,Classic Burger,Burgers,94,77,17,0,11,1
+2025-05-30,Dinner,Veg Burger,Burgers,74,54,20,0,11,1
+2025-05-30,Dinner,Margherita Pizza,Pizza,66,54,12,0,17,1
+2025-05-30,Dinner,Paneer Wrap,Wraps,36,35,1,0,9,0
+2025-05-30,Dinner,French Fries,Sides,151,172,0,21,16,0
+2025-05-30,Dinner,Cold Coffee,Beverages,102,89,13,0,9,0
+2025-05-30,Dinner,Veg Sandwich,Sandwiches,22,20,2,0,7,0
+2025-05-30,Dinner,Brownie,Desserts,29,33,0,4,6,0
+2025-05-31,Lunch,Classic Burger,Burgers,61,55,6,0,15,0
+2025-05-31,Lunch,Veg Burger,Burgers,51,42,9,0,11,1
+2025-05-31,Lunch,Margherita Pizza,Pizza,52,49,3,0,18,0
+2025-05-31,Lunch,Paneer Wrap,Wraps,59,57,2,0,12,0
+2025-05-31,Lunch,French Fries,Sides,123,106,17,0,14,0
+2025-05-31,Lunch,Cold Coffee,Beverages,77,65,12,0,8,0
+2025-05-31,Lunch,Veg Sandwich,Sandwiches,58,45,13,0,8,1
+2025-05-31,Lunch,Brownie,Desserts,16,15,1,0,5,0
+2025-05-31,Dinner,Classic Burger,Burgers,105,87,18,0,16,1
+2025-05-31,Dinner,Veg Burger,Burgers,58,56,2,0,11,0
+2025-05-31,Dinner,Margherita Pizza,Pizza,88,82,6,0,18,0
+2025-05-31,Dinner,Paneer Wrap,Wraps,50,49,1,0,9,0
+2025-05-31,Dinner,French Fries,Sides,170,138,32,0,15,1
+2025-05-31,Dinner,Cold Coffee,Beverages,114,99,15,0,9,0
+2025-05-31,Dinner,Veg Sandwich,Sandwiches,29,25,4,0,8,0
+2025-05-31,Dinner,Brownie,Desserts,34,34,0,0,7,0
+2025-06-01,Lunch,Classic Burger,Burgers,49,47,2,0,11,0
+2025-06-01,Lunch,Veg Burger,Burgers,52,45,7,0,7,0
+2025-06-01,Lunch,Margherita Pizza,Pizza,60,49,11,0,15,1
+2025-06-01,Lunch,Paneer Wrap,Wraps,81,64,17,0,12,1
+2025-06-01,Lunch,French Fries,Sides,113,94,19,0,11,1
+2025-06-01,Lunch,Cold Coffee,Beverages,71,65,6,0,8,0
+2025-06-01,Lunch,Veg Sandwich,Sandwiches,41,40,1,0,12,0
+2025-06-01,Lunch,Brownie,Desserts,14,14,0,0,6,0
+2025-06-01,Dinner,Classic Burger,Burgers,98,90,8,0,14,0
+2025-06-01,Dinner,Veg Burger,Burgers,69,62,7,0,14,0
+2025-06-01,Dinner,Margherita Pizza,Pizza,91,86,5,0,18,0
+2025-06-01,Dinner,Paneer Wrap,Wraps,39,39,0,0,11,0
+2025-06-01,Dinner,French Fries,Sides,183,176,7,0,18,0
+2025-06-01,Dinner,Cold Coffee,Beverages,102,100,2,0,13,0
+2025-06-01,Dinner,Veg Sandwich,Sandwiches,24,22,2,0,9,0
+2025-06-01,Dinner,Brownie,Desserts,46,41,5,0,9,0
+2025-06-02,Lunch,Classic Burger,Burgers,47,39,8,0,13,1
+2025-06-02,Lunch,Veg Burger,Burgers,30,32,0,2,9,0
+2025-06-02,Lunch,Margherita Pizza,Pizza,27,26,1,0,13,0
+2025-06-02,Lunch,Paneer Wrap,Wraps,48,43,5,0,11,0
+2025-06-02,Lunch,French Fries,Sides,80,78,2,0,11,0
+2025-06-02,Lunch,Cold Coffee,Beverages,56,43,13,0,7,1
+2025-06-02,Lunch,Veg Sandwich,Sandwiches,34,34,0,0,9,0
+2025-06-02,Lunch,Brownie,Desserts,8,8,0,0,5,0
+2025-06-02,Dinner,Classic Burger,Burgers,68,64,4,0,11,0
+2025-06-02,Dinner,Veg Burger,Burgers,42,38,4,0,11,0
+2025-06-02,Dinner,Margherita Pizza,Pizza,78,62,16,0,15,1
+2025-06-02,Dinner,Paneer Wrap,Wraps,40,35,5,0,13,0
+2025-06-02,Dinner,French Fries,Sides,150,125,25,0,12,1
+2025-06-02,Dinner,Cold Coffee,Beverages,99,77,22,0,6,1
+2025-06-02,Dinner,Veg Sandwich,Sandwiches,15,16,0,1,5,0
+2025-06-02,Dinner,Brownie,Desserts,19,19,0,0,9,0
+2025-06-03,Lunch,Classic Burger,Burgers,40,33,7,0,8,1
+2025-06-03,Lunch,Veg Burger,Burgers,27,26,1,0,8,0
+2025-06-03,Lunch,Margherita Pizza,Pizza,31,31,0,0,13,0
+2025-06-03,Lunch,Paneer Wrap,Wraps,40,36,4,0,8,0
+2025-06-03,Lunch,French Fries,Sides,91,82,9,0,7,0
+2025-06-03,Lunch,Cold Coffee,Beverages,32,29,3,0,5,0
+2025-06-03,Lunch,Veg Sandwich,Sandwiches,25,25,0,0,9,0
+2025-06-03,Lunch,Brownie,Desserts,8,8,0,0,7,0
+2025-06-03,Dinner,Classic Burger,Burgers,63,56,7,0,12,0
+2025-06-03,Dinner,Veg Burger,Burgers,30,42,0,12,11,0
+2025-06-03,Dinner,Margherita Pizza,Pizza,64,57,7,0,17,0
+2025-06-03,Dinner,Paneer Wrap,Wraps,31,27,4,0,10,0
+2025-06-03,Dinner,French Fries,Sides,126,113,13,0,15,0
+2025-06-03,Dinner,Cold Coffee,Beverages,108,84,24,0,9,1
+2025-06-03,Dinner,Veg Sandwich,Sandwiches,13,13,0,0,6,0
+2025-06-03,Dinner,Brownie,Desserts,19,20,0,1,5,0
+2025-06-04,Lunch,Classic Burger,Burgers,47,41,6,0,13,0
+2025-06-04,Lunch,Veg Burger,Burgers,32,35,0,3,6,0
+2025-06-04,Lunch,Margherita Pizza,Pizza,36,31,5,0,14,0
+2025-06-04,Lunch,Paneer Wrap,Wraps,40,34,6,0,9,1
+2025-06-04,Lunch,French Fries,Sides,68,67,1,0,7,0
+2025-06-04,Lunch,Cold Coffee,Beverages,56,45,11,0,9,1
+2025-06-04,Lunch,Veg Sandwich,Sandwiches,34,27,7,0,10,1
+2025-06-04,Lunch,Brownie,Desserts,7,7,0,0,5,0
+2025-06-04,Dinner,Classic Burger,Burgers,72,55,17,0,11,1
+2025-06-04,Dinner,Veg Burger,Burgers,47,45,2,0,12,0
+2025-06-04,Dinner,Margherita Pizza,Pizza,60,60,0,0,18,0
+2025-06-04,Dinner,Paneer Wrap,Wraps,37,32,5,0,8,0
+2025-06-04,Dinner,French Fries,Sides,128,110,18,0,13,0
+2025-06-04,Dinner,Cold Coffee,Beverages,96,81,15,0,6,0
+2025-06-04,Dinner,Veg Sandwich,Sandwiches,18,17,1,0,6,0
+2025-06-04,Dinner,Brownie,Desserts,30,25,5,0,7,1
+2025-06-05,Lunch,Classic Burger,Burgers,49,42,7,0,10,0
+2025-06-05,Lunch,Veg Burger,Burgers,28,25,3,0,5,0
+2025-06-05,Lunch,Margherita Pizza,Pizza,41,34,7,0,15,1
+2025-06-05,Lunch,Paneer Wrap,Wraps,37,34,3,0,9,0
+2025-06-05,Lunch,French Fries,Sides,74,63,11,0,6,0
+2025-06-05,Lunch,Cold Coffee,Beverages,38,36,2,0,8,0
+2025-06-05,Lunch,Veg Sandwich,Sandwiches,32,30,2,0,12,0
+2025-06-05,Lunch,Brownie,Desserts,9,7,2,0,7,0
+2025-06-05,Dinner,Classic Burger,Burgers,59,52,7,0,14,0
+2025-06-05,Dinner,Veg Burger,Burgers,38,37,1,0,9,0
+2025-06-05,Dinner,Margherita Pizza,Pizza,60,50,10,0,16,1
+2025-06-05,Dinner,Paneer Wrap,Wraps,36,29,7,0,11,1
+2025-06-05,Dinner,French Fries,Sides,102,103,0,1,9,0
+2025-06-05,Dinner,Cold Coffee,Beverages,79,77,2,0,9,0
+2025-06-05,Dinner,Veg Sandwich,Sandwiches,16,16,0,0,7,0
+2025-06-05,Dinner,Brownie,Desserts,29,26,3,0,7,0
+2025-06-06,Lunch,Classic Burger,Burgers,43,42,1,0,7,0
+2025-06-06,Lunch,Veg Burger,Burgers,32,30,2,0,10,0
+2025-06-06,Lunch,Margherita Pizza,Pizza,28,26,2,0,11,0
+2025-06-06,Lunch,Paneer Wrap,Wraps,37,39,0,2,13,0
+2025-06-06,Lunch,French Fries,Sides,70,66,4,0,10,0
+2025-06-06,Lunch,Cold Coffee,Beverages,65,57,8,0,8,0
+2025-06-06,Lunch,Veg Sandwich,Sandwiches,37,34,3,0,8,0
+2025-06-06,Lunch,Brownie,Desserts,13,12,1,0,6,0
+2025-06-06,Dinner,Classic Burger,Burgers,61,58,3,0,13,0
+2025-06-06,Dinner,Veg Burger,Burgers,47,42,5,0,11,0
+2025-06-06,Dinner,Margherita Pizza,Pizza,83,73,10,0,18,0
+2025-06-06,Dinner,Paneer Wrap,Wraps,35,34,1,0,13,0
+2025-06-06,Dinner,French Fries,Sides,136,128,8,0,11,0
+2025-06-06,Dinner,Cold Coffee,Beverages,78,76,2,0,8,0
+2025-06-06,Dinner,Veg Sandwich,Sandwiches,14,14,0,0,8,0
+2025-06-06,Dinner,Brownie,Desserts,28,25,3,0,7,0
+2025-06-07,Lunch,Classic Burger,Burgers,94,85,9,0,16,0
+2025-06-07,Lunch,Veg Burger,Burgers,82,67,15,0,12,1
+2025-06-07,Lunch,Margherita Pizza,Pizza,76,58,18,0,17,1
+2025-06-07,Lunch,Paneer Wrap,Wraps,68,68,0,0,10,0
+2025-06-07,Lunch,French Fries,Sides,121,101,20,0,10,1
+2025-06-07,Lunch,Cold Coffee,Beverages,132,108,24,0,13,1
+2025-06-07,Lunch,Veg Sandwich,Sandwiches,78,70,8,0,8,0
+2025-06-07,Lunch,Brownie,Desserts,15,16,0,1,5,0
+2025-06-07,Dinner,Classic Burger,Burgers,172,138,34,0,19,1
+2025-06-07,Dinner,Veg Burger,Burgers,90,86,4,0,13,0
+2025-06-07,Dinner,Margherita Pizza,Pizza,122,108,14,0,19,0
+2025-06-07,Dinner,Paneer Wrap,Wraps,70,61,9,0,12,0
+2025-06-07,Dinner,French Fries,Sides,194,193,1,0,19,0
+2025-06-07,Dinner,Cold Coffee,Beverages,154,168,0,14,11,0
+2025-06-07,Dinner,Veg Sandwich,Sandwiches,27,28,0,1,5,0
+2025-06-07,Dinner,Brownie,Desserts,56,53,3,0,10,0
+2025-06-08,Lunch,Classic Burger,Burgers,64,56,8,0,12,0
+2025-06-08,Lunch,Veg Burger,Burgers,47,44,3,0,12,0
+2025-06-08,Lunch,Margherita Pizza,Pizza,38,38,0,0,15,0
+2025-06-08,Lunch,Paneer Wrap,Wraps,52,48,4,0,12,0
+2025-06-08,Lunch,French Fries,Sides,121,107,14,0,10,0
+2025-06-08,Lunch,Cold Coffee,Beverages,81,75,6,0,8,0
+2025-06-08,Lunch,Veg Sandwich,Sandwiches,57,50,7,0,11,0
+2025-06-08,Lunch,Brownie,Desserts,14,13,1,0,5,0
+2025-06-08,Dinner,Classic Burger,Burgers,80,74,6,0,13,0
+2025-06-08,Dinner,Veg Burger,Burgers,44,47,0,3,10,0
+2025-06-08,Dinner,Margherita Pizza,Pizza,76,81,0,5,19,0
+2025-06-08,Dinner,Paneer Wrap,Wraps,38,28,10,0,8,1
+2025-06-08,Dinner,French Fries,Sides,206,175,31,0,16,0
+2025-06-08,Dinner,Cold Coffee,Beverages,111,100,11,0,9,0
+2025-06-08,Dinner,Veg Sandwich,Sandwiches,22,21,1,0,7,0
+2025-06-08,Dinner,Brownie,Desserts,38,35,3,0,5,0
+2025-06-09,Lunch,Classic Burger,Burgers,47,48,0,1,12,0
+2025-06-09,Lunch,Veg Burger,Burgers,32,25,7,0,8,1
+2025-06-09,Lunch,Margherita Pizza,Pizza,34,30,4,0,16,0
+2025-06-09,Lunch,Paneer Wrap,Wraps,39,34,5,0,10,0
+2025-06-09,Lunch,French Fries,Sides,77,80,0,3,8,0
+2025-06-09,Lunch,Cold Coffee,Beverages,52,53,0,1,6,0
+2025-06-09,Lunch,Veg Sandwich,Sandwiches,27,29,0,2,8,0
+2025-06-09,Lunch,Brownie,Desserts,11,9,2,0,6,0
+2025-06-09,Dinner,Classic Burger,Burgers,55,51,4,0,12,0
+2025-06-09,Dinner,Veg Burger,Burgers,30,33,0,3,7,0
+2025-06-09,Dinner,Margherita Pizza,Pizza,64,51,13,0,16,1
+2025-06-09,Dinner,Paneer Wrap,Wraps,30,28,2,0,9,0
+2025-06-09,Dinner,French Fries,Sides,134,126,8,0,14,0
+2025-06-09,Dinner,Cold Coffee,Beverages,96,87,9,0,9,0
+2025-06-09,Dinner,Veg Sandwich,Sandwiches,21,19,2,0,5,0
+2025-06-09,Dinner,Brownie,Desserts,23,21,2,0,9,0
+2025-06-10,Lunch,Classic Burger,Burgers,47,41,6,0,10,0
+2025-06-10,Lunch,Veg Burger,Burgers,41,35,6,0,9,0
+2025-06-10,Lunch,Margherita Pizza,Pizza,28,27,1,0,12,0
+2025-06-10,Lunch,Paneer Wrap,Wraps,47,40,7,0,13,0
+2025-06-10,Lunch,French Fries,Sides,79,75,4,0,7,0
+2025-06-10,Lunch,Cold Coffee,Beverages,39,39,0,0,5,0
+2025-06-10,Lunch,Veg Sandwich,Sandwiches,40,36,4,0,12,0
+2025-06-10,Lunch,Brownie,Desserts,8,9,0,1,5,0
+2025-06-10,Dinner,Classic Burger,Burgers,40,45,0,5,11,0
+2025-06-10,Dinner,Veg Burger,Burgers,45,41,4,0,9,0
+2025-06-10,Dinner,Margherita Pizza,Pizza,59,51,8,0,14,0
+2025-06-10,Dinner,Paneer Wrap,Wraps,27,24,3,0,11,0
+2025-06-10,Dinner,French Fries,Sides,113,97,16,0,11,0
+2025-06-10,Dinner,Cold Coffee,Beverages,81,73,8,0,7,0
+2025-06-10,Dinner,Veg Sandwich,Sandwiches,18,17,1,0,6,0
+2025-06-10,Dinner,Brownie,Desserts,27,25,2,0,6,0
+2025-06-11,Lunch,Classic Burger,Burgers,28,28,0,0,10,0
+2025-06-11,Lunch,Veg Burger,Burgers,35,34,1,0,9,0
+2025-06-11,Lunch,Margherita Pizza,Pizza,35,31,4,0,12,0
+2025-06-11,Lunch,Paneer Wrap,Wraps,41,33,8,0,10,1
+2025-06-11,Lunch,French Fries,Sides,69,63,6,0,9,0
+2025-06-11,Lunch,Cold Coffee,Beverages,44,40,4,0,9,0
+2025-06-11,Lunch,Veg Sandwich,Sandwiches,31,29,2,0,7,0
+2025-06-11,Lunch,Brownie,Desserts,9,9,0,0,6,0
+2025-06-11,Dinner,Classic Burger,Burgers,70,54,16,0,13,1
+2025-06-11,Dinner,Veg Burger,Burgers,55,45,10,0,12,1
+2025-06-11,Dinner,Margherita Pizza,Pizza,75,63,12,0,15,1
+2025-06-11,Dinner,Paneer Wrap,Wraps,40,32,8,0,7,1
+2025-06-11,Dinner,French Fries,Sides,120,127,0,7,17,0
+2025-06-11,Dinner,Cold Coffee,Beverages,69,69,0,0,9,0
+2025-06-11,Dinner,Veg Sandwich,Sandwiches,17,17,0,0,7,0
+2025-06-11,Dinner,Brownie,Desserts,21,21,0,0,8,0
+2025-06-12,Lunch,Classic Burger,Burgers,47,43,4,0,14,0
+2025-06-12,Lunch,Veg Burger,Burgers,29,27,2,0,8,0
+2025-06-12,Lunch,Margherita Pizza,Pizza,42,36,6,0,16,0
+2025-06-12,Lunch,Paneer Wrap,Wraps,55,45,10,0,9,1
+2025-06-12,Lunch,French Fries,Sides,80,78,2,0,10,0
+2025-06-12,Lunch,Cold Coffee,Beverages,50,42,8,0,6,1
+2025-06-12,Lunch,Veg Sandwich,Sandwiches,33,30,3,0,8,0
+2025-06-12,Lunch,Brownie,Desserts,9,9,0,0,8,0
+2025-06-12,Dinner,Classic Burger,Burgers,53,54,0,1,9,0
+2025-06-12,Dinner,Veg Burger,Burgers,42,36,6,0,10,0
+2025-06-12,Dinner,Margherita Pizza,Pizza,59,52,7,0,16,0
+2025-06-12,Dinner,Paneer Wrap,Wraps,27,24,3,0,8,0
+2025-06-12,Dinner,French Fries,Sides,115,102,13,0,13,0
+2025-06-12,Dinner,Cold Coffee,Beverages,89,82,7,0,11,0
+2025-06-12,Dinner,Veg Sandwich,Sandwiches,19,20,0,1,8,0
+2025-06-12,Dinner,Brownie,Desserts,23,21,2,0,5,0
+2025-06-13,Lunch,Classic Burger,Burgers,66,60,6,0,13,0
+2025-06-13,Lunch,Veg Burger,Burgers,42,37,5,0,9,0
+2025-06-13,Lunch,Margherita Pizza,Pizza,38,38,0,0,16,0
+2025-06-13,Lunch,Paneer Wrap,Wraps,45,45,0,0,9,0
+2025-06-13,Lunch,French Fries,Sides,124,106,18,0,12,0
+2025-06-13,Lunch,Cold Coffee,Beverages,86,75,11,0,9,0
+2025-06-13,Lunch,Veg Sandwich,Sandwiches,40,41,0,1,10,0
+2025-06-13,Lunch,Brownie,Desserts,13,12,1,0,5,0
+2025-06-13,Dinner,Classic Burger,Burgers,113,107,6,0,17,0
+2025-06-13,Dinner,Veg Burger,Burgers,54,50,4,0,9,0
+2025-06-13,Dinner,Margherita Pizza,Pizza,66,74,0,8,19,0
+2025-06-13,Dinner,Paneer Wrap,Wraps,40,40,0,0,13,0
+2025-06-13,Dinner,French Fries,Sides,163,162,1,0,18,0
+2025-06-13,Dinner,Cold Coffee,Beverages,120,120,0,0,10,0
+2025-06-13,Dinner,Veg Sandwich,Sandwiches,25,23,2,0,8,0
+2025-06-13,Dinner,Brownie,Desserts,34,28,6,0,5,1
+2025-06-14,Lunch,Classic Burger,Burgers,70,55,15,0,11,1
+2025-06-14,Lunch,Veg Burger,Burgers,61,52,9,0,9,0
+2025-06-14,Lunch,Margherita Pizza,Pizza,52,48,4,0,13,0
+2025-06-14,Lunch,Paneer Wrap,Wraps,62,58,4,0,11,0
+2025-06-14,Lunch,French Fries,Sides,107,93,14,0,11,0
+2025-06-14,Lunch,Cold Coffee,Beverages,73,69,4,0,8,0
+2025-06-14,Lunch,Veg Sandwich,Sandwiches,56,51,5,0,10,0
+2025-06-14,Lunch,Brownie,Desserts,17,17,0,0,9,0
+2025-06-14,Dinner,Classic Burger,Burgers,79,80,0,1,14,0
+2025-06-14,Dinner,Veg Burger,Burgers,61,46,15,0,9,1
+2025-06-14,Dinner,Margherita Pizza,Pizza,102,101,1,0,17,0
+2025-06-14,Dinner,Paneer Wrap,Wraps,45,40,5,0,12,0
+2025-06-14,Dinner,French Fries,Sides,127,121,6,0,11,0
+2025-06-14,Dinner,Cold Coffee,Beverages,126,119,7,0,13,0
+2025-06-14,Dinner,Veg Sandwich,Sandwiches,24,24,0,0,5,0
+2025-06-14,Dinner,Brownie,Desserts,34,29,5,0,8,1
+2025-06-15,Lunch,Classic Burger,Burgers,95,88,7,0,15,0
+2025-06-15,Lunch,Veg Burger,Burgers,54,63,0,9,12,0
+2025-06-15,Lunch,Margherita Pizza,Pizza,47,49,0,2,17,0
+2025-06-15,Lunch,Paneer Wrap,Wraps,81,69,12,0,12,0
+2025-06-15,Lunch,French Fries,Sides,148,127,21,0,12,0
+2025-06-15,Lunch,Cold Coffee,Beverages,86,80,6,0,11,0
+2025-06-15,Lunch,Veg Sandwich,Sandwiches,48,47,1,0,9,0
+2025-06-15,Lunch,Brownie,Desserts,17,13,4,0,5,0
+2025-06-15,Dinner,Classic Burger,Burgers,131,119,12,0,14,0
+2025-06-15,Dinner,Veg Burger,Burgers,92,86,6,0,12,0
+2025-06-15,Dinner,Margherita Pizza,Pizza,121,103,18,0,19,0
+2025-06-15,Dinner,Paneer Wrap,Wraps,60,53,7,0,10,0
+2025-06-15,Dinner,French Fries,Sides,209,178,31,0,18,0
+2025-06-15,Dinner,Cold Coffee,Beverages,190,168,22,0,14,0
+2025-06-15,Dinner,Veg Sandwich,Sandwiches,24,25,0,1,8,0
+2025-06-15,Dinner,Brownie,Desserts,45,39,6,0,9,0
+2025-06-16,Lunch,Classic Burger,Burgers,34,30,4,0,9,0
+2025-06-16,Lunch,Veg Burger,Burgers,35,33,2,0,9,0
+2025-06-16,Lunch,Margherita Pizza,Pizza,25,25,0,0,12,0
+2025-06-16,Lunch,Paneer Wrap,Wraps,45,37,8,0,9,1
+2025-06-16,Lunch,French Fries,Sides,60,62,0,2,7,0
+2025-06-16,Lunch,Cold Coffee,Beverages,59,49,10,0,8,1
+2025-06-16,Lunch,Veg Sandwich,Sandwiches,34,31,3,0,6,0
+2025-06-16,Lunch,Brownie,Desserts,12,11,1,0,8,0
+2025-06-16,Dinner,Classic Burger,Burgers,82,71,11,0,12,0
+2025-06-16,Dinner,Veg Burger,Burgers,51,47,4,0,9,0
+2025-06-16,Dinner,Margherita Pizza,Pizza,58,57,1,0,12,0
+2025-06-16,Dinner,Paneer Wrap,Wraps,26,23,3,0,7,0
+2025-06-16,Dinner,French Fries,Sides,88,88,0,0,10,0
+2025-06-16,Dinner,Cold Coffee,Beverages,76,73,3,0,6,0
+2025-06-16,Dinner,Veg Sandwich,Sandwiches,17,16,1,0,5,0
+2025-06-16,Dinner,Brownie,Desserts,19,19,0,0,6,0
+2025-06-17,Lunch,Classic Burger,Burgers,28,29,0,1,9,0
+2025-06-17,Lunch,Veg Burger,Burgers,28,30,0,2,10,0
+2025-06-17,Lunch,Margherita Pizza,Pizza,32,30,2,0,13,0
+2025-06-17,Lunch,Paneer Wrap,Wraps,45,41,4,0,11,0
+2025-06-17,Lunch,French Fries,Sides,64,65,0,1,7,0
+2025-06-17,Lunch,Cold Coffee,Beverages,43,37,6,0,6,0
+2025-06-17,Lunch,Veg Sandwich,Sandwiches,33,30,3,0,6,0
+2025-06-17,Lunch,Brownie,Desserts,9,7,2,0,5,0
+2025-06-17,Dinner,Classic Burger,Burgers,80,64,16,0,13,1
+2025-06-17,Dinner,Veg Burger,Burgers,31,29,2,0,10,0
+2025-06-17,Dinner,Margherita Pizza,Pizza,58,55,3,0,16,0
+2025-06-17,Dinner,Paneer Wrap,Wraps,22,21,1,0,10,0
+2025-06-17,Dinner,French Fries,Sides,80,83,0,3,7,0
+2025-06-17,Dinner,Cold Coffee,Beverages,83,74,9,0,8,0
+2025-06-17,Dinner,Veg Sandwich,Sandwiches,16,15,1,0,7,0
+2025-06-17,Dinner,Brownie,Desserts,24,21,3,0,5,0
+2025-06-18,Lunch,Classic Burger,Burgers,40,40,0,0,13,0
+2025-06-18,Lunch,Veg Burger,Burgers,36,34,2,0,9,0
+2025-06-18,Lunch,Margherita Pizza,Pizza,46,38,8,0,15,1
+2025-06-18,Lunch,Paneer Wrap,Wraps,44,44,0,0,12,0
+2025-06-18,Lunch,French Fries,Sides,49,56,0,7,9,0
+2025-06-18,Lunch,Cold Coffee,Beverages,46,40,6,0,5,0
+2025-06-18,Lunch,Veg Sandwich,Sandwiches,29,27,2,0,7,0
+2025-06-18,Lunch,Brownie,Desserts,6,6,0,0,5,0
+2025-06-18,Dinner,Classic Burger,Burgers,69,53,16,0,13,1
+2025-06-18,Dinner,Veg Burger,Burgers,51,46,5,0,12,0
+2025-06-18,Dinner,Margherita Pizza,Pizza,73,64,9,0,14,0
+2025-06-18,Dinner,Paneer Wrap,Wraps,38,32,6,0,10,1
+2025-06-18,Dinner,French Fries,Sides,104,84,20,0,8,1
+2025-06-18,Dinner,Cold Coffee,Beverages,70,71,0,1,10,0
+2025-06-18,Dinner,Veg Sandwich,Sandwiches,20,19,1,0,6,0
+2025-06-18,Dinner,Brownie,Desserts,23,20,3,0,8,0
+2025-06-19,Lunch,Classic Burger,Burgers,38,37,1,0,12,0
+2025-06-19,Lunch,Veg Burger,Burgers,38,33,5,0,10,0
+2025-06-19,Lunch,Margherita Pizza,Pizza,30,28,2,0,14,0
+2025-06-19,Lunch,Paneer Wrap,Wraps,48,39,9,0,10,1
+2025-06-19,Lunch,French Fries,Sides,62,66,0,4,7,0
+2025-06-19,Lunch,Cold Coffee,Beverages,52,48,4,0,5,0
+2025-06-19,Lunch,Veg Sandwich,Sandwiches,34,29,5,0,10,1
+2025-06-19,Lunch,Brownie,Desserts,11,11,0,0,8,0
+2025-06-19,Dinner,Classic Burger,Burgers,85,68,17,0,13,1
+2025-06-19,Dinner,Veg Burger,Burgers,44,38,6,0,9,0
+2025-06-19,Dinner,Margherita Pizza,Pizza,64,51,13,0,13,1
+2025-06-19,Dinner,Paneer Wrap,Wraps,26,27,0,1,10,0
+2025-06-19,Dinner,French Fries,Sides,109,105,4,0,15,0
+2025-06-19,Dinner,Cold Coffee,Beverages,71,76,0,5,9,0
+2025-06-19,Dinner,Veg Sandwich,Sandwiches,16,15,1,0,6,0
+2025-06-19,Dinner,Brownie,Desserts,22,24,0,2,5,0
+2025-06-20,Lunch,Classic Burger,Burgers,48,42,6,0,14,0
+2025-06-20,Lunch,Veg Burger,Burgers,43,35,8,0,10,1
+2025-06-20,Lunch,Margherita Pizza,Pizza,30,34,0,4,15,0
+2025-06-20,Lunch,Paneer Wrap,Wraps,48,46,2,0,9,0
+2025-06-20,Lunch,French Fries,Sides,89,81,8,0,10,0
+2025-06-20,Lunch,Cold Coffee,Beverages,57,53,4,0,6,0
+2025-06-20,Lunch,Veg Sandwich,Sandwiches,35,31,4,0,8,0
+2025-06-20,Lunch,Brownie,Desserts,10,10,0,0,5,0
+2025-06-20,Dinner,Classic Burger,Burgers,72,62,10,0,14,0
+2025-06-20,Dinner,Veg Burger,Burgers,31,29,2,0,8,0
+2025-06-20,Dinner,Margherita Pizza,Pizza,64,61,3,0,16,0
+2025-06-20,Dinner,Paneer Wrap,Wraps,46,38,8,0,9,1
+2025-06-20,Dinner,French Fries,Sides,119,111,8,0,8,0
+2025-06-20,Dinner,Cold Coffee,Beverages,115,101,14,0,9,0
+2025-06-20,Dinner,Veg Sandwich,Sandwiches,18,15,3,0,8,0
+2025-06-20,Dinner,Brownie,Desserts,25,24,1,0,7,0
+2025-06-21,Lunch,Classic Burger,Burgers,61,57,4,0,13,0
+2025-06-21,Lunch,Veg Burger,Burgers,52,42,10,0,12,1
+2025-06-21,Lunch,Margherita Pizza,Pizza,62,51,11,0,16,1
+2025-06-21,Lunch,Paneer Wrap,Wraps,58,57,1,0,8,0
+2025-06-21,Lunch,French Fries,Sides,114,96,18,0,9,0
+2025-06-21,Lunch,Cold Coffee,Beverages,69,64,5,0,7,0
+2025-06-21,Lunch,Veg Sandwich,Sandwiches,49,40,9,0,8,1
+2025-06-21,Lunch,Brownie,Desserts,8,8,0,0,5,0
+2025-06-21,Dinner,Classic Burger,Burgers,108,93,15,0,14,0
+2025-06-21,Dinner,Veg Burger,Burgers,59,53,6,0,12,0
+2025-06-21,Dinner,Margherita Pizza,Pizza,88,83,5,0,17,0
+2025-06-21,Dinner,Paneer Wrap,Wraps,53,48,5,0,11,0
+2025-06-21,Dinner,French Fries,Sides,178,149,29,0,15,1
+2025-06-21,Dinner,Cold Coffee,Beverages,127,141,0,14,15,0
+2025-06-21,Dinner,Veg Sandwich,Sandwiches,23,20,3,0,8,0
+2025-06-21,Dinner,Brownie,Desserts,30,30,0,0,6,0
+2025-06-22,Lunch,Classic Burger,Burgers,57,57,0,0,12,0
+2025-06-22,Lunch,Veg Burger,Burgers,51,48,3,0,12,0
+2025-06-22,Lunch,Margherita Pizza,Pizza,64,56,8,0,15,0
+2025-06-22,Lunch,Paneer Wrap,Wraps,47,48,0,1,13,0
+2025-06-22,Lunch,French Fries,Sides,101,93,8,0,11,0
+2025-06-22,Lunch,Cold Coffee,Beverages,61,61,0,0,5,0
+2025-06-22,Lunch,Veg Sandwich,Sandwiches,40,42,0,2,11,0
+2025-06-22,Lunch,Brownie,Desserts,12,10,2,0,6,0
+2025-06-22,Dinner,Classic Burger,Burgers,84,81,3,0,14,0
+2025-06-22,Dinner,Veg Burger,Burgers,55,45,10,0,11,1
+2025-06-22,Dinner,Margherita Pizza,Pizza,61,63,0,2,16,0
+2025-06-22,Dinner,Paneer Wrap,Wraps,52,52,0,0,8,0
+2025-06-22,Dinner,French Fries,Sides,163,126,37,0,14,1
+2025-06-22,Dinner,Cold Coffee,Beverages,117,110,7,0,12,0
+2025-06-22,Dinner,Veg Sandwich,Sandwiches,30,26,4,0,9,0
+2025-06-22,Dinner,Brownie,Desserts,44,45,0,1,8,0
+2025-06-23,Lunch,Classic Burger,Burgers,46,38,8,0,9,1
+2025-06-23,Lunch,Veg Burger,Burgers,24,25,0,1,8,0
+2025-06-23,Lunch,Margherita Pizza,Pizza,29,28,1,0,14,0
+2025-06-23,Lunch,Paneer Wrap,Wraps,47,42,5,0,10,0
+2025-06-23,Lunch,French Fries,Sides,81,75,6,0,10,0
+2025-06-23,Lunch,Cold Coffee,Beverages,51,43,8,0,5,1
+2025-06-23,Lunch,Veg Sandwich,Sandwiches,24,23,1,0,6,0
+2025-06-23,Lunch,Brownie,Desserts,7,8,0,1,5,0
+2025-06-23,Dinner,Classic Burger,Burgers,68,56,12,0,12,1
+2025-06-23,Dinner,Veg Burger,Burgers,40,41,0,1,8,0
+2025-06-23,Dinner,Margherita Pizza,Pizza,47,49,0,2,16,0
+2025-06-23,Dinner,Paneer Wrap,Wraps,26,26,0,0,10,0
+2025-06-23,Dinner,French Fries,Sides,131,102,29,0,9,1
+2025-06-23,Dinner,Cold Coffee,Beverages,113,91,22,0,9,1
+2025-06-23,Dinner,Veg Sandwich,Sandwiches,15,15,0,0,9,0
+2025-06-23,Dinner,Brownie,Desserts,22,21,1,0,5,0
+2025-06-24,Lunch,Classic Burger,Burgers,35,31,4,0,11,0
+2025-06-24,Lunch,Veg Burger,Burgers,30,29,1,0,10,0
+2025-06-24,Lunch,Margherita Pizza,Pizza,36,34,2,0,12,0
+2025-06-24,Lunch,Paneer Wrap,Wraps,41,33,8,0,9,1
+2025-06-24,Lunch,French Fries,Sides,85,84,1,0,9,0
+2025-06-24,Lunch,Cold Coffee,Beverages,46,48,0,2,7,0
+2025-06-24,Lunch,Veg Sandwich,Sandwiches,27,25,2,0,8,0
+2025-06-24,Lunch,Brownie,Desserts,9,10,0,1,8,0
+2025-06-24,Dinner,Classic Burger,Burgers,72,66,6,0,16,0
+2025-06-24,Dinner,Veg Burger,Burgers,39,39,0,0,8,0
+2025-06-24,Dinner,Margherita Pizza,Pizza,55,46,9,0,15,1
+2025-06-24,Dinner,Paneer Wrap,Wraps,29,27,2,0,10,0
+2025-06-24,Dinner,French Fries,Sides,104,89,15,0,10,0
+2025-06-24,Dinner,Cold Coffee,Beverages,79,66,13,0,7,1
+2025-06-24,Dinner,Veg Sandwich,Sandwiches,12,13,0,1,10,0
+2025-06-24,Dinner,Brownie,Desserts,24,20,4,0,5,0
+2025-06-25,Lunch,Classic Burger,Burgers,46,45,1,0,14,0
+2025-06-25,Lunch,Veg Burger,Burgers,35,32,3,0,10,0
+2025-06-25,Lunch,Margherita Pizza,Pizza,35,33,2,0,15,0
+2025-06-25,Lunch,Paneer Wrap,Wraps,39,34,5,0,9,0
+2025-06-25,Lunch,French Fries,Sides,90,81,9,0,10,0
+2025-06-25,Lunch,Cold Coffee,Beverages,57,48,9,0,7,1
+2025-06-25,Lunch,Veg Sandwich,Sandwiches,32,32,0,0,6,0
+2025-06-25,Lunch,Brownie,Desserts,5,5,0,0,6,0
+2025-06-25,Dinner,Classic Burger,Burgers,69,58,11,0,12,1
+2025-06-25,Dinner,Veg Burger,Burgers,38,36,2,0,9,0
+2025-06-25,Dinner,Margherita Pizza,Pizza,72,57,15,0,18,1
+2025-06-25,Dinner,Paneer Wrap,Wraps,39,37,2,0,11,0
+2025-06-25,Dinner,French Fries,Sides,116,96,20,0,13,1
+2025-06-25,Dinner,Cold Coffee,Beverages,99,84,15,0,8,0
+2025-06-25,Dinner,Veg Sandwich,Sandwiches,14,16,0,2,8,0
+2025-06-25,Dinner,Brownie,Desserts,19,19,0,0,5,0
+2025-06-26,Lunch,Classic Burger,Burgers,24,23,1,0,10,0
+2025-06-26,Lunch,Veg Burger,Burgers,45,37,8,0,8,1
+2025-06-26,Lunch,Margherita Pizza,Pizza,34,33,1,0,15,0
+2025-06-26,Lunch,Paneer Wrap,Wraps,34,30,4,0,9,0
+2025-06-26,Lunch,French Fries,Sides,73,80,0,7,10,0
+2025-06-26,Lunch,Cold Coffee,Beverages,57,52,5,0,5,0
+2025-06-26,Lunch,Veg Sandwich,Sandwiches,29,26,3,0,11,0
+2025-06-26,Lunch,Brownie,Desserts,6,6,0,0,6,0
+2025-06-26,Dinner,Classic Burger,Burgers,56,57,0,1,12,0
+2025-06-26,Dinner,Veg Burger,Burgers,46,44,2,0,10,0
+2025-06-26,Dinner,Margherita Pizza,Pizza,61,63,0,2,15,0
+2025-06-26,Dinner,Paneer Wrap,Wraps,40,32,8,0,10,1
+2025-06-26,Dinner,French Fries,Sides,98,101,0,3,7,0
+2025-06-26,Dinner,Cold Coffee,Beverages,103,88,15,0,9,0
+2025-06-26,Dinner,Veg Sandwich,Sandwiches,22,18,4,0,9,0
+2025-06-26,Dinner,Brownie,Desserts,23,25,0,2,9,0
+2025-06-27,Lunch,Classic Burger,Burgers,56,57,0,1,11,0
+2025-06-27,Lunch,Veg Burger,Burgers,47,45,2,0,11,0
+2025-06-27,Lunch,Margherita Pizza,Pizza,55,49,6,0,16,0
+2025-06-27,Lunch,Paneer Wrap,Wraps,45,45,0,0,9,0
+2025-06-27,Lunch,French Fries,Sides,139,125,14,0,13,0
+2025-06-27,Lunch,Cold Coffee,Beverages,69,66,3,0,10,0
+2025-06-27,Lunch,Veg Sandwich,Sandwiches,45,38,7,0,10,1
+2025-06-27,Lunch,Brownie,Desserts,9,11,0,2,7,0
+2025-06-27,Dinner,Classic Burger,Burgers,113,90,23,0,13,1
+2025-06-27,Dinner,Veg Burger,Burgers,41,43,0,2,14,0
+2025-06-27,Dinner,Margherita Pizza,Pizza,80,76,4,0,18,0
+2025-06-27,Dinner,Paneer Wrap,Wraps,46,43,3,0,10,0
+2025-06-27,Dinner,French Fries,Sides,117,110,7,0,11,0
+2025-06-27,Dinner,Cold Coffee,Beverages,101,114,0,13,12,0
+2025-06-27,Dinner,Veg Sandwich,Sandwiches,22,21,1,0,10,0
+2025-06-27,Dinner,Brownie,Desserts,26,26,0,0,7,0
+2025-06-28,Lunch,Classic Burger,Burgers,58,55,3,0,13,0
+2025-06-28,Lunch,Veg Burger,Burgers,48,43,5,0,11,0
+2025-06-28,Lunch,Margherita Pizza,Pizza,46,46,0,0,13,0
+2025-06-28,Lunch,Paneer Wrap,Wraps,51,42,9,0,9,1
+2025-06-28,Lunch,French Fries,Sides,136,116,20,0,12,0
+2025-06-28,Lunch,Cold Coffee,Beverages,50,47,3,0,6,0
+2025-06-28,Lunch,Veg Sandwich,Sandwiches,45,44,1,0,10,0
+2025-06-28,Lunch,Brownie,Desserts,12,11,1,0,6,0
+2025-06-28,Dinner,Classic Burger,Burgers,85,81,4,0,15,0
+2025-06-28,Dinner,Veg Burger,Burgers,68,56,12,0,10,1
+2025-06-28,Dinner,Margherita Pizza,Pizza,111,85,26,0,18,1
+2025-06-28,Dinner,Paneer Wrap,Wraps,44,42,2,0,11,0
+2025-06-28,Dinner,French Fries,Sides,130,118,12,0,11,0
+2025-06-28,Dinner,Cold Coffee,Beverages,115,107,8,0,11,0
+2025-06-28,Dinner,Veg Sandwich,Sandwiches,31,28,3,0,5,0
+2025-06-28,Dinner,Brownie,Desserts,25,28,0,3,8,0
+2025-06-29,Lunch,Classic Burger,Burgers,64,58,6,0,13,0
+2025-06-29,Lunch,Veg Burger,Burgers,48,43,5,0,12,0
+2025-06-29,Lunch,Margherita Pizza,Pizza,57,52,5,0,15,0
+2025-06-29,Lunch,Paneer Wrap,Wraps,45,41,4,0,12,0
+2025-06-29,Lunch,French Fries,Sides,138,118,20,0,13,0
+2025-06-29,Lunch,Cold Coffee,Beverages,76,72,4,0,10,0
+2025-06-29,Lunch,Veg Sandwich,Sandwiches,47,40,7,0,9,0
+2025-06-29,Lunch,Brownie,Desserts,12,11,1,0,6,0
+2025-06-29,Dinner,Classic Burger,Burgers,123,105,18,0,16,0
+2025-06-29,Dinner,Veg Burger,Burgers,41,39,2,0,9,0
+2025-06-29,Dinner,Margherita Pizza,Pizza,66,68,0,2,17,0
+2025-06-29,Dinner,Paneer Wrap,Wraps,41,40,1,0,9,0
+2025-06-29,Dinner,French Fries,Sides,165,156,9,0,18,0
+2025-06-29,Dinner,Cold Coffee,Beverages,84,78,6,0,6,0
+2025-06-29,Dinner,Veg Sandwich,Sandwiches,24,20,4,0,10,0
+2025-06-29,Dinner,Brownie,Desserts,32,27,5,0,8,1
