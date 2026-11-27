@@ -2,6 +2,19 @@
 
 All records in this package are synthetic and generated for development/testing. They are not real restaurant records.
 
+## Run the dashboard
+
+From the repository root, serve the static `web/` directory with Python:
+
+```powershell
+python -m http.server 8765 --bind 127.0.0.1 --directory web
+```
+
+If you use the project's Windows virtual environment, replace `python` with
+`.\.venv\Scripts\python.exe`. Open [the local dashboard](http://127.0.0.1:8765/).
+The browser loads the exported model and holdout data from `web/data/`.
+See [the training guide](training/README.md) to regenerate the exports.
+
 ## Files
 - `orders.csv`: order quantities by date, time period, menu item and order channel.
 - `menu_preparation.csv`: quantities prepared/sold, unsold and shortage quantities, and preparation time by date, period and item.
