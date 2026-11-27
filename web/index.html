@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#191511">
+  <meta name="description" content="Seven-day demand forecasts and kitchen prep planning for quick service restaurants.">
+  <title>RushIQ | Kitchen Forecasts</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./js/forecast.js"></script>
+  <script defer src="./js/optimizer.js"></script>
+  <script defer src="./js/backtest.js"></script>
+  <script defer src="./js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to dashboard</a>
+  <div class="shell">
+    <aside class="sidebar glass">
+      <a class="brand" href="#forecast" aria-label="RushIQ forecast">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <strong>Rush<span>IQ</span></strong>
+      </a>
+      <nav class="nav" aria-label="Dashboard">
+        <a href="#forecast" data-view="forecast" aria-current="page"><span class="nav-icon icon-forecast" aria-hidden="true"></span>Forecast</a>
+        <a href="#kitchen" data-view="kitchen"><span class="nav-icon icon-kitchen" aria-hidden="true"></span>Kitchen plan</a>
+        <a href="#backtest" data-view="backtest"><span class="nav-icon icon-backtest" aria-hidden="true"></span>Backtest</a>
+      </nav>
+      <div class="sidebar-footer">
+        <span class="status-dot" aria-hidden="true"></span>
+        <div><strong>Demo workspace</strong><small>Synthetic order history</small></div>
+      </div>
+    </aside>
+
+    <main id="main" tabindex="-1">
+      <header class="topbar glass">
+        <div class="topbar-label"><span class="sun-icon" aria-hidden="true">◷</span> Kitchen operations</div>
+        <span id="forecast-window" class="window-label"></span>
+      </header>
+      <p id="load-status" class="glass load-status" role="status">Loading the demand model…</p>
+      <div id="dashboard" hidden>
+        <header class="page-header">
+          <div><h1 id="page-title">Demand overview</h1><p id="page-description">Plan the next seven days of lunch and dinner service.</p></div>
+          <div class="service-switch" id="service-switch" role="group" aria-label="Service">
+            <button type="button" data-service="Lunch" aria-pressed="true">Lunch</button>
+            <button type="button" data-service="Dinner" aria-pressed="false">Dinner</button>
+          </div>
+        </header>
+        <div id="planning">
+          <section id="metrics" class="metrics" aria-label="Selected service summary"></section>
+          <div id="forecast-panels" class="dashboard-grid">
+            <section class="glass panel forecast-panel" aria-labelledby="weekly-title">
+              <header class="panel-header">
+                <div><h2 id="weekly-title">Weekly demand</h2><p>Forecast item units per service</p></div>
+                <details class="scenarios" id="scenario-control">
+                  <summary>Scenario</summary>
+                  <fieldset class="glass scenario-options">
+                    <legend class="visually-hidden">Selected date scenario</legend>
+                    <p id="scenario-date"></p>
+                    <label><input type="checkbox" data-flag="is_holiday"> Holiday</label>
+                    <label><input type="checkbox" data-flag="is_festival_or_event"> Event</label>
+                    <label><input type="checkbox" data-flag="is_promotion"> Promotion</label>
+                  </fieldset>
+                </details>
+              </header>
+              <div id="weekly-chart"></div>
+            </section>
+            <section class="glass panel alert-panel" aria-labelledby="alerts-title">
+              <header class="panel-header"><div><h2 id="alerts-title">Service alerts</h2><p id="alert-date"></p></div><span id="alert-count" class="pill"></span></header>
+              <ul id="alert-list" class="alert-list" tabindex="0" aria-label="Alerts for the selected service"></ul>
+            </section>
+          </div>
+          <section class="glass panel prep-panel" aria-labelledby="prep-title">
+            <header class="panel-header prep-header">
+              <div><h2 id="prep-title">Kitchen prep plan</h2><p id="prep-period"></p></div>
+              <label id="date-control" class="compact-label">Date <select id="prep-date"></select></label>
+            </header>
+            <div class="table-wrap" role="region" aria-labelledby="prep-title" tabindex="0">
+              <table>
+                <thead><tr><th scope="col">Menu item</th><th scope="col">Forecast</th><th scope="col">Prep units</th><th scope="col">Shortage risk</th><th scope="col">Leftover risk</th><th scope="col">Why</th></tr></thead>
+                <tbody id="prep-rows"></tbody>
+              </table>
+            </div>
+            <p class="panel-note">Prep uses a 2:1 shortage-to-waste penalty. Risks are estimated from 30 past forecast errors per item and service.</p>
+          </section>
+          <section id="waste-panel" class="glass panel" hidden aria-labelledby="waste-title">
+            <header class="panel-header"><div><h2 id="waste-title">Historical leftovers</h2><p id="waste-description"></p></div></header>
+            <div class="table-wrap"><table><thead><tr><th scope="col">Menu item</th><th scope="col">Unsold units</th><th scope="col">Share of prep</th></tr></thead><tbody id="waste-rows"></tbody></table></div>
+          </section>
+        </div>
+        <section id="backtest-view" hidden aria-label="Backtest results">
+          <div id="backtest-metrics" class="metrics"></div>
+          <section class="glass panel">
+            <header class="panel-header backtest-header">
+              <div><h2>Recorded vs. simulated prep</h2><p>Held-out item and service records</p></div>
+              <div class="filters">
+                <label class="compact-label">Service <select id="backtest-service"><option value="">All services</option><option>Lunch</option><option>Dinner</option></select></label>
+                <label class="compact-label">Item <select id="backtest-item"><option value="">All items</option></select></label>
+              </div>
+            </header>
+            <p id="backtest-result" class="replay-result"></p>
+            <div class="table-wrap replay-table" role="region" aria-label="Held-out item records" tabindex="0">
+              <table>
+                <thead><tr><th scope="col">Date</th><th scope="col">Service</th><th scope="col">Item</th><th scope="col">Actual</th><th scope="col">Forecast</th><th scope="col">Recorded prep</th><th scope="col">Suggested prep</th><th scope="col">Recorded shortage / waste</th><th scope="col">Simulated shortage / waste</th></tr></thead>
+                <tbody id="backtest-rows"></tbody>
+              </table>
+            </div>
+          </section>
+        </section>
+        <footer class="page-footer">Forecasts use synthetic orders from January–June 2025. Item units represent demand and unsold units represent waste.</footer>
+      </div>
+    </main>
+  </div>
+</body>
+</html>
